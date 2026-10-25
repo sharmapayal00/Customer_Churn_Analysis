@@ -1,0 +1,66 @@
+-- Query 1 Total Customers
+
+EVALUATE
+ROW("Total Customers",
+DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]))
+
+-- Query 2 Total Churned Customers
+
+EVALUATE
+ROW("Churned Customers", CALCULATE(DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]),'Clean_Churn_Data'[Churn] = "Yes"))
+
+-- Total Retained customers
+
+EVALUATE 
+ROW("Retained Customers", CALCULATE(DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]),'Clean_Churn_Data'[Churn] = "No"))
+
+-- Customer Churn Rate (%)
+
+EVALUATE
+VAR TotalCustomers = DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID])
+VAR ChurnedCustomers = CALCULATE(DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]),'Clean_Churn_Data'[Churn] = "Yes")
+RETURN
+ROW("Total Customers",
+TotalCustomers, "Churned Customers",
+ChurnedCustomers,
+"churn Rate (%)",
+DIVIDE(ChurnedCustomers,TotalCustomers, 0) * 100)
+
+-- Contract-Wise Customer Analysis
+
+EVALUATE
+SUMMARIZECOLUMNS('Clean_Churn_Data'[Contract_Type], "Total Customers", 
+DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]),
+"Churned Customers", 
+CALCULATE(DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]),'Clean_Churn_Data'[Churn] = "Yes"),
+"Churn Rate (%)",
+DIVIDE(CALCULATE(DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]),
+'Clean_Churn_Data'[Churn] = "Yes"),
+DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]), 0) * 100)
+
+--Gender-Wise Churn Analysis
+
+EVALUATE
+SUMMARIZECOLUMNS('Clean_Churn_Data'[Gender],
+"Total Customers",
+DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]),
+"Churned Customers", CALCULATE(DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]),'Clean_Churn_Data'[Churn] = "Yes"))
+
+-- Internet Service-Wise Churn Analysis
+
+EVALUATE
+SUMMARIZECOLUMNS('Clean_Churn_Data'[Internet_Service], "Total Customers",
+DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]), "Churned Customers",CALCULATE(
+	DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]),
+	'Clean_Churn_Data'[Churn] = "Yes"),
+	"Churn Rate (%)", DIVIDE(CALCULATE(
+		DISTINCTCOUNT(Clean_Churn_Data[Customer_Name]),
+		'Clean_Churn_Data'[Churn] = "Yes"),
+		DISTINCTCOUNT('Clean_Churn_Data'[Customer_ID]), 0 )* 100)
+		
+-- Top 10 Customers by Customer Value
+		
+EVALUATE
+TOPN(10,
+SUMMARIZE('Clean_Churn_Data','Clean_Churn_Data'[Customer_ID],"Customer Value",
+MAX('Clean_Churn_Data'[Customer_Value])),[Customer Value],DESC)
