@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Gender,Age,State,City,Tenure_Months,Subscription_Type,Monthly_Charges,Total_Charges,Contract_Type,Payment_Method,Internet_Service,Tech_Support,Senior_Citizen,Departments,Churn,Last_Interaction_Date,Senior_Flag,Churn_Flag,Monthly_Revenue,Tenure_Group,Customer_Value
+CUST00001,Sneha Joshi,Other,47,Maharashtra,Pune,16,Premium,1403.71,21732.26,Monthly,Bank Transfer,Fiber Optic,Yes,No,Retention,No,3/16/2024,Adult,0,1403.71,13-24 month,22459.36
+CUST00002,Ananya Verma,Female,49,Telangana,Hyderabad,4,Premium,1213.34,4894.56,Two Year,Credit Card,Fiber Optic,No,No,Network Operations,No,3/19/2025,Adult,0,1213.34,0-12 month,4853.36
+CUST00003,Priya Verma,Male,69,Karnataka,Bengaluru,17,Premium,802.77,14312.09,Monthly,Cash,No Internet,Yes,Yes,Sales,Yes,8/9/2026,Senior,1,802.77,13-24 month,13647.09
+CUST00004,Sneha Saxena,Male,47,Uttar Pradesh,Lucknow,25,Standard,589.2,15362.26,One Year,Credit Card,Fiber Optic,No,No,Sales,Yes,7/5/2026,Adult,1,589.2,25-48 month,14730
+CUST00005,Ananya Das,Female,3,Telangana,Hyderabad,51,Basic,2153.53,102621.45,Monthly,Credit Card,Fiber Optic,No,Yes,IT Support,No,2/24/2025,Adult,0,2153.53,49-72 month,109830.03
+CUST00006,Vihaan Jain,Other,20,Telangana,Hyderabad,34,Basic,1865.82,65967.7,Two Year,Unknown,,No,No,Customer Service,Yes,4/7/2024,Adult,1,1865.82,25-48 month,63437.88
+CUST00007,Arjun Roy,Male,73,Maharashtra,Mumbai,15,Premium,403.59,6242.52,Two Year,Cash,No Internet,Yes,Yes,Customer Service,No,6/3/2025,Senior,0,403.59,13-24 month,6053.85
+CUST00008,Arjun Joshi,Male,100,Rajasthan,Jaipur,18,Basic,1461.86,28325.05,Two Year,Bank Transfer,5G,No,Yes,Retention,No,1/27/2025,Senior,0,1461.86,13-24 month,26313.48
+CUST00009,Kavya Patel,Female,46,Rajasthan,Jaipur,39,Standard,1986.67,82358.69,One Year,Cash,Fiber Optic,No,No,Network Operations,,4/27/2025,Adult,,1986.67,25-48 month,77480.13
+CUST00010,Amit Gupta,Other,68,Uttar Pradesh,Lucknow,12,Standard,1609.63,19985.7,Two Year,Bank Transfer,No Internet,No,Yes,,No,1/18/2025,Senior,0,1609.63,0-12 month,19315.56
+CUST00011,Priya Mehta,Other,25,Uttar Pradesh,Mathura,6,Premium,740.73,4124.56,One Year,UPI,,No,Yes,Network Operations,No,8/6/2024,Adult,0,740.73,0-12 month,4444.38
+CUST00012,Vihaan Kumar,Other,76,Punjab,Ludhiana,47,Basic,302.99,15227.45,Two Year,Unknown,No Internet,Yes,No,Technical Support,Yes,1/12/2026,Senior,1,302.99,25-48 month,14240.53
+CUST00013,Ishita Singh,Other,56,Odisha,Bhubaneswar,4,Standard,2021.91,7590.02,Monthly,Bank Transfer,5G,No,No,Billing,No,2/28/2025,Adult,0,2021.91,0-12 month,8087.64
+CUST00014,Nisha Verma,Other,70,Delhi,New Delhi,44,Standard,765.75,32118.78,Monthly,Auto Debit,No Internet,Yes,Yes,Technical Support,No,10/12/2024,Senior,0,765.75,25-48 month,33693
+CUST00015,Ishita Patel,other,50.23,Punjab,Ludhiana,56,Standard,2363.75,136327.08,Two Year,Debit Card,DSL,No,No,Sales,Yes,6/3/2025,Adult,1,2363.75,49-72 month,132370
+CUST00016,Vihaan Roy,Other,57,Karnataka,Bengaluru,56,Basic,2055.91,115261.37,Two Year,Bank Transfer,5G,No,No,IT Support,Yes,12/17/2024,Adult,1,2055.91,49-72 month,115130.96
+CUST00017,Meera Roy,Female,43,Haryana,Gurugram,31,Basic,929.08,28564.15,Monthly,UPI,DSL,Yes,No,Sales,Yes,11/5/2025,Adult,1,929.08,25-48 month,28801.48
+CUST00018,Riya Khan,Male,66,Uttar Pradesh,Agra,43,Standard,676.06,28004.47,Monthly,Auto Debit,,No,Yes,Network Operations,,12/14/2024,Senior,,676.06,25-48 month,29070.58
+CUST00019,Arjun Verma,Male,72,Uttar Pradesh,Mathura,41,Standard,459.81,19683.93,One Year,Unknown,5G,No,Yes,Retention,No,6/3/2025,Senior,0,459.81,25-48 month,18852.21
+CUST00020,Rahul Roy,Male,79,Uttar Pradesh,Agra,20,Premium,865.25,16953.36,Monthly,Debit Card,5G,No,Yes,Retention,No,10/23/2025,Senior,0,865.25,13-24 month,17305
+CUST00021,Vihaan Saxena,Male,32,Bihar,Patna,66,Premium,1408.815,40434.54,Two Year,Cash,5G,Yes,No,Accounts,No,5/20/2024,Adult,0,1408.815,49-72 month,92981.79
+CUST00022,Neha Malhotra,Other,78,Uttar Pradesh,Kanpur,20,Standard,1137.12,22055.8,Monthly,Debit Card,DSL,No,Yes,Network Operations,Yes,8/11/2024,Senior,1,1137.12,13-24 month,22742.4
+CUST00023,Dev Roy,Other,76,West Bengal,Kolkata,30,Premium,1158.2,32146.56,One Year,Bank Transfer,5G,No,Yes,Billing,No,9/15/2026,Senior,0,1158.2,25-48 month,34746
+CUST00024,Ananya Patel,Other,19,Punjab,Ludhiana,46,Basic,1006.48,44142.82,Monthly,Debit Card,DSL,No,No,IT Support,No,1/10/2025,Adult,0,1006.48,25-48 month,46298.08
+CUST00025,Neha Joshi,Female,4,Bihar,Patna,59,Basic,442.69,24039.6,One Year,Cash,5G,Yes,No,Technical Support,Yes,6/27/2024,Adult,1,442.69,49-72 month,26118.71
+CUST00026,Sneha Saxena,Other,59,Gujarat,Ahmedabad,65,Standard,1911,129142.12,Two Year,Debit Card,Fiber Optic,Yes,No,Network Operations,Yes,2/21/2025,Adult,1,1911,49-72 month,124215
+CUST00027,Amit Saxena,Male,27,West Bengal,Kolkata,49,Standard,1850.12,88360.81,Two Year,UPI,No Internet,Yes,No,IT Support,No,4/6/2026,Adult,0,1850.12,49-72 month,90655.88
+CUST00028,Amit Kumar,Other,43,Uttar Pradesh,Lucknow,69,Standard,936.07,66313.76,One Year,UPI,5G,Yes,No,Sales,No,11/22/2024,Adult,0,936.07,49-72 month,64588.83
+CUST00029,Ananya Malhotra,Other,64,Uttar Pradesh,Agra,65,Basic,1334.97,87600.42,Two Year,Cash,DSL,No,Yes,Sales,No,11/21/2025,Senior,0,1334.97,49-72 month,86773.05
+CUST00030,Isha Mehta,Other,150,Bihar,Patna,35,Standard,2478.48,83611.31,One Year,Bank Transfer,Fiber Optic,No,No,Customer Service,No,4/4/2024,Senior,0,2478.48,25-48 month,86746.8
+CUST00031,Kabir Sharma,Other,19,Punjab,Ludhiana,6,Basic,2410.32,15153.77,Monthly,Debit Card,Fiber Optic,Yes,No,Customer Service,No,3/25/2026,Adult,0,2410.32,0-12 month,14461.92
+CUST00032,Neha Malhotra,Male,61,Karnataka,Bengaluru,35,Basic,1852.68,68879.37,Monthly,Credit Card,No Internet,Yes,Yes,Retention,No,8/10/2024,Senior,0,1852.68,25-48 month,64843.8
+CUST00033,Aanya Sharma,Male,50,Karnataka,Bengaluru,31,Basic,563.1,18695.25,One Year,Credit Card,Fiber Optic,Yes,No,Accounts,No,10/22/2025,Adult,0,563.1,25-48 month,17456.1
+CUST00034,Rohan Sharma,Male,72,Haryana,Gurugram,38,Basic,694.33,28129.92,One Year,Auto Debit,Fiber Optic,No,Yes,Billing,No,9/15/2026,Senior,0,694.33,25-48 month,26384.54
+CUST00035,Ishita Das,Female,40,Haryana,Gurugram,26,Basic,1379.36,37936.94,One Year,UPI,5G,No,No,Retention,No,2/26/2025,Adult,0,1379.36,25-48 month,35863.36
+CUST00036,Rahul Sharma,Female,32,Rajasthan,Jaipur,23,Basic,487.26,10530.21,One Year,Debit Card,5G,No,No,Customer Service,No,4/29/2026,Adult,0,487.26,13-24 month,11206.98
+CUST00037,Aarav Das,Female,66,Bihar,Patna,47,Premium,2265.91,100161.28,Monthly,Auto Debit,DSL,Yes,Yes,Network Operations,No,4/22/2024,Senior,0,2265.91,25-48 month,106497.77
+CUST00038,Vivaan Agarwal,Female,56,Punjab,Ludhiana,28,Basic,682.82,20416.67,Two Year,Cash,No Internet,No,No,Sales,No,6/7/2024,Adult,0,682.82,25-48 month,19118.96
+CUST00039,Aarav Khan,Male,150,Telangana,Hyderabad,32,Premium,443.27,14631.64,One Year,UPI,No Internet,Yes,No,Sales,No,7/11/2025,Senior,0,443.27,25-48 month,14184.64
+CUST00040,Vihaan Agarwal,Female,22,Delhi,New Delhi,32,Standard,2168.28,65543.21,One Year,Auto Debit,No Internet,No,No,Technical Support,No,7/12/2026,Adult,0,2168.28,25-48 month,69384.96
+CUST00041,Aanya Das,Female,20,Kerala,Kochi,47,Standard,1131.6,52065.27,One Year,Bank Transfer,5G,Yes,No,Sales,No,4/27/2024,Adult,0,1131.6,25-48 month,53185.2
+CUST00042,Amit Kumar,Other,42,Uttar Pradesh,Agra,14,Standard,1449.11,21809.68,Two Year,Auto Debit,DSL,Yes,No,Customer Service,No,5/26/2025,Adult,0,1449.11,13-24 month,20287.54
+CUST00043,Nisha Khan,Female,72,Odisha,Bhubaneswar,4,Standard,844.97,3621.47,One Year,Debit Card,No Internet,Yes,Yes,Technical Support,No,9/14/2025,Senior,0,844.97,0-12 month,3379.88
+CUST00044,Payal Das,Male,75,West Bengal,Kolkata,37,Basic,1256.08,47410.21,Two Year,Debit Card,No Internet,No,Yes,Sales,No,7/6/2026,Senior,0,1256.08,25-48 month,46474.96
+CUST00045,Payal Gupta,Other,43,Madhya Pradesh,Bhopal,71,Premium,2054.5,150013.59,Two Year,UPI,Fiber Optic,No,No,Accounts,No,5/8/2024,Adult,0,2054.5,49-72 month,145869.5
+CUST00046,Ananya Das,Male,32,West Bengal,Kolkata,7,Basic,333.36,2215.77,Monthly,Debit Card,DSL,Yes,No,Technical Support,No,2/20/2025,Adult,0,333.36,0-12 month,2333.52
+CUST00047,Isha Agarwal,Male,78,Madhya Pradesh,Bhopal,65,Basic,610.64,42674.4,Two Year,Bank Transfer,5G,No,Yes,IT Support,No,3/27/2026,Senior,0,610.64,49-72 month,39691.6
+CUST00048,Vivaan Jain,Female,28,Punjab,Ludhiana,38,Premium,593.43,21216.16,One Year,Debit Card,DSL,No,No,Customer Service,No,9/27/2024,Adult,0,593.43,25-48 month,22550.34
+CUST00049,Sneha Sharma,Other,44,Delhi,New Delhi,32,Basic,1168.62,40244.74,Monthly,Bank Transfer,5G,No,No,Retention,Yes,1/1/2025,Adult,1,1168.62,25-48 month,37395.84
+CUST00050,Vihaan Khan,Other,55,Rajasthan,Jaipur,33,Premium,833,25368.86,One Year,Bank Transfer,Fiber Optic,Yes,No,Network Operations,No,4/5/2025,Adult,0,833,25-48 month,27489
+CUST00051,Pooja Jain,Female,31,Gujarat,Ahmedabad,70,Standard,800.55,59985.05,One Year,Credit Card,5G,Yes,No,Network Operations,No,6/18/2025,Adult,0,800.55,49-72 month,56038.5
+CUST00052,Vivaan Patel,Female,70,Maharashtra,Pune,42,Premium,2054.97,83008.38,One Year,Bank Transfer,5G,No,Yes,Retention,No,5/10/2025,Senior,0,2054.97,25-48 month,86308.74
+CUST00053,Aditya Khan,Other,32,Uttar Pradesh,Lucknow,33,Basic,1467.96,50772.91,Monthly,Cash,5G,No,No,Customer Service,No,9/28/2025,Adult,0,1467.96,25-48 month,48442.68
+CUST00054,Kabir Jain,Female,68,Kerala,Kochi,39,Standard,1012.24,41758.47,Two Year,UPI,DSL,Yes,Yes,Network Operations,Yes,6/19/2024,Senior,1,1012.24,25-48 month,39477.36
+CUST00055,Neha Gupta,Female,28,Telangana,Hyderabad,13,Premium,1618.19,22032.82,Two Year,Cash,DSL,Yes,No,Customer Service,No,1/30/2025,Adult,0,1618.19,13-24 month,21036.47
+CUST00056,Isha Das,Female,38,Telangana,Hyderabad,46,Premium,1428.17,65925.97,Two Year,UPI,No Internet,No,No,IT Support,No,3/5/2024,Adult,0,1428.17,25-48 month,65695.82
+CUST00057,Riya Malhotra,Female,10,Rajasthan,Jaipur,30,Standard,1930.96,57102.54,One Year,Cash,DSL,Yes,No,Sales,No,11/24/2025,Adult,0,1930.96,25-48 month,57928.8
+CUST00058,Dev Yadav,Female,140,Gujarat,Ahmedabad,25,Basic,2138.5,49901.16,Two Year,Cash,DSL,No,No,Billing,Yes,5/3/2025,Senior,1,2138.5,25-48 month,53462.5
+CUST00059,Kavya Gupta,Male,59,Haryana,Gurugram,12,Standard,2204.86,27407.2,Two Year,UPI,Fiber Optic,Yes,No,Technical Support,Yes,6/17/2026,Adult,1,2204.86,0-12 month,26458.32
+CUST00060,Meera Patel,Other,25,Kerala,Kochi,55,Premium,1978.66,100451.74,One Year,Credit Card,No Internet,Yes,No,Sales,Yes,6/11/2026,Adult,1,1978.66,49-72 month,108826.3
+CUST00061,Isha Kumar,Male,24,Karnataka,Bengaluru,17,Standard,1124.12,20539.1,Two Year,Debit Card,DSL,No,No,Customer Service,Yes,7/31/2026,Adult,1,1124.12,13-24 month,19110.04
+CUST00062,Rahul Yadav,Male,30,Madhya Pradesh,Bhopal,24,Basic,1217.71,28777.91,Monthly,Auto Debit,Fiber Optic,Yes,No,Network Operations,Yes,12/27/2024,Adult,1,1217.71,13-24 month,29225.04
+CUST00063,Meera Kumar,Male,31,Telangana,Hyderabad,12,Basic,2123.69,26884.8,One Year,Auto Debit,Fiber Optic,No,No,Customer Service,No,9/1/2025,Adult,0,2123.69,0-12 month,25484.28
+CUST00064,Kabir Das,Other,33,Haryana,Gurugram,11,Standard,1462.67,15228.99,Monthly,Credit Card,No Internet,Yes,No,Retention,No,8/1/2024,Adult,0,1462.67,0-12 month,16089.37
+CUST00065,Ananya Sharma,Other,64,West Bengal,Kolkata,69,Basic,669.2,43419.39,Two Year,UPI,No Internet,No,Yes,Sales,Yes,1/14/2026,Senior,1,669.2,49-72 month,46174.8
+CUST00066,Aarav Singh,Female,49,Odisha,Bhubaneswar,2,Basic,421.65,854.18,Monthly,Credit Card,Fiber Optic,Yes,No,Network Operations,No,3/7/2026,Adult,0,421.65,0-12 month,843.3
+CUST00067,Isha Das,Other,24,Kerala,Kochi,43,Premium,1557.58,65807.78,One Year,Debit Card,Fiber Optic,No,No,IT Support,No,6/10/2024,Adult,0,1557.58,25-48 month,66975.94
+CUST00068,Amit Sharma,Other,46,Punjab,Ludhiana,61,Standard,1918.05,115996.34,Monthly,Debit Card,5G,Yes,No,Billing,No,7/16/2026,Adult,0,1918.05,49-72 month,117001.05
+CUST00069,Kabir Mehta,Other,19,Madhya Pradesh,Bhopal,2,Standard,635.21,1191.28,One Year,Debit Card,DSL,Yes,No,Accounts,No,2/29/2024,Adult,0,635.21,0-12 month,1270.42
+CUST00070,Diya Khan,Other,65,Telangana,Hyderabad,66,Basic,549.75,38372.99,One Year,Bank Transfer,DSL,Yes,Yes,IT Support,No,10/1/2025,Senior,0,549.75,49-72 month,36283.5
+CUST00071,Aanya Patel,Male,69,Uttar Pradesh,Mathura,18,Premium,1613.78,29086.43,Two Year,Bank Transfer,DSL,No,Yes,Technical Support,Yes,4/5/2025,Senior,1,1613.78,13-24 month,29048.04
+CUST00072,Amit Jain,Female,64,Karnataka,Bengaluru,37,Basic,2398.4,92496.51,One Year,Bank Transfer,5G,Yes,Yes,IT Support,No,9/5/2026,Senior,0,2398.4,25-48 month,88740.8
+CUST00073,Rohan Mehta,Male,27,Bihar,Patna,59,Standard,1983.83,108974.02,Monthly,UPI,Fiber Optic,No,No,Retention,Yes,5/24/2025,Adult,1,1983.83,49-72 month,117045.97
+CUST00074,Ishita Roy,Other,76,Punjab,Ludhiana,63,Premium,1590.19,97713.06,Monthly,UPI,No Internet,Yes,Yes,Technical Support,Yes,3/28/2025,Senior,1,1590.19,49-72 month,100181.97
+CUST00075,Vivaan Saxena,Male,71,Punjab,Ludhiana,48,Premium,1207.22,58488.06,One Year,Cash,DSL,No,Yes,Network Operations,No,6/15/2025,Senior,0,1207.22,25-48 month,57946.56
+CUST00076,Amit Yadav,Other,50,Uttar Pradesh,Kanpur,19,Standard,1215.05,21337.21,Two Year,Cash,5G,Yes,No,IT Support,No,4/30/2024,Adult,0,1215.05,13-24 month,23085.95
+CUST00077,Neha Khan,Other,61,Kerala,Kochi,32,Premium,1497.44,45917.16,Monthly,Auto Debit,No Internet,No,Yes,Technical Support,No,9/16/2024,Senior,0,1497.44,25-48 month,47918.08
+CUST00078,Rohan Saxena,Male,60,Haryana,Gurugram,59,Basic,1540.58,93296.8,Two Year,Cash,Fiber Optic,No,Yes,Accounts,No,9/28/2025,Adult,0,1540.58,49-72 month,90894.22
+CUST00079,Dev Gupta,Female,79,Madhya Pradesh,Bhopal,46,Premium,1480.14,71331.25,Two Year,Cash,No Internet,No,Yes,Network Operations,Yes,12/3/2025,Senior,1,1480.14,25-48 month,68086.44
+CUST00080,Rohan Mehta,Male,27,Uttar Pradesh,Lucknow,47,Basic,2177.96,100118.45,Monthly,Cash,5G,Yes,No,Accounts,Yes,9/8/2024,Adult,1,2177.96,25-48 month,102364.12
+CUST00081,Pooja Gupta,Other,74,Kerala,Kochi,16,Premium,1119.64,16603.89,Two Year,Cash,5G,No,Yes,Customer Service,No,10/9/2025,Senior,0,1119.64,13-24 month,17914.24
+CUST00082,Kabir Mehta,Female,53,West Bengal,Kolkata,31,Premium,616.8,17594.34,Two Year,Credit Card,5G,Yes,No,Accounts,No,7/23/2025,Adult,0,616.8,25-48 month,19120.8
+CUST00083,Payal Jain,Male,45,Kerala,Kochi,33,Standard,2043.41,62116.91,Two Year,Bank Transfer,5G,No,No,Billing,No,10/24/2025,Adult,0,2043.41,25-48 month,67432.53
+CUST00084,Priya Khan,Male,100,Uttar Pradesh,Agra,24,Basic,1580.52,36709.03,Two Year,Debit Card,No Internet,Yes,No,Billing,No,8/15/2026,Senior,0,1580.52,13-24 month,37932.48
+CUST00085,Riya Chauhan,Female,79,Madhya Pradesh,Bhopal,12,Standard,696.47,8000.25,One Year,Cash,Fiber Optic,No,Yes,Accounts,Yes,3/26/2025,Senior,1,696.47,0-12 month,8357.64
+CUST00086,Rohan Agarwal,Female,55,Uttarakhand,Dehradun,53,Premium,331.92,18242.88,One Year,Cash,Fiber Optic,Yes,No,Network Operations,No,9/30/2024,Adult,0,331.92,49-72 month,17591.76
+CUST00087,Ananya Malhotra,Other,28,Tamil Nadu,Chennai,16,Standard,863.62,13977.13,One Year,Credit Card,No Internet,Yes,No,Retention,No,11/4/2024,Adult,0,863.62,13-24 month,13817.92
+CUST00088,Karan Khan,Female,70,Maharashtra,Mumbai,65,Standard,1372.92,84805.36,Monthly,Debit Card,No Internet,Yes,Yes,Accounts,No,5/5/2025,Senior,0,1372.92,49-72 month,89239.8
+CUST00089,Isha Gupta,Female,23,Bihar,Patna,32,Premium,703.81,21428.62,Two Year,Credit Card,DSL,Yes,No,Billing,No,9/6/2024,Adult,0,703.81,25-48 month,22521.92
+CUST00090,Rahul Verma,Female,44,Telangana,Hyderabad,72,Basic,2215.49,151912.73,One Year,Debit Card,DSL,No,No,Sales,No,1/11/2026,Adult,0,2215.49,49-72 month,159515.28
+CUST00091,Aarav Khan,Other,5,Tamil Nadu,Chennai,6,Basic,2328.08,14688.48,Monthly,UPI,Fiber Optic,Yes,Yes,Retention,Yes,4/15/2024,Adult,1,2328.08,0-12 month,13968.48
+CUST00092,Isha Agarwal,Other,20,Uttar Pradesh,Agra,11,Basic,1106.17,12217.42,One Year,Bank Transfer,DSL,No,No,Accounts,Yes,5/27/2024,Adult,1,1106.17,0-12 month,12167.87
+CUST00093,Kabir Roy,Other,45,Maharashtra,Pune,16,Standard,2152.31,34222.37,One Year,Cash,No Internet,Yes,No,Network Operations,No,3/30/2025,Adult,0,2152.31,13-24 month,34436.96
+CUST00094,Isha Verma,Female,61,Uttar Pradesh,Mathura,57,Standard,1452.5,77230.87,One Year,Cash,No Internet,No,Yes,Accounts,No,1/27/2025,Senior,0,1452.5,49-72 month,82792.5
+CUST00095,Rahul Joshi,Female,62,Punjab,Ludhiana,19,Standard,1422.91,26144.37,Monthly,Debit Card,5G,Yes,Yes,Customer Service,No,7/25/2024,Senior,0,1422.91,13-24 month,27035.29
+CUST00096,Payal Yadav,Female,34,Bihar,Patna,16,Standard,1429.29,21756.8,Monthly,UPI,5G,No,No,Sales,No,5/7/2025,Adult,0,1429.29,13-24 month,22868.64
+CUST00097,Arjun Das,Female,27,Bihar,Patna,9,Premium,2495.94,22860.67,Monthly,Cash,No Internet,No,No,IT Support,No,9/6/2024,Adult,0,2495.94,0-12 month,22463.46
+CUST00098,Vivaan Verma,Male,39,Tamil Nadu,Chennai,43,Basic,1710.91,76019.57,Monthly,Credit Card,Fiber Optic,Yes,No,Accounts,No,5/29/2024,Adult,0,1710.91,25-48 month,73569.13
+CUST00099,Rahul Verma,Male,28,Uttar Pradesh,Mathura,52,Premium,1803.09,97654.98,One Year,Bank Transfer,5G,Yes,No,Retention,No,2/22/2024,Adult,0,1803.09,49-72 month,93760.68
+CUST00100,Riya Malhotra,Other,28,Tamil Nadu,Chennai,22,Basic,1935.3,39771.06,Monthly,Auto Debit,No Internet,Yes,No,Sales,Yes,11/16/2024,Adult,1,1935.3,13-24 month,42576.6
+CUST00101,Ishita Mehta,Male,24,Uttar Pradesh,Kanpur,64,Premium,1097.05,73082.26,One Year,Bank Transfer,DSL,No,No,Network Operations,No,7/20/2026,Adult,0,1097.05,49-72 month,70211.2
+CUST00102,Neha Chauhan,Female,69,Punjab,Ludhiana,13,Basic,1571.4,19551.33,One Year,Debit Card,No Internet,Yes,Yes,Accounts,Yes,8/23/2024,Senior,1,1571.4,13-24 month,20428.2
+CUST00103,Ananya Patel,Other,35,Bihar,Patna,59,Premium,1407.77,83369.81,Monthly,Auto Debit,DSL,No,No,Accounts,No,1/11/2025,Adult,0,1407.77,49-72 month,83058.43
+CUST00104,Rahul Singh,Female,30,Uttarakhand,Dehradun,8,Basic,2030.19,17497.51,One Year,Bank Transfer,DSL,Yes,No,Customer Service,No,7/6/2024,Adult,0,2030.19,0-12 month,16241.52
+CUST00105,Ananya Mehta,Other,28,Uttar Pradesh,Kanpur,52,Premium,384.16,21187.59,Monthly,Debit Card,Fiber Optic,Yes,No,Customer Service,Yes,1/17/2024,Adult,1,384.16,49-72 month,19976.32
+CUST00106,Ishita Kumar,Female,130,Haryana,Gurugram,39,Premium,1677,69310.98,Monthly,Bank Transfer,5G,Yes,Yes,Billing,No,8/5/2024,Senior,0,1677,25-48 month,65403
+CUST00107,Vivaan Malhotra,Other,23,Karnataka,Bengaluru,50,Standard,1737.52,91565.2,One Year,Debit Card,No Internet,Yes,No,IT Support,Yes,8/1/2026,Adult,1,1737.52,49-72 month,86876
+CUST00108,Aditya Singh,Female,53,Kerala,Kochi,16,Premium,1079.11,17855.26,Monthly,Bank Transfer,No Internet,No,No,Customer Service,No,6/15/2024,Adult,0,1079.11,13-24 month,17265.76
+CUST00109,Aarav Saxena,Female,29,Karnataka,Bengaluru,39,Basic,1841.4,69700.39,Two Year,Credit Card,No Internet,Yes,No,Network Operations,No,2/3/2026,Adult,0,1841.4,25-48 month,71814.6
+CUST00110,Priya Kumar,Male,53,Madhya Pradesh,Bhopal,66,Premium,1788.8,125076.17,One Year,Cash,DSL,No,No,Accounts,No,6/14/2024,Adult,0,1788.8,49-72 month,118060.8
+CUST00111,Vihaan Gupta,Male,50,Maharashtra,Mumbai,10,Premium,1964.53,18556.89,Two Year,UPI,DSL,No,No,Accounts,No,9/23/2026,Adult,0,1964.53,0-12 month,19645.3
+CUST00112,Payal Malhotra,Male,33,Kerala,Kochi,36,Premium,1234.31,46968.81,One Year,Cash,5G,Yes,No,Sales,Yes,9/24/2026,Adult,1,1234.31,25-48 month,44435.16
+CUST00113,Riya Sharma,Female,56,Maharashtra,Pune,20,Premium,2446.55,46354.77,Two Year,Cash,No Internet,Yes,No,Retention,No,6/13/2026,Adult,0,2446.55,13-24 month,48931
+CUST00114,Payal Saxena,Female,18,Haryana,Gurugram,29,Basic,860.35,26842.94,Two Year,Credit Card,DSL,Yes,No,Network Operations,No,12/6/2024,Adult,0,860.35,25-48 month,24950.15
+CUST00115,Priya Mishra,Male,72,Rajasthan,Jaipur,32,Basic,853.99,27110.57,One Year,Bank Transfer,Fiber Optic,No,Yes,Billing,No,11/20/2024,Senior,0,853.99,25-48 month,27327.68
+CUST00116,Sneha Patel,Other,76,Delhi,New Delhi,3,Basic,817.85,2500.49,One Year,Auto Debit,Fiber Optic,Yes,Yes,Customer Service,No,12/4/2024,Senior,0,817.85,0-12 month,2453.55
+CUST00117,Arjun Mehta,Female,29,Uttar Pradesh,Kanpur,50,Standard,375.47,18370.93,Monthly,Cash,No Internet,Yes,No,IT Support,No,9/1/2026,Adult,0,375.47,49-72 month,18773.5
+CUST00118,Karan Roy,Female,72,Uttarakhand,Dehradun,34,Basic,1411.41,44669.04,Two Year,Auto Debit,Fiber Optic,No,Yes,Network Operations,No,4/9/2026,Senior,0,1411.41,25-48 month,47987.94
+CUST00119,Kavya Roy,Other,50,Telangana,Hyderabad,45,Premium,606.81,25753.67,Monthly,Credit Card,DSL,Yes,No,Technical Support,No,7/7/2024,Adult,0,606.81,25-48 month,27306.45
+CUST00120,Arjun Malhotra,Male,33,Delhi,New Delhi,18,Basic,2204.33,42186.56,Monthly,Credit Card,No Internet,Yes,No,Technical Support,No,12/3/2025,Adult,0,2204.33,13-24 month,39677.94
+CUST00121,Neha Gupta,Female,42,Uttar Pradesh,Mathura,2,Standard,2493.7,4932.77,One Year,Auto Debit,Fiber Optic,No,No,Accounts,No,10/29/2025,Adult,0,2493.7,0-12 month,4987.4
+CUST00122,Rohan Saxena,Other,26,Tamil Nadu,Chennai,49,Standard,366.78,18323.58,Monthly,Credit Card,No Internet,No,No,Accounts,Yes,9/23/2024,Adult,1,366.78,49-72 month,17972.22
+CUST00123,Kavya Verma,Female,41,Tamil Nadu,Chennai,21,Standard,710.42,14886.52,One Year,Cash,Fiber Optic,Yes,No,Retention,No,6/29/2025,Adult,0,710.42,13-24 month,14918.82
+CUST00124,Priya Patel,Female,25,Delhi,New Delhi,29,Standard,1796.1,49646.51,Two Year,Bank Transfer,DSL,Yes,No,Technical Support,No,3/31/2024,Adult,0,1796.1,25-48 month,52086.9
+CUST00125,Ananya Yadav,Male,54,Madhya Pradesh,Bhopal,1,Standard,1351.99,1433.07,One Year,Debit Card,DSL,Yes,No,Sales,No,2/16/2024,Adult,0,1351.99,0-12 month,1351.99
+CUST00126,Riya Roy,Other,35,West Bengal,Kolkata,6,Basic,2468.59,14850.88,Two Year,Debit Card,DSL,Yes,No,IT Support,No,10/26/2025,Adult,0,2468.59,0-12 month,14811.54
+CUST00127,Riya Yadav,Other,53,Uttar Pradesh,Mathura,11,Premium,1804.67,18863.07,Monthly,Cash,Fiber Optic,Yes,No,Accounts,Yes,9/7/2024,Adult,1,1804.67,0-12 month,19851.37
+CUST00128,Ananya Mishra,Other,35,Uttar Pradesh,Lucknow,22,Standard,1332.55,27040.41,One Year,Cash,5G,Yes,No,Technical Support,No,10/31/2025,Adult,0,1332.55,13-24 month,29316.1
+CUST00129,Neha Joshi,Female,67,Punjab,Ludhiana,36,Premium,370.6,12576.35,One Year,Bank Transfer,5G,No,Yes,Retention,No,3/30/2025,Senior,0,370.6,25-48 month,13341.6
+CUST00130,Payal Malhotra,Female,39,West Bengal,Kolkata,63,Standard,1554.94,100548.83,Monthly,Cash,DSL,Yes,No,Customer Service,No,9/14/2024,Adult,0,1554.94,49-72 month,97961.22
+CUST00131,Rahul Roy,Female,62,Kerala,Kochi,38,Premium,1042.68,37338.69,Two Year,Bank Transfer,Fiber Optic,No,Yes,Technical Support,No,10/4/2024,Senior,0,1042.68,25-48 month,39621.84
+CUST00132,Riya Yadav,Other,44,Karnataka,Bengaluru,68,Basic,1392.26,87236.66,One Year,Debit Card,5G,Yes,No,Customer Service,No,7/9/2026,Adult,0,1392.26,49-72 month,94673.68
+CUST00133,Arjun Verma,Other,28,Uttarakhand,Dehradun,40,Premium,2429.56,95713.36,One Year,Cash,5G,No,No,Customer Service,Yes,11/19/2024,Adult,1,2429.56,25-48 month,97182.4
+CUST00134,Amit Joshi,Female,80,Uttarakhand,Dehradun,49,Standard,564.9,28816.03,Monthly,Cash,5G,No,Yes,IT Support,No,1/28/2026,Senior,0,564.9,49-72 month,27680.1
+CUST00135,Karan Kumar,Female,36,West Bengal,Kolkata,38,Basic,1388.13,52686.89,Two Year,Cash,DSL,Yes,No,Customer Service,Yes,6/9/2024,Adult,1,1388.13,25-48 month,52748.94
+CUST00136,Riya Kumar,Female,36,Uttarakhand,Dehradun,14,Standard,1239.64,17219.33,One Year,Cash,Fiber Optic,No,No,IT Support,No,2/11/2026,Adult,0,1239.64,13-24 month,17354.96
+CUST00137,Sneha Patel,Male,27,Uttar Pradesh,Kanpur,21,Basic,1684.02,37733.41,One Year,Auto Debit,No Internet,No,No,Network Operations,No,1/8/2026,Adult,0,1684.02,13-24 month,35364.42
+CUST00138,Ishita Saxena,Male,52,Uttar Pradesh,Kanpur,14,Premium,588.09,8095.07,One Year,Auto Debit,DSL,No,No,Sales,No,10/3/2024,Adult,0,588.09,13-24 month,8233.26
+CUST00139,Sneha Verma,Male,20,Telangana,Hyderabad,15,Basic,1188.75,17686.8,One Year,Cash,Fiber Optic,No,No,IT Support,No,2/23/2025,Adult,0,1188.75,13-24 month,17831.25
+CUST00140,Ishita Gupta,Female,63,Uttarakhand,Dehradun,19,Basic,645.02,11339.7,Monthly,Cash,5G,No,Yes,IT Support,Yes,9/10/2024,Senior,1,645.02,13-24 month,12255.38
+CUST00141,Neha Agarwal,Female,28,Rajasthan,Jaipur,46,Standard,2005.1,93939.12,Monthly,Bank Transfer,DSL,No,No,Customer Service,No,7/12/2026,Adult,0,2005.1,25-48 month,92234.6
+CUST00142,Rahul Malhotra,Male,74,Uttar Pradesh,Agra,45,Premium,1628.5,77679.48,One Year,Auto Debit,Fiber Optic,Yes,Yes,Technical Support,No,3/24/2024,Senior,0,1628.5,25-48 month,73282.5
+CUST00143,Karan Agarwal,Female,52,Punjab,Ludhiana,19,Basic,2456.52,45876.95,Monthly,Debit Card,No Internet,Yes,No,Accounts,No,3/29/2024,Adult,0,2456.52,13-24 month,46673.88
+CUST00144,Isha Joshi,Female,21,Madhya Pradesh,Bhopal,51,Premium,1366.35,74847.62,Monthly,UPI,DSL,Yes,No,Network Operations,Yes,9/6/2025,Adult,1,1366.35,49-72 month,69683.85
+CUST00145,Meera Singh,Female,31,Haryana,Gurugram,65,Basic,1257.1,82645.53,Two Year,Cash,Fiber Optic,No,No,IT Support,Yes,4/9/2026,Adult,1,1257.1,49-72 month,81711.5
+CUST00146,Arjun Malhotra,Female,29,Gujarat,Ahmedabad,38,Standard,771.39,30936.08,Two Year,Cash,5G,No,No,Sales,No,2/7/2025,Adult,0,771.39,25-48 month,29312.82
+CUST00147,Karan Mehta,Female,55,Uttar Pradesh,Lucknow,38,Basic,1409.86,51874.76,Two Year,Bank Transfer,Fiber Optic,No,No,Technical Support,Yes,1/21/2026,Adult,1,1409.86,25-48 month,53574.68
+CUST00148,Kavya Malhotra,Male,29,Bihar,Patna,7,Basic,2072.1,14589.1,Monthly,Cash,DSL,No,No,Billing,No,9/20/2025,Adult,0,2072.1,0-12 month,14504.7
+CUST00149,Kabir Chauhan,Male,36,Maharashtra,Mumbai,61,Premium,1407.4,84369.69,Monthly,Bank Transfer,Fiber Optic,Yes,No,Sales,No,6/20/2024,Adult,0,1407.4,49-72 month,85851.4
+CUST00150,Rohan Roy,Male,75,Bihar,Patna,15,Basic,1293.55,20944.9,One Year,UPI,Fiber Optic,No,Yes,Network Operations,Yes,3/21/2025,Senior,1,1293.55,13-24 month,19403.25
+CUST00151,Vihaan Agarwal,Male,27,Haryana,Gurugram,67,Premium,1422.96,88454.21,Two Year,Cash,No Internet,Yes,No,Customer Service,No,11/5/2025,Adult,0,1422.96,49-72 month,95338.32
+CUST00152,Isha Malhotra,Female,61,Uttar Pradesh,Kanpur,64,Standard,1379.26,84615.63,Two Year,Debit Card,No Internet,Yes,Yes,Retention,Yes,10/23/2024,Senior,1,1379.26,49-72 month,88272.64
+CUST00153,Isha Verma,Male,35,Uttar Pradesh,Kanpur,22,Basic,1988.58,44369.43,Two Year,Debit Card,No Internet,No,No,IT Support,Yes,12/2/2024,Adult,1,1988.58,13-24 month,43748.76
+CUST00154,Ananya Singh,Female,73,Uttar Pradesh,Mathura,68,Premium,910.46,62418.83,Monthly,Credit Card,Fiber Optic,Yes,Yes,Network Operations,No,3/21/2025,Senior,0,910.46,49-72 month,61911.28
+CUST00155,Payal Singh,Male,73,Haryana,Gurugram,30,Standard,1458.82,46612.48,Two Year,Debit Card,Fiber Optic,Yes,Yes,Network Operations,No,7/11/2024,Senior,0,1458.82,25-48 month,43764.6
+CUST00156,Aditya Sharma,Female,41,Delhi,New Delhi,41,Basic,1468.98,56333.5,Monthly,Cash,DSL,Yes,No,Billing,No,10/7/2024,Adult,0,1468.98,25-48 month,60228.18
+CUST00157,Ananya Gupta,Other,55,Uttarakhand,Dehradun,42,Premium,1983.09,79920.61,Monthly,Debit Card,Fiber Optic,Yes,No,Technical Support,No,8/12/2024,Adult,0,1983.09,25-48 month,83289.78
+CUST00158,Kabir Verma,Male,74,Uttar Pradesh,Agra,25,Premium,1993.47,49060.98,One Year,Bank Transfer,Fiber Optic,Yes,Yes,Billing,No,3/8/2024,Senior,0,1993.47,25-48 month,49836.75
+CUST00159,Vivaan Mehta,Female,36,Kerala,Kochi,66,Basic,1242.88,84452.74,Two Year,Debit Card,No Internet,No,No,Billing,No,8/2/2025,Adult,0,1242.88,49-72 month,82030.08
+CUST00160,Pooja Joshi,Female,54,Kerala,Kochi,70,Standard,1498.88,100766.03,Two Year,Cash,DSL,No,No,Billing,No,1/29/2025,Adult,0,1498.88,49-72 month,104921.6
+CUST00161,Diya Kumar,Female,79,Odisha,Bhubaneswar,60,Premium,1198.49,76499.14,One Year,Debit Card,Fiber Optic,No,Yes,Billing,No,2/14/2025,Senior,0,1198.49,49-72 month,71909.4
+CUST00162,Riya Jain,Other,20,Karnataka,Bengaluru,44,Premium,1365.14,62685.36,Monthly,Credit Card,DSL,No,No,Sales,Yes,11/7/2024,Adult,1,1365.14,25-48 month,60066.16
+CUST00163,Amit Singh,Female,46,Madhya Pradesh,Bhopal,62,Basic,459.67,28190.14,One Year,Auto Debit,DSL,Yes,No,Technical Support,Yes,11/15/2025,Adult,1,459.67,49-72 month,28499.54
+CUST00164,Ananya Singh,Female,22,Gujarat,Ahmedabad,14,Standard,925.97,12190.2,One Year,UPI,Fiber Optic,No,No,Retention,No,11/1/2025,Adult,0,925.97,13-24 month,12963.58
+CUST00165,Riya Singh,Male,52,Tamil Nadu,Chennai,66,Premium,370.12,23916.53,Two Year,Debit Card,No Internet,Yes,No,Accounts,No,4/25/2026,Adult,0,370.12,49-72 month,24427.92
+CUST00166,Riya Patel,Female,53,Delhi,New Delhi,5,Premium,2049.52,9758.24,Two Year,Debit Card,Fiber Optic,Yes,No,Retention,No,7/1/2025,Adult,0,2049.52,0-12 month,10247.6
+CUST00167,Aanya Khan,Male,50,Uttar Pradesh,Lucknow,69,Basic,868.31,56009.86,Monthly,Cash,DSL,Yes,No,Customer Service,No,4/2/2024,Adult,0,868.31,49-72 month,59913.39
+CUST00168,Aditya Jain,Other,67,Uttarakhand,Dehradun,11,Premium,1172.02,11983.76,Monthly,Debit Card,No Internet,No,Yes,Retention,Yes,3/29/2024,Senior,1,1172.02,0-12 month,12892.22
+CUST00169,Arjun Das,Male,28,Bihar,Patna,7,Premium,650.91,4701.13,One Year,Bank Transfer,No Internet,No,No,Billing,No,11/2/2025,Adult,0,650.91,0-12 month,4556.37
+CUST00170,Arjun Singh,Other,18,Delhi,New Delhi,40,Premium,2163.51,87511.24,Two Year,Debit Card,5G,Yes,No,Technical Support,No,5/19/2025,Adult,0,2163.51,25-48 month,86540.4
+CUST00171,Karan Joshi,Female,73,Gujarat,Ahmedabad,65,Basic,346.34,21645.62,One Year,Auto Debit,Fiber Optic,No,Yes,Accounts,No,11/28/2025,Senior,0,346.34,49-72 month,22512.1
+CUST00172,Aditya Mehta,Male,33,Uttar Pradesh,Mathura,66,Standard,1842,124700.94,Monthly,Credit Card,DSL,No,No,Accounts,No,8/9/2026,Adult,0,1842,49-72 month,121572
+CUST00173,Amit Kumar,Female,28,Gujarat,Ahmedabad,36,Standard,1886.9,69074.86,Two Year,Bank Transfer,5G,Yes,No,Retention,No,6/22/2024,Adult,0,1886.9,25-48 month,67928.4
+CUST00174,Dev Gupta,Female,43,Madhya Pradesh,Bhopal,61,Premium,493.52,32193.3,Two Year,Bank Transfer,5G,No,No,Network Operations,Yes,8/15/2025,Adult,1,493.52,49-72 month,30104.72
+CUST00175,Neha Kumar,Female,49,Karnataka,Bengaluru,12,Standard,1569.6,17899.94,Monthly,Bank Transfer,DSL,No,No,Sales,No,1/17/2025,Adult,0,1569.6,0-12 month,18835.2
+CUST00176,Karan Khan,Female,27,Maharashtra,Pune,43,Standard,1585.23,66695.92,Two Year,Cash,5G,Yes,No,Billing,Yes,9/2/2025,Adult,1,1585.23,25-48 month,68164.89
+CUST00177,Nisha Patel,Male,70,Uttar Pradesh,Agra,56,Basic,717.49,38023.15,One Year,Auto Debit,No Internet,Yes,Yes,Billing,Yes,11/7/2024,Senior,1,717.49,49-72 month,40179.44
+CUST00178,Sneha Roy,Male,61,Madhya Pradesh,Bhopal,6,Standard,2013.97,11341.79,One Year,Credit Card,Fiber Optic,No,Yes,Technical Support,Yes,4/13/2024,Senior,1,2013.97,0-12 month,12083.82
+CUST00179,Kavya Chauhan,Other,40,Madhya Pradesh,Bhopal,54,Premium,2043.08,109989.25,One Year,Debit Card,5G,Yes,No,Customer Service,No,7/11/2026,Adult,0,2043.08,49-72 month,110326.32
+CUST00180,Payal Sharma,Female,74,Uttar Pradesh,Agra,41,Standard,1211.89,47925.4,Two Year,Debit Card,Fiber Optic,Yes,Yes,Technical Support,No,10/15/2024,Senior,0,1211.89,25-48 month,49687.49
+CUST00181,Amit Kumar,Other,67,Uttar Pradesh,Mathura,1,Basic,687.07,731.39,Two Year,Debit Card,Fiber Optic,Yes,Yes,Technical Support,No,4/14/2026,Senior,0,687.07,0-12 month,687.07
+CUST00182,Aanya Malhotra,Female,57,Odisha,Bhubaneswar,15,Premium,416.77,6202.4,Monthly,Auto Debit,5G,No,No,Accounts,No,1/15/2025,Adult,0,416.77,13-24 month,6251.55
+CUST00183,Aarav Das,Male,41,Karnataka,Bengaluru,4,Basic,707.46,2969.81,Monthly,Bank Transfer,No Internet,No,No,IT Support,No,1/31/2024,Adult,0,707.46,0-12 month,2829.84
+CUST00184,Rahul Mishra,Female,59,Uttar Pradesh,Lucknow,31,Standard,2257.96,71748.57,Monthly,Cash,DSL,No,No,Sales,No,2/27/2026,Adult,0,2257.96,25-48 month,69996.76
+CUST00185,Payal Sharma,Male,21,Uttar Pradesh,Lucknow,37,Basic,2175.21,81608.5,Monthly,Debit Card,No Internet,Yes,No,Network Operations,No,12/22/2025,Adult,0,2175.21,25-48 month,80482.77
+CUST00186,Dev Verma,Female,48,Madhya Pradesh,Bhopal,59,Basic,1787.95,98342.69,Monthly,Credit Card,Fiber Optic,No,No,Technical Support,No,9/13/2025,Adult,0,1787.95,49-72 month,105489.05
+CUST00187,Vivaan Chauhan,Female,59,Uttarakhand,Dehradun,37,Premium,1662.92,58696.25,Monthly,Bank Transfer,5G,Yes,No,Technical Support,No,5/1/2026,Adult,0,1662.92,25-48 month,61528.04
+CUST00188,Dev Gupta,Other,37,Punjab,Ludhiana,8,Standard,370.47,3156.69,Two Year,Bank Transfer,No Internet,No,No,Sales,No,6/15/2025,Adult,0,370.47,0-12 month,2963.76
+CUST00189,Vivaan Jain,Female,70,Madhya Pradesh,Bhopal,53,Basic,2036.52,105256.41,Monthly,Credit Card,5G,No,Yes,Accounts,No,8/18/2026,Senior,0,2036.52,49-72 month,107935.56
+CUST00190,Ishita Verma,Female,29,Haryana,Gurugram,38,Standard,2300.77,88325.3,One Year,Bank Transfer,Fiber Optic,Yes,No,Customer Service,Yes,12/13/2024,Adult,1,2300.77,25-48 month,87429.26
+CUST00191,Vivaan Kumar,Female,35,Tamil Nadu,Chennai,10,Standard,1011.94,10057.89,Monthly,Debit Card,Fiber Optic,No,No,Customer Service,No,10/11/2024,Adult,0,1011.94,0-12 month,10119.4
+CUST00192,Dev Chauhan,Female,67,Uttar Pradesh,Kanpur,6,Standard,716.82,4024.98,Two Year,Bank Transfer,DSL,Yes,Yes,Customer Service,No,5/24/2024,Senior,0,716.82,0-12 month,4300.92
+CUST00193,Dev Agarwal,Female,75,Uttar Pradesh,Agra,28,Standard,2322.68,65304.53,Monthly,Auto Debit,Fiber Optic,No,Yes,IT Support,No,6/2/2024,Senior,0,2322.68,25-48 month,65035.04
+CUST00194,Nisha Mehta,Other,80,Maharashtra,Pune,1,Standard,1634.21,1759.61,Two Year,Debit Card,No Internet,No,Yes,Network Operations,No,11/11/2025,Senior,0,1634.21,0-12 month,1634.21
+CUST00195,Arjun Gupta,Male,45,Punjab,Ludhiana,70,Basic,1852.2,136268.64,Two Year,UPI,Fiber Optic,Yes,No,Retention,Yes,6/29/2026,Adult,1,1852.2,49-72 month,129654
+CUST00196,Priya Mishra,Other,41,Rajasthan,Jaipur,21,Basic,1136.93,23062.31,One Year,Debit Card,Fiber Optic,Yes,No,Accounts,Yes,6/2/2026,Adult,1,1136.93,13-24 month,23875.53
+CUST00197,Neha Khan,Male,36,Maharashtra,Mumbai,4,Standard,1080.7,4276.1,Monthly,Cash,DSL,Yes,No,Billing,Yes,3/27/2025,Adult,1,1080.7,0-12 month,4322.8
+CUST00198,Aarav Verma,Male,51,Maharashtra,Mumbai,66,Basic,1772.09,119367.91,Two Year,UPI,DSL,Yes,No,Customer Service,No,6/21/2024,Adult,0,1772.09,49-72 month,116957.94
+CUST00199,Ishita Sharma,Male,76,Maharashtra,Mumbai,66,Premium,1584.56,97174.65,Monthly,Credit Card,Fiber Optic,Yes,Yes,Retention,No,1/24/2025,Senior,0,1584.56,49-72 month,104580.96
+CUST00200,Priya Agarwal,Male,61,Kerala,Kochi,19,Basic,1047.94,20330.13,One Year,Auto Debit,No Internet,Yes,Yes,Sales,No,6/2/2025,Senior,0,1047.94,13-24 month,19910.86
+CUST00201,Pooja Jain,Female,61,Uttar Pradesh,Kanpur,7,Basic,1415.57,9503.2,Two Year,UPI,Fiber Optic,No,Yes,Customer Service,No,6/7/2025,Senior,0,1415.57,0-12 month,9908.99
+CUST00202,Riya Khan,Other,59,Haryana,Gurugram,54,Basic,1864.96,101170.4,Two Year,Cash,Fiber Optic,No,No,Technical Support,Yes,8/19/2024,Adult,1,1864.96,49-72 month,100707.84
+CUST00203,Amit Patel,Other,30,Uttar Pradesh,Agra,44,Standard,1547.54,72599.3,Monthly,UPI,Fiber Optic,Yes,No,Accounts,Yes,8/5/2026,Adult,1,1547.54,25-48 month,68091.76
+CUST00204,Payal Khan,Female,61,Uttar Pradesh,Lucknow,51,Basic,684.42,37561,Monthly,Auto Debit,5G,No,Yes,Network Operations,Yes,10/8/2025,Senior,1,684.42,49-72 month,34905.42
+CUST00205,Nisha Jain,Male,20,Karnataka,Bengaluru,13,Standard,1885.67,23197.47,One Year,Debit Card,No Internet,Yes,No,Customer Service,No,8/19/2025,Adult,0,1885.67,13-24 month,24513.71
+CUST00206,Aarav Kumar,Female,68,Bihar,Patna,3,Standard,1439.4,4492.79,Monthly,Credit Card,DSL,Yes,Yes,Customer Service,Yes,2/2/2024,Senior,1,1439.4,0-12 month,4318.2
+CUST00207,Kabir Patel,Male,79,Kerala,Kochi,66,Standard,2079.52,126875.38,Monthly,UPI,No Internet,Yes,Yes,Customer Service,No,10/10/2024,Senior,0,2079.52,49-72 month,137248.32
+CUST00208,Priya Singh,Male,32,Karnataka,Bengaluru,29,Standard,1617.11,49619.58,One Year,Debit Card,Fiber Optic,Yes,No,Accounts,Yes,9/22/2026,Adult,1,1617.11,25-48 month,46896.19
+CUST00209,Priya Yadav,Female,27,Madhya Pradesh,Bhopal,35,Premium,1462.78,50183.89,Two Year,Auto Debit,DSL,No,No,Accounts,No,10/8/2024,Adult,0,1462.78,25-48 month,51197.3
+CUST00210,Priya Das,Female,64,Odisha,Bhubaneswar,39,Standard,1991.88,73577.51,Two Year,Auto Debit,Fiber Optic,Yes,Yes,Accounts,Yes,10/9/2024,Senior,1,1991.88,25-48 month,77683.32
+CUST00211,Riya Patel,Other,24,Madhya Pradesh,Bhopal,44,Premium,1068.59,46824.11,Two Year,Cash,No Internet,No,No,Sales,No,10/13/2025,Adult,0,1068.59,25-48 month,47017.96
+CUST00212,Kavya Khan,Other,44,Haryana,Gurugram,33,Standard,1878.41,57619.07,Two Year,Debit Card,DSL,No,No,Accounts,No,2/13/2025,Adult,0,1878.41,25-48 month,61987.53
+CUST00213,Riya Joshi,Other,68,Delhi,New Delhi,2,Basic,1014.64,2064.94,Two Year,Credit Card,5G,No,Yes,Retention,No,11/14/2024,Senior,0,1014.64,0-12 month,2029.28
+CUST00214,Priya Mishra,Female,80,Madhya Pradesh,Bhopal,12,Premium,1517.88,17102.15,One Year,Auto Debit,5G,Yes,Yes,Billing,Yes,7/7/2024,Senior,1,1517.88,0-12 month,18214.56
+CUST00215,Diya Sharma,Other,45,Gujarat,Ahmedabad,37,Standard,2409.61,95541.81,One Year,UPI,No Internet,No,No,Network Operations,Yes,6/3/2025,Adult,1,2409.61,25-48 month,89155.57
+CUST00216,Aarav Patel,Female,38,Uttar Pradesh,Mathura,54,Premium,811.99,44806.71,Monthly,Credit Card,Fiber Optic,No,No,Network Operations,Yes,3/19/2025,Adult,1,811.99,49-72 month,43847.46
+CUST00217,Karan Roy,Other,70,Rajasthan,Jaipur,65,Premium,2195.68,137351.84,One Year,UPI,No Internet,Yes,Yes,Network Operations,No,1/13/2024,Senior,0,2195.68,49-72 month,142719.2
+CUST00218,Aditya Roy,Male,39,Rajasthan,Jaipur,64,Basic,1117.47,72001.95,Monthly,Credit Card,Fiber Optic,No,No,Retention,Yes,2/6/2025,Adult,1,1117.47,49-72 month,71518.08
+CUST00219,Diya Joshi,Female,50,Uttarakhand,Dehradun,51,Premium,756.34,38795.11,Two Year,Cash,DSL,Yes,No,Network Operations,No,7/8/2024,Adult,0,756.34,49-72 month,38573.34
+CUST00220,Vivaan Mishra,Female,55,Telangana,Hyderabad,33,Standard,1263.32,41251.5,One Year,Debit Card,5G,Yes,No,IT Support,No,6/3/2025,Adult,0,1263.32,25-48 month,41689.56
+CUST00221,Nisha Malhotra,Other,34,Tamil Nadu,Chennai,19,Standard,699.66,12955.69,Two Year,Cash,No Internet,Yes,No,Accounts,No,7/5/2026,Adult,0,699.66,13-24 month,13293.54
+CUST00222,Arjun Jain,Other,60,Haryana,Gurugram,46,Premium,395.3,17970.31,Monthly,UPI,DSL,Yes,Yes,Billing,No,4/24/2026,Adult,0,395.3,25-48 month,18183.8
+CUST00223,Priya Verma,Other,68,Rajasthan,Jaipur,28,Standard,1292.89,35494.48,Two Year,Bank Transfer,DSL,No,Yes,Retention,No,7/28/2026,Senior,0,1292.89,25-48 month,36200.92
+CUST00224,Pooja Sharma,Female,66,Kerala,Kochi,15,Premium,1675.59,26159.73,Monthly,Cash,No Internet,No,Yes,Retention,No,6/3/2025,Senior,0,1675.59,13-24 month,25133.85
+CUST00225,Kavya Mehta,Male,80,Uttarakhand,Dehradun,57,Standard,2317.04,132426.7,Monthly,Debit Card,DSL,Yes,Yes,Accounts,No,1/31/2024,Senior,0,2317.04,49-72 month,132071.28
+CUST00226,Amit Joshi,Other,49,Uttar Pradesh,Mathura,46,Standard,1626.42,73021.2,Monthly,Auto Debit,No Internet,No,No,Sales,Yes,6/5/2025,Adult,1,1626.42,25-48 month,74815.32
+CUST00227,Amit Saxena,Female,40,Uttarakhand,Dehradun,42,Standard,1774.69,71984.77,Two Year,UPI,No Internet,Yes,No,Retention,No,3/12/2026,Adult,0,1774.69,25-48 month,74536.98
+CUST00228,Vivaan Gupta,Other,78,Uttar Pradesh,Mathura,19,Premium,820.9,16492.37,Monthly,Cash,DSL,No,Yes,Billing,No,8/16/2026,Senior,0,820.9,13-24 month,15597.1
+CUST00229,Isha Chauhan,Other,48,Uttar Pradesh,Kanpur,38,Premium,1032.51,37006.79,One Year,Bank Transfer,No Internet,No,No,Customer Service,No,11/16/2025,Adult,0,1032.51,25-48 month,39235.38
+CUST00230,Meera Patel,Other,66,Kerala,Kochi,42,Standard,1404.95,55015.66,Monthly,Bank Transfer,No Internet,Yes,Yes,Billing,No,6/3/2025,Senior,0,1404.95,25-48 month,59007.9
+CUST00231,Nisha Malhotra,Other,27,Uttar Pradesh,Kanpur,3,Premium,1467.63,4676.23,One Year,Debit Card,DSL,Yes,No,Accounts,No,3/13/2026,Adult,0,1467.63,0-12 month,4402.89
+CUST00232,Riya Yadav,Female,62,Odisha,Bhubaneswar,49,Basic,1586.76,73490.11,Monthly,UPI,DSL,No,Yes,Technical Support,Yes,10/29/2024,Senior,1,1586.76,49-72 month,77751.24
+CUST00233,Aditya Agarwal,Female,80,West Bengal,Kolkata,70,,1711.25,117200.02,Monthly,UPI,No Internet,No,Yes,Technical Support,Yes,5/30/2025,Senior,1,1711.25,49-72 month,119787.5
+CUST00234,Riya Chauhan,Male,35,Uttar Pradesh,Mathura,63,Standard,2294.46,142728.23,Monthly,UPI,No Internet,No,No,Retention,No,7/31/2024,Adult,0,2294.46,49-72 month,144550.98
+CUST00235,Aditya Kumar,Male,48,Haryana,Gurugram,56,Basic,1775.38,99530.19,Monthly,Debit Card,DSL,Yes,No,Network Operations,No,3/2/2026,Adult,0,1775.38,49-72 month,99421.28
+CUST00236,Neha Jain,Female,71,Telangana,Hyderabad,58,Standard,554.91,32506.1,Monthly,Bank Transfer,Fiber Optic,No,Yes,Billing,No,1/24/2025,Senior,0,554.91,49-72 month,32184.78
+CUST00237,Sneha Gupta,Other,18,Uttar Pradesh,Kanpur,44,Basic,408.92,17275.46,Monthly,Credit Card,5G,Yes,No,Accounts,No,6/3/2025,Adult,0,408.92,25-48 month,17992.48
+CUST00238,Pooja Chauhan,Female,18,Uttar Pradesh,Mathura,54,Premium,959.8,49853.89,Monthly,UPI,DSL,No,,Billing,No,9/26/2025,Adult,0,959.8,49-72 month,51829.2
+CUST00239,Arjun Khan,Other,51,Kerala,Kochi,66,Basic,1399.48,89291.93,Two Year,Debit Card,,Yes,No,IT Support,Yes,6/3/2025,Adult,1,1399.48,49-72 month,92365.68
+CUST00240,Rahul Saxena,Male,31,Haryana,Gurugram,33,Premium,1303.85,44473.75,Two Year,Auto Debit,5G,No,No,Customer Service,No,9/8/2026,Adult,0,1303.85,25-48 month,43027.05
+CUST00241,Nisha Das,Female,18,Kerala,Kochi,54,Premium,530.3,29382.91,Two Year,Auto Debit,DSL,No,No,Sales,Yes,3/2/2026,Adult,1,530.3,49-72 month,28636.2
+CUST00242,Kabir Mishra,Male,34,Tamil Nadu,Chennai,20,Standard,1735.52,37305.75,Monthly,Debit Card,DSL,No,No,Network Operations,No,12/17/2024,Adult,0,1735.52,13-24 month,34710.4
+CUST00243,Meera Malhotra,Male,22,Uttar Pradesh,Mathura,25,Premium,1934.97,48230.23,Two Year,Credit Card,5G,No,No,Network Operations,No,1/18/2024,Adult,0,1934.97,25-48 month,48374.25
+CUST00244,Ananya Chauhan,Female,77,Uttar Pradesh,Kanpur,36.26310484,Premium,2055.56,40434.54,Monthly,Bank Transfer,,No,Yes,Accounts,Yes,6/30/2024,Senior,1,2055.56,25-48 month,74540.98778
+CUST00245,Priya Gupta,Male,40,Punjab,Ludhiana,43,Basic,690.76,27410.63,One Year,Debit Card,Fiber Optic,Yes,No,Billing,No,9/11/2026,Adult,0,690.76,25-48 month,29702.68
+CUST00246,Neha Joshi,Male,21,Telangana,Hyderabad,8,Basic,1695.45,13512.92,One Year,Debit Card,DSL,No,No,Billing,Yes,7/17/2026,Adult,1,1695.45,0-12 month,13563.6
+CUST00247,Aditya Gupta,Other,65,Maharashtra,Pune,8,Basic,2305.07,17388.85,Monthly,Cash,DSL,No,Yes,Billing,No,6/10/2026,Senior,0,2305.07,0-12 month,18440.56
+CUST00248,Nisha Patel,Female,18,Gujarat,Ahmedabad,67,Premium,1275.6,89031.71,Monthly,Credit Card,DSL,Yes,No,Customer Service,No,8/1/2024,Adult,0,1275.6,49-72 month,85465.2
+CUST00249,Meera Das,Male,48,Tamil Nadu,Chennai,45,Standard,1178.51,51299.56,Two Year,UPI,Fiber Optic,No,No,Billing,No,12/1/2024,Adult,0,1178.51,25-48 month,53032.95
+CUST00250,Rahul Roy,Other,18,Maharashtra,Pune,26,Basic,1775.3,44123.26,Monthly,Debit Card,5G,No,No,Network Operations,No,8/10/2025,Adult,0,1775.3,25-48 month,46157.8
+CUST00251,Arjun Joshi,Female,55,Karnataka,Bengaluru,61,Basic,2080.35,131202.18,Two Year,Debit Card,5G,No,No,Network Operations,No,3/13/2026,Adult,0,2080.35,49-72 month,126901.35
+CUST00252,Meera Chauhan,Other,38,Bihar,Patna,32,Standard,1708.11,55035.04,Monthly,UPI,DSL,Yes,No,Retention,No,1/11/2026,Adult,0,1708.11,25-48 month,54659.52
+CUST00253,Kavya Yadav,Female,45,Karnataka,Bengaluru,63,Basic,2488.3,152534.65,Two Year,UPI,5G,Yes,No,Billing,No,11/14/2025,Adult,0,2488.3,49-72 month,156762.9
+CUST00254,Isha Khan,Male,73,Uttar Pradesh,Mathura,12,Basic,1782.91,20810.75,Two Year,Cash,No Internet,No,Yes,Customer Service,No,9/5/2026,Senior,0,1782.91,0-12 month,21394.92
+CUST00255,Dev Mishra,Male,40,Uttar Pradesh,Kanpur,65,Standard,2294.33,155231.37,Two Year,Debit Card,Fiber Optic,Yes,No,Sales,No,10/9/2025,Adult,0,2294.33,49-72 month,149131.45
+CUST00256,Ishita Patel,Other,18,Maharashtra,Mumbai,11,Standard,2233.12,23248.2,Two Year,Bank Transfer,Fiber Optic,No,No,Accounts,Yes,1/25/2026,Adult,1,2233.12,0-12 month,24564.32
+CUST00257,Meera Malhotra,Male,48,Punjab,Ludhiana,67,Basic,1524.43,109369.97,One Year,Credit Card,DSL,Yes,No,Retention,No,12/23/2025,Adult,0,1524.43,49-72 month,102136.81
+CUST00258,Ishita Kumar,Male,80,Gujarat,Ahmedabad,69,Basic,1345.97,88764.38,One Year,Credit Card,No Internet,No,Yes,Sales,Yes,12/9/2025,Senior,1,1345.97,49-72 month,92871.93
+CUST00259,Vihaan Malhotra,Other,38,Maharashtra,Pune,54,Premium,2147.73,107988.3,Monthly,Credit Card,Fiber Optic,Yes,No,Network Operations,No,1/5/2024,Adult,0,2147.73,49-72 month,115977.42
+CUST00260,Kavya Chauhan,Male,20,Punjab,Ludhiana,12,Premium,2347.24,29113.21,One Year,UPI,5G,No,No,Customer Service,No,8/15/2025,Adult,0,2347.24,0-12 month,28166.88
+CUST00261,Pooja Patel,Other,50,Tamil Nadu,Chennai,40,Standard,493.67,19816.34,Two Year,Bank Transfer,DSL,Yes,No,Network Operations,Yes,3/16/2026,Adult,1,493.67,25-48 month,19746.8
+CUST00262,Arjun Mishra,Other,31,Delhi,New Delhi,57,Basic,1852.42,111367.29,Two Year,Credit Card,No Internet,Yes,No,Technical Support,Yes,8/12/2025,Adult,1,1852.42,49-72 month,105587.94
+CUST00263,Aarav Saxena,Other,79,Uttar Pradesh,Kanpur,72,Standard,310.8,21051.33,Monthly,Bank Transfer,5G,Yes,Yes,Technical Support,No,8/19/2026,Senior,0,310.8,49-72 month,22377.6
+CUST00264,Aarav Jain,Other,73,Punjab,Ludhiana,59,Basic,787.01,49212.02,One Year,Auto Debit,No Internet,Yes,Yes,Network Operations,Yes,8/20/2026,Senior,1,787.01,49-72 month,46433.59
+CUST00265,Nisha Roy,Other,67,Uttarakhand,Dehradun,1,Basic,1546.93,1601.63,Monthly,Debit Card,5G,Yes,Yes,Billing,No,11/14/2024,Senior,0,1546.93,0-12 month,1546.93
+CUST00266,Aarav Verma,Other,75,Telangana,Hyderabad,52,Premium,703.95,36217.95,Two Year,Bank Transfer,Fiber Optic,Yes,Yes,Retention,No,3/9/2024,Senior,0,703.95,49-72 month,36605.4
+CUST00267,Ananya Mishra,Female,38,Rajasthan,Jaipur,25,Basic,1512.66,38250.09,Two Year,Cash,DSL,Yes,No,Customer Service,No,4/23/2026,Adult,0,1512.66,25-48 month,37816.5
+CUST00268,Vivaan Mehta,Female,31,Maharashtra,Mumbai,28,Standard,658.25,19822.62,One Year,Credit Card,DSL,Yes,No,Technical Support,No,1/15/2025,Adult,0,658.25,25-48 month,18431
+CUST00269,Diya Mishra,Other,65,Delhi,New Delhi,5,Standard,2280.56,12010.77,One Year,Debit Card,Fiber Optic,Yes,Yes,Billing,No,8/16/2025,Senior,0,2280.56,0-12 month,11402.8
+CUST00270,Arjun Das,Female,55,Odisha,Bhubaneswar,60,Standard,2059.06,124746.51,One Year,Bank Transfer,5G,No,No,Sales,No,3/26/2026,Adult,0,2059.06,49-72 month,123543.6
+CUST00271,Sneha Patel,Other,73,Maharashtra,Mumbai,6,Basic,1080.51,6507.12,Monthly,Cash,5G,No,Yes,Technical Support,No,11/14/2025,Senior,0,1080.51,0-12 month,6483.06
+CUST00272,Kavya Gupta,Male,33,Delhi,New Delhi,70,Premium,726.05,53561.67,Two Year,Debit Card,Fiber Optic,Yes,No,Sales,No,1/18/2024,Adult,0,726.05,49-72 month,50823.5
+CUST00273,Ananya Saxena,Female,20,Haryana,Gurugram,54,Basic,2480.12,134808.38,Monthly,Cash,Fiber Optic,Yes,No,Billing,No,10/1/2024,Adult,0,2480.12,49-72 month,133926.48
+CUST00274,Aarav Das,Male,40,Uttar Pradesh,Lucknow,36,Standard,546.18,19830.34,Two Year,Auto Debit,DSL,No,No,Sales,Yes,12/7/2024,Adult,1,546.18,25-48 month,19662.48
+CUST00275,Isha Jain,Other,64,Uttarakhand,Dehradun,50,Standard,2433.67,131157.52,Two Year,UPI,Fiber Optic,Yes,Yes,IT Support,Yes,12/17/2025,Senior,1,2433.67,49-72 month,121683.5
+CUST00276,Meera Gupta,Male,65,Maharashtra,Pune,16,Premium,2083.59,33258.82,Monthly,UPI,No Internet,No,Yes,Retention,No,4/29/2024,Senior,0,2083.59,13-24 month,33337.44
+CUST00277,Dev Jain,Male,75,Maharashtra,Mumbai,69,Premium,1776.51,131478.55,One Year,Bank Transfer,No Internet,No,Yes,Accounts,No,12/14/2025,Senior,0,1776.51,49-72 month,122579.19
+CUST00278,Rohan Chauhan,Male,52,Bihar,Patna,28,Basic,2115.71,63445.47,Two Year,Auto Debit,DSL,No,No,Accounts,No,4/23/2025,Adult,0,2115.71,25-48 month,59239.88
+CUST00279,Vihaan Mehta,Other,74,Uttar Pradesh,Mathura,67,Standard,2492.18,159666.19,Monthly,Auto Debit,DSL,No,Yes,Customer Service,No,7/31/2024,Senior,0,2492.18,49-72 month,166976.06
+CUST00280,Aditya Agarwal,Female,20,Maharashtra,Mumbai,40,Basic,2130.14,88276.75,Two Year,UPI,Fiber Optic,No,No,Network Operations,Yes,4/7/2025,Adult,1,2130.14,25-48 month,85205.6
+CUST00281,Diya Malhotra,Female,21,Uttar Pradesh,Agra,43,Standard,1823.8,75798.81,Two Year,Debit Card,DSL,Yes,No,Accounts,Yes,4/20/2026,Adult,1,1823.8,25-48 month,78423.4
+CUST00282,Rohan Agarwal,Female,73,Bihar,Patna,10,Basic,2127.36,19813.67,One Year,Debit Card,5G,No,Yes,Technical Support,No,10/19/2024,Senior,0,2127.36,0-12 month,21273.6
+CUST00283,Riya Patel,Female,22,Madhya Pradesh,Bhopal,69,Premium,1022.08,69355.16,Two Year,Auto Debit,DSL,No,No,Billing,No,12/17/2024,Adult,0,1022.08,49-72 month,70523.52
+CUST00284,Kavya Kumar,Female,44,Uttar Pradesh,Mathura,55,Premium,1383.57,74817.68,One Year,Cash,Fiber Optic,Yes,No,Technical Support,Yes,7/5/2026,Adult,1,1383.57,49-72 month,76096.35
+CUST00285,Karan Mehta,Male,61,Telangana,Hyderabad,7,Basic,1827.81,12312.64,One Year,Debit Card,Fiber Optic,No,Yes,Technical Support,No,9/26/2024,Senior,0,1827.81,0-12 month,12794.67
+CUST00286,Kabir Yadav,Female,78,Uttarakhand,Dehradun,12,Standard,317.19,3504.17,One Year,Bank Transfer,Fiber Optic,Yes,Yes,Sales,No,8/27/2026,Senior,0,317.19,0-12 month,3806.28
+CUST00287,Kavya Gupta,Male,19,Uttar Pradesh,Mathura,52,Premium,343.79,18216.1,Monthly,UPI,No Internet,No,No,Retention,No,3/13/2024,Adult,0,343.79,49-72 month,17877.08
+CUST00288,Amit Das,Male,54,Kerala,Kochi,71,Premium,1638.43,122712.07,Monthly,Auto Debit,No Internet,No,No,Network Operations,Yes,11/28/2024,Adult,1,1638.43,49-72 month,116328.53
+CUST00289,Kavya Kumar,Female,44,West Bengal,Kolkata,18,Standard,360.8,6135,Monthly,Cash,No Internet,No,No,Technical Support,No,2/24/2026,Adult,0,360.8,13-24 month,6494.4
+CUST00290,Diya Khan,Male,77,Madhya Pradesh,Bhopal,4,Standard,1226.9,4551.89,Two Year,Cash,DSL,No,Yes,IT Support,No,7/8/2024,Senior,0,1226.9,0-12 month,4907.6
+CUST00291,Kabir Das,Other,51,Maharashtra,Mumbai,72,Basic,461.53,33194.83,Two Year,Bank Transfer,5G,No,No,Sales,No,2/8/2026,Adult,0,461.53,49-72 month,33230.16
+CUST00292,Neha Das,Female,24,Uttar Pradesh,Kanpur,33,Premium,1706.22,52886.37,Monthly,Auto Debit,Fiber Optic,No,No,Network Operations,No,4/11/2025,Adult,0,1706.22,25-48 month,56305.26
+CUST00293,Vivaan Mishra,Other,49,Odisha,Bhubaneswar,26,Standard,699.12,16814.27,Two Year,UPI,DSL,Yes,No,IT Support,No,7/15/2025,Adult,0,699.12,25-48 month,18177.12
+CUST00294,Kavya Malhotra,Female,30,Tamil Nadu,Chennai,3,Premium,1018.98,3261.97,Two Year,Bank Transfer,DSL,Yes,No,Technical Support,Yes,3/19/2025,Adult,1,1018.98,0-12 month,3056.94
+CUST00295,Karan Agarwal,Male,44,Kerala,Kochi,66,Standard,2286.08,157332.76,One Year,Bank Transfer,DSL,No,No,Accounts,No,6/25/2025,Adult,0,2286.08,49-72 month,150881.28
+CUST00296,Nisha Khan,Female,80,West Bengal,Kolkata,3,Premium,1843.76,5871.18,Two Year,Auto Debit,No Internet,No,Yes,IT Support,No,7/1/2024,Senior,0,1843.76,0-12 month,5531.28
+CUST00297,Meera Roy,Female,79,Haryana,Gurugram,12,Basic,2120.04,23736.81,One Year,Debit Card,No Internet,Yes,Yes,Billing,No,7/27/2026,Senior,0,2120.04,0-12 month,25440.48
+CUST00298,Sneha Roy,Other,58,Madhya Pradesh,Bhopal,51,Standard,986.5,50376.2,One Year,Cash,5G,No,No,Accounts,No,12/24/2025,Adult,0,986.5,49-72 month,50311.5
+CUST00299,Rohan Gupta,Other,35,Madhya Pradesh,Bhopal,22,Standard,2199.52,47459.71,One Year,Credit Card,Fiber Optic,No,No,Network Operations,No,5/5/2026,Adult,0,2199.52,13-24 month,48389.44
+CUST00300,Rohan Gupta,Other,45,Bihar,Patna,21,Basic,625.17,12467.6,Monthly,Credit Card,No Internet,Yes,No,Technical Support,No,5/31/2024,Adult,0,625.17,13-24 month,13128.57
+CUST00301,Nisha Agarwal,Male,22,Uttar Pradesh,Agra,33,Basic,2151.58,66638.26,Two Year,Cash,5G,Yes,No,Customer Service,Yes,7/11/2024,Adult,1,2151.58,25-48 month,71002.14
+CUST00302,Diya Kumar,Other,55,Uttar Pradesh,Mathura,45,Premium,788.9,37057.89,Two Year,Debit Card,Fiber Optic,No,No,Billing,No,9/16/2024,Adult,0,788.9,25-48 month,35500.5
+CUST00303,Dev Gupta,Male,62,Telangana,Hyderabad,50,Basic,2423.84,123130.56,Monthly,Debit Card,No Internet,Yes,Yes,Network Operations,No,8/26/2026,Senior,0,2423.84,49-72 month,121192
+CUST00304,Karan Singh,Male,64,Bihar,Patna,70,Standard,1815.67,132116.85,One Year,Cash,Fiber Optic,Yes,Yes,Accounts,Yes,4/16/2026,Senior,1,1815.67,49-72 month,127096.9
+CUST00305,Ishita Das,Male,72,Delhi,New Delhi,50,Premium,1888.13,98937.59,Monthly,Debit Card,No Internet,No,Yes,Customer Service,No,8/22/2026,Senior,0,1888.13,49-72 month,94406.5
+CUST00306,Payal Saxena,Other,67,Gujarat,Ahmedabad,47,Premium,2270.96,114744.02,Two Year,UPI,Fiber Optic,No,Yes,Retention,Yes,12/21/2024,Senior,1,2270.96,25-48 month,106735.12
+CUST00307,Aditya Khan,Other,76,Kerala,Kochi,66,Basic,373.14,24000.97,Two Year,UPI,No Internet,Yes,Yes,Technical Support,Yes,6/7/2024,Senior,1,373.14,49-72 month,24627.24
+CUST00308,Priya Joshi,Female,75,Uttar Pradesh,Mathura,63,Basic,2331.65,135156.93,Monthly,Bank Transfer,No Internet,No,Yes,Customer Service,No,6/23/2026,Senior,0,2331.65,49-72 month,146893.95
+CUST00309,Aarav Roy,Female,35,Uttarakhand,Dehradun,56,Premium,1164.01,66857.8,Two Year,Debit Card,Fiber Optic,Yes,No,Technical Support,No,3/29/2026,Adult,0,1164.01,49-72 month,65184.56
+CUST00310,Kavya Sharma,Other,58,Kerala,Kochi,6,Standard,1085.05,6379.59,Monthly,Cash,No Internet,No,No,Network Operations,No,9/25/2025,Adult,0,1085.05,0-12 month,6510.3
+CUST00311,Sneha Singh,Male,69,Uttar Pradesh,Kanpur,29,Basic,1086.98,31768.16,Two Year,UPI,No Internet,Yes,Yes,Billing,No,9/11/2025,Senior,0,1086.98,25-48 month,31522.42
+CUST00312,Aarav Das,Female,36,Bihar,Patna,71,Basic,388.81,25737.29,One Year,Credit Card,No Internet,Yes,No,IT Support,Yes,6/1/2024,Adult,1,388.81,49-72 month,27605.51
+CUST00313,Meera Das,Male,24,Odisha,Bhubaneswar,47,Standard,417.88,20756.1,Two Year,Debit Card,DSL,Yes,No,Technical Support,No,5/27/2025,Adult,0,417.88,25-48 month,19640.36
+CUST00314,Sneha Joshi,Male,49,Maharashtra,Pune,4,Standard,1737.05,6585.41,Two Year,UPI,5G,Yes,No,Customer Service,Yes,12/3/2025,Adult,1,1737.05,0-12 month,6948.2
+CUST00315,Payal Agarwal,Female,59,Bihar,Patna,5,Standard,1052.98,4935.8,Monthly,Auto Debit,No Internet,Yes,No,Customer Service,No,6/17/2024,Adult,0,1052.98,0-12 month,5264.9
+CUST00316,Neha Agarwal,Other,69,Uttarakhand,Dehradun,36.26310484,Basic,847.15,32921.54,Monthly,Bank Transfer,,No,Yes,IT Support,No,4/12/2025,Senior,0,847.15,25-48 month,30720.28926
+CUST00317,Aanya Yadav,Other,19,Telangana,Hyderabad,70,Standard,1425.83,107334.14,Monthly,Cash,5G,Yes,No,Sales,Yes,6/8/2026,Adult,1,1425.83,49-72 month,99808.1
+CUST00318,Rahul Roy,Other,52,Uttarakhand,Dehradun,55,Standard,2120.3,117775.48,Monthly,Auto Debit,Fiber Optic,Yes,No,Retention,Yes,4/12/2024,Adult,1,2120.3,49-72 month,116616.5
+CUST00319,Pooja Agarwal,Male,51,Karnataka,Bengaluru,12,Premium,1923.89,21488.5,Two Year,UPI,Fiber Optic,Yes,No,Billing,Yes,7/1/2024,Adult,1,1923.89,0-12 month,23086.68
+CUST00320,Karan Kumar,Female,79,Kerala,Kochi,15,Standard,467.39,7456.83,One Year,Debit Card,No Internet,No,Yes,Billing,Yes,3/12/2026,Senior,1,467.39,13-24 month,7010.85
+CUST00321,Priya Yadav,Other,23,Gujarat,Ahmedabad,33,Premium,2482.78,80103.66,Monthly,Auto Debit,DSL,Yes,No,Network Operations,No,8/26/2024,Adult,0,2482.78,25-48 month,81931.74
+CUST00322,Rahul Gupta,Female,29,Uttar Pradesh,Kanpur,38,Standard,2070.21,82261.68,One Year,Auto Debit,5G,No,No,Accounts,No,1/20/2026,Adult,0,2070.21,25-48 month,78667.98
+CUST00323,Rahul Kumar,Male,72,Rajasthan,Jaipur,43,Basic,679.64,28740.5,One Year,Debit Card,No Internet,No,Yes,Retention,No,4/10/2024,Senior,0,679.64,25-48 month,29224.52
+CUST00324,Ishita Gupta,Female,23,Rajasthan,Jaipur,72,Standard,528.71,39225.07,Monthly,Credit Card,DSL,Yes,No,IT Support,No,12/16/2025,Adult,0,528.71,49-72 month,38067.12
+CUST00325,Kabir Mishra,Female,71,Telangana,Hyderabad,27,Basic,1142.09,28407.56,Two Year,Credit Card,DSL,No,Yes,Billing,Yes,4/4/2026,Senior,1,1142.09,25-48 month,30836.43
+CUST00326,Pooja Mishra,Male,80,Karnataka,Bengaluru,7,Standard,783.93,5695.67,One Year,Bank Transfer,Fiber Optic,Yes,Yes,Accounts,No,8/26/2024,Senior,0,783.93,0-12 month,5487.51
+CUST00327,Vihaan Agarwal,Other,73,Uttarakhand,Dehradun,57,Premium,2113.58,128400.43,One Year,UPI,Fiber Optic,No,Yes,IT Support,No,7/3/2024,Senior,0,2113.58,49-72 month,120474.06
+CUST00328,Aditya Singh,Female,41,Uttarakhand,Dehradun,53,Basic,1954.22,97002.96,Two Year,UPI,Fiber Optic,Yes,No,Customer Service,Yes,4/5/2025,Adult,1,1954.22,49-72 month,103573.66
+CUST00329,Meera Malhotra,Female,75,Uttar Pradesh,Agra,12,Premium,904.29,11506.05,Monthly,Bank Transfer,Fiber Optic,No,Yes,Billing,Yes,1/24/2026,Senior,1,904.29,0-12 month,10851.48
+CUST00330,Karan Agarwal,Male,58,Kerala,Kochi,69,Standard,577.51,41791.74,One Year,UPI,No Internet,No,No,Billing,No,10/10/2024,Adult,0,577.51,49-72 month,39848.19
+CUST00331,Dev Sharma,Female,18,Punjab,Ludhiana,21,Standard,1907.09,39988.92,Monthly,Bank Transfer,5G,Yes,No,Retention,No,6/5/2025,Adult,0,1907.09,13-24 month,40048.89
+CUST00332,Aditya Gupta,Male,52,Kerala,Kochi,5,Basic,1314.31,6824.4,Two Year,Debit Card,5G,Yes,No,Customer Service,Yes,4/8/2024,Adult,1,1314.31,0-12 month,6571.55
+CUST00333,Rohan Das,Other,58,Rajasthan,Jaipur,53,Premium,2235.28,117634.83,Two Year,Debit Card,5G,No,No,Billing,No,2/1/2024,Adult,0,2235.28,49-72 month,118469.84
+CUST00334,Riya Singh,Male,37,Uttar Pradesh,Mathura,36.26310484,Standard,2321.18,131802.14,Two Year,Cash,No Internet,No,No,Sales,Yes,11/28/2024,Adult,1,2321.18,25-48 month,84173.19369
+CUST00335,Rohan Gupta,Female,24,Uttar Pradesh,Mathura,32,Standard,701.37,20857.24,One Year,Auto Debit,No Internet,No,No,Network Operations,No,8/16/2024,Adult,0,701.37,25-48 month,22443.84
+CUST00336,Arjun Malhotra,Male,23,Karnataka,Bengaluru,22,Standard,737.87,15922.69,Monthly,Cash,5G,Yes,No,Retention,No,12/29/2025,Adult,0,737.87,13-24 month,16233.14
+CUST00337,Pooja Gupta,Female,31,Maharashtra,Pune,67,Standard,2497.91,168725.64,Two Year,UPI,DSL,Yes,No,Customer Service,Yes,6/4/2024,Adult,1,2497.91,49-72 month,167359.97
+CUST00338,Vihaan Das,Male,77,Uttar Pradesh,Lucknow,66,Basic,1735.96,122947.97,Monthly,Auto Debit,No Internet,Yes,Yes,Retention,Yes,3/19/2024,Senior,1,1735.96,49-72 month,114573.36
+CUST00339,Riya Mishra,Female,67,Uttar Pradesh,Mathura,42,Basic,2331.58,105552.06,One Year,Bank Transfer,5G,Yes,Yes,Network Operations,No,12/28/2024,Senior,0,2331.58,25-48 month,97926.36
+CUST00340,Vivaan Gupta,Other,66,Uttar Pradesh,Kanpur,69,Standard,445.51,29648.43,One Year,Credit Card,No Internet,No,Yes,Billing,No,7/28/2025,Senior,0,445.51,49-72 month,30740.19
+CUST00341,Riya Singh,Other,35,Odisha,Bhubaneswar,70,Premium,1478.29,99100.83,Two Year,Auto Debit,Fiber Optic,No,No,IT Support,No,4/16/2026,Adult,0,1478.29,49-72 month,103480.3
+CUST00342,Aanya Verma,Male,21,Bihar,Patna,42,Standard,547.1,21966.55,One Year,Debit Card,DSL,No,No,Retention,No,10/7/2024,Adult,0,547.1,25-48 month,22978.2
+CUST00343,Aditya Verma,Female,44,Punjab,Ludhiana,16,Basic,1099.65,17047.86,Monthly,Debit Card,DSL,Yes,No,Accounts,No,6/14/2026,Adult,0,1099.65,13-24 month,17594.4
+CUST00344,Kabir Kumar,Male,23,Madhya Pradesh,Bhopal,58,Premium,2343.23,126399.38,Two Year,Auto Debit,Fiber Optic,No,No,Retention,No,3/24/2026,Adult,0,2343.23,49-72 month,135907.34
+CUST00345,Amit Mishra,Female,26,Kerala,Kochi,37,Standard,1994.78,72193.95,Two Year,Cash,5G,No,No,Customer Service,Yes,5/22/2024,Adult,1,1994.78,25-48 month,73806.86
+CUST00346,Aarav Sharma,Other,54,Delhi,New Delhi,20,Standard,2476.61,49391.26,Two Year,Bank Transfer,DSL,No,No,Accounts,Yes,4/16/2025,Adult,1,2476.61,13-24 month,49532.2
+CUST00347,Priya Khan,Female,30,Bihar,Patna,11,Standard,600.41,6275.58,One Year,Debit Card,No Internet,Yes,No,Accounts,Yes,6/1/2024,Adult,1,600.41,0-12 month,6604.51
+CUST00348,Ananya Yadav,Female,28,Uttarakhand,Dehradun,65,Standard,1148.4,70060.26,Two Year,Cash,Fiber Optic,Yes,No,Sales,No,1/9/2026,Adult,0,1148.4,49-72 month,74646
+CUST00349,Sneha Gupta,Other,69,Uttar Pradesh,Kanpur,16,Premium,1496.08,22736.71,Monthly,UPI,5G,No,Yes,Network Operations,Yes,3/27/2024,Senior,1,1496.08,13-24 month,23937.28
+CUST00350,Isha Agarwal,Other,21,Delhi,New Delhi,16,Basic,1973.75,33005.93,One Year,Debit Card,Fiber Optic,No,No,IT Support,No,6/24/2026,Adult,0,1973.75,13-24 month,31580
+CUST00351,Rahul Saxena,Male,43,Tamil Nadu,,70,Standard,819.33,56508.18,Monthly,Cash,Fiber Optic,No,No,IT Support,No,7/9/2024,Adult,0,819.33,49-72 month,57353.1
+CUST00352,Kabir Malhotra,Female,46,Telangana,Hyderabad,69,Basic,1304.87,88250.65,Two Year,Credit Card,No Internet,Yes,No,IT Support,No,11/15/2025,Adult,0,1304.87,49-72 month,90036.03
+CUST00353,Diya Agarwal,Other,62,Karnataka,Bengaluru,59,Premium,1452.29,87115.02,Two Year,UPI,Fiber Optic,No,Yes,Technical Support,No,1/20/2026,Senior,0,1452.29,49-72 month,85685.11
+CUST00354,Ananya Yadav,Other,54,Bihar,Patna,38,Standard,1450.42,58140.89,Monthly,Credit Card,DSL,No,No,Sales,No,8/8/2025,Adult,0,1450.42,25-48 month,55115.96
+CUST00355,Meera Patel,Male,39,Uttarakhand,Dehradun,37,Standard,895,34261.03,Two Year,Auto Debit,Fiber Optic,Yes,No,Technical Support,Yes,4/14/2025,Adult,1,895,25-48 month,33115
+CUST00356,Diya Jain,Other,68,Uttar Pradesh,Agra,67,Basic,348.12,21706.66,Monthly,Auto Debit,No Internet,No,Yes,Customer Service,Yes,2/18/2026,Senior,1,348.12,49-72 month,23324.04
+CUST00357,Riya Das,Other,31,Uttar Pradesh,Agra,29,Premium,1620.55,44002.2,Two Year,Cash,5G,No,No,Customer Service,Yes,3/23/2024,Adult,1,1620.55,25-48 month,46995.95
+CUST00358,Neha Chauhan,Other,64,Uttarakhand,Dehradun,33,Basic,1133.33,39338.98,Two Year,Bank Transfer,Fiber Optic,No,Yes,Technical Support,No,3/14/2026,Senior,0,1133.33,25-48 month,37399.89
+CUST00359,Riya Agarwal,Other,73,Kerala,Kochi,22,Basic,1157.18,27028.66,One Year,Debit Card,No Internet,Yes,Yes,Accounts,No,1/26/2024,Senior,0,1157.18,13-24 month,25457.96
+CUST00360,Vihaan Kumar,Female,80,Odisha,Bhubaneswar,6,Premium,1791.91,10005.43,One Year,Cash,5G,No,Yes,Retention,No,3/25/2024,Senior,0,1791.91,0-12 month,10751.46
+CUST00361,Aditya Chauhan,Female,57,Tamil Nadu,Chennai,2,Premium,2391.75,5007.54,Monthly,UPI,DSL,Yes,No,Accounts,No,2/1/2026,Adult,0,2391.75,0-12 month,4783.5
+CUST00362,Vivaan Saxena,Male,51,Maharashtra,Mumbai,11,Standard,553.75,5639.47,Monthly,UPI,DSL,No,No,Sales,No,7/24/2024,Adult,0,553.75,0-12 month,6091.25
+CUST00363,Isha Saxena,Other,26,Uttarakhand,Dehradun,11,Premium,672.9,6860.82,One Year,UPI,No Internet,No,No,IT Support,No,3/25/2026,Adult,0,672.9,0-12 month,7401.9
+CUST00364,Payal Singh,Male,42,Maharashtra,Mumbai,29,Premium,1130.57,32428.37,Monthly,Auto Debit,Fiber Optic,Yes,No,Retention,No,10/6/2024,Adult,0,1130.57,25-48 month,32786.53
+CUST00365,Payal Singh,Other,80,Haryana,Gurugram,7,Premium,2001.9,15068.48,Two Year,Credit Card,DSL,Yes,Yes,Retention,No,8/14/2024,Senior,0,2001.9,0-12 month,14013.3
+CUST00366,Aarav Patel,Other,38,Unknown,Bengaluru,48,Premium,2037.64,90551.41,One Year,Credit Card,Fiber Optic,No,No,Network Operations,Yes,3/29/2026,Adult,1,2037.64,25-48 month,97806.72
+CUST00367,Amit Mehta,Male,48,Bihar,Patna,16,Premium,393.83,6230.03,Monthly,Credit Card,Fiber Optic,Yes,No,Customer Service,No,3/4/2025,Adult,0,393.83,13-24 month,6301.28
+CUST00368,Arjun Singh,Female,20,Punjab,Ludhiana,55,Premium,803.57,46641.86,Monthly,Credit Card,DSL,Yes,No,Customer Service,No,3/30/2026,Adult,0,803.57,49-72 month,44196.35
+CUST00369,Aditya Chauhan,Male,71,Gujarat,Ahmedabad,25,Premium,1281.34,30008.3,Monthly,Credit Card,5G,No,Yes,Billing,No,5/23/2026,Senior,0,1281.34,25-48 month,32033.5
+CUST00370,Ananya Malhotra,Female,73,Bihar,Patna,58,Basic,1182.63,68276.74,Monthly,Credit Card,DSL,No,Yes,Billing,No,2/5/2025,Senior,0,1182.63,49-72 month,68592.54
+CUST00371,Karan Patel,Male,76,Maharashtra,Pune,29,Premium,2054.9,58164.91,One Year,Cash,DSL,No,Yes,Billing,No,3/27/2025,Senior,0,2054.9,25-48 month,59592.1
+CUST00372,Karan Singh,Other,50,Gujarat,Ahmedabad,71,Premium,1666.74,109318.47,One Year,Debit Card,DSL,Yes,No,Retention,No,5/6/2024,Adult,0,1666.74,49-72 month,118338.54
+CUST00373,Neha Patel,Female,68,Gujarat,Ahmedabad,28,Premium,963.81,28501.24,Monthly,Bank Transfer,5G,Yes,Yes,Billing,No,7/8/2026,Senior,0,963.81,25-48 month,26986.68
+CUST00374,Vivaan Joshi,Female,34,Uttar Pradesh,Kanpur,69,Standard,1194.41,83340.37,Two Year,Cash,Fiber Optic,Yes,No,Sales,No,9/24/2026,Adult,0,1194.41,49-72 month,82414.29
+CUST00375,Payal Khan,Male,47,Rajasthan,Jaipur,37,Standard,1022.75,40528.86,Monthly,Credit Card,Fiber Optic,No,No,Technical Support,No,12/30/2024,Adult,0,1022.75,25-48 month,37841.75
+CUST00376,Dev Sharma,Female,21,Delhi,New Delhi,23,Standard,466.08,10324.91,Monthly,Cash,DSL,No,No,Technical Support,Yes,4/16/2026,Adult,1,466.08,13-24 month,10719.84
+CUST00377,Vihaan Gupta,Male,61,Haryana,Gurugram,25,Basic,1326.79,31748.64,Two Year,Debit Card,No Internet,No,Yes,IT Support,No,2/9/2026,Senior,0,1326.79,25-48 month,33169.75
+CUST00378,Priya Singh,Male,44,Uttar Pradesh,Mathura,20,Premium,1737.16,36726.2,One Year,Credit Card,Fiber Optic,Yes,No,Accounts,Yes,12/24/2025,Adult,1,1737.16,13-24 month,34743.2
+CUST00379,Isha Patel,Male,54,Karnataka,Bengaluru,48,Premium,1936.48,87398.06,Two Year,Auto Debit,Fiber Optic,No,No,Customer Service,Yes,5/26/2026,Adult,1,1936.48,25-48 month,92951.04
+CUST00380,Meera Das,Other,55,Uttarakhand,Dehradun,41,Standard,1147.73,48126.3,Two Year,UPI,No Internet,No,No,Network Operations,Yes,9/12/2026,Adult,1,1147.73,25-48 month,47056.93
+CUST00381,Priya Malhotra,Female,36,Haryana,Gurugram,65,Standard,2170.71,134580.46,Two Year,Debit Card,No Internet,Yes,No,Retention,Yes,9/7/2025,Adult,1,2170.71,49-72 month,141096.15
+CUST00382,Nisha Mehta,Other,60,Telangana,Hyderabad,46,Premium,2072.44,101863.23,Two Year,Debit Card,Fiber Optic,No,Yes,Sales,No,3/22/2026,Adult,0,2072.44,25-48 month,95332.24
+CUST00383,Aarav Joshi,Other,26,Uttar Pradesh,Agra,59,Basic,984.63,54214.42,Monthly,Auto Debit,Fiber Optic,Yes,No,Technical Support,No,3/1/2026,Adult,0,984.63,49-72 month,58093.17
+CUST00384,Vivaan Chauhan,Female,63,Telangana,Hyderabad,64,Premium,1664.86,99805.39,Two Year,UPI,DSL,No,Yes,Accounts,No,5/4/2024,Senior,0,1664.86,49-72 month,106551.04
+CUST00385,Ishita Das,Female,47,Haryana,Gurugram,10,Basic,1574.19,14703.33,Two Year,Bank Transfer,DSL,Yes,No,Accounts,No,5/9/2024,Adult,0,1574.19,0-12 month,15741.9
+CUST00386,Rahul Roy,Female,78,Uttarakhand,Dehradun,15,Standard,545.33,8600.65,Two Year,Debit Card,DSL,Yes,Yes,Retention,Yes,12/30/2025,Senior,1,545.33,13-24 month,8179.95
+CUST00387,Diya Das,Other,69,West Bengal,Kolkata,35,Basic,1281.65,46397.26,Two Year,UPI,Fiber Optic,Yes,Yes,Sales,No,7/24/2026,Senior,0,1281.65,25-48 month,44857.75
+CUST00388,Priya Patel,Other,76,Kerala,Kochi,30,Standard,1017.06,29407.04,Monthly,Auto Debit,Fiber Optic,Yes,Yes,Network Operations,Yes,5/26/2026,Senior,1,1017.06,25-48 month,30511.8
+CUST00389,Kabir Sharma,Other,57,Odisha,Bhubaneswar,11,Standard,440.41,4822.65,One Year,Credit Card,No Internet,Yes,No,IT Support,Yes,11/20/2024,Adult,1,440.41,0-12 month,4844.51
+CUST00390,Priya Saxena,Other,75,Maharashtra,Pune,28,Premium,826.17,21454.05,Two Year,Auto Debit,5G,Yes,Yes,IT Support,No,3/8/2025,Senior,0,826.17,25-48 month,23132.76
+CUST00391,Dev Gupta,Other,18,Unknown,Dehradun,13,Standard,1803.24,24288.95,Monthly,Bank Transfer,DSL,Yes,No,Technical Support,No,7/20/2025,Adult,0,1803.24,13-24 month,23442.12
+CUST00392,Nisha Yadav,Male,27,Tamil Nadu,Chennai,66,Standard,1023.36,72654.99,Two Year,UPI,No Internet,Yes,No,Retention,Yes,2/16/2025,Adult,1,1023.36,49-72 month,67541.76
+CUST00393,Vivaan Roy,Other,68,Uttar Pradesh,Kanpur,63,Premium,691.48,46622.81,Monthly,UPI,DSL,No,Yes,Technical Support,No,8/25/2024,Senior,0,691.48,49-72 month,43563.24
+CUST00394,Aanya Sharma,Other,30,Tamil Nadu,Chennai,14,Standard,1154.29,15708.58,One Year,UPI,DSL,No,No,Sales,No,12/5/2025,Adult,0,1154.29,13-24 month,16160.06
+CUST00395,Arjun Joshi,Male,40,Uttarakhand,Dehradun,42,Standard,1826.58,73768.16,Monthly,Debit Card,DSL,Yes,No,Technical Support,Yes,2/2/2026,Adult,1,1826.58,25-48 month,76716.36
+CUST00396,Rahul Mehta,Other,30,Gujarat,Ahmedabad,64,Premium,1698.39,103524.06,Two Year,Cash,DSL,Yes,No,IT Support,Yes,5/29/2025,Adult,1,1698.39,49-72 month,108696.96
+CUST00397,Amit Roy,Male,39,Punjab,Ludhiana,5,Standard,1172.92,5638.21,Two Year,UPI,DSL,Yes,No,Accounts,No,12/3/2025,Adult,0,1172.92,0-12 month,5864.6
+CUST00398,Sneha Mishra,Other,18,Telangana,Hyderabad,41,Premium,2327.19,97142.75,Monthly,UPI,Fiber Optic,No,No,IT Support,No,6/10/2026,Adult,0,2327.19,25-48 month,95414.79
+CUST00399,Dev Saxena,Other,45,Uttar Pradesh,Mathura,48,Premium,2124.45,106029.28,Monthly,Cash,No Internet,Yes,No,Accounts,No,6/3/2025,Adult,0,2124.45,25-48 month,101973.6
+CUST00400,Ishita Saxena,Male,26,Kerala,Kochi,27,Basic,1355.74,38440.66,One Year,Credit Card,Fiber Optic,No,No,Technical Support,No,3/3/2026,Adult,0,1355.74,25-48 month,36604.98
+CUST00401,Vivaan Jain,Female,60,Uttar Pradesh,Lucknow,39,Standard,523.12,21878.03,Monthly,Debit Card,DSL,No,Yes,Retention,No,2/8/2025,Adult,0,523.12,25-48 month,20401.68
+CUST00402,Diya Mehta,Female,54,Rajasthan,Jaipur,57,Premium,2198.28,122062.37,Two Year,Cash,No Internet,Yes,No,Technical Support,No,4/3/2026,Adult,0,2198.28,49-72 month,125301.96
+CUST00403,Vihaan Verma,Male,64,Maharashtra,Mumbai,51,Standard,548.36,29126.55,Two Year,Credit Card,DSL,Yes,Yes,Retention,No,10/9/2024,Senior,0,548.36,49-72 month,27966.36
+CUST00404,Amit Jain,Female,34,Maharashtra,Pune,29,Basic,1951.25,60642.86,Monthly,Cash,5G,Yes,No,Customer Service,No,6/28/2025,Adult,0,1951.25,25-48 month,56586.25
+CUST00405,Vihaan Das,Female,23,Uttar Pradesh,Agra,49,Standard,2031.2,99482.94,One Year,Debit Card,No Internet,Yes,No,IT Support,No,9/4/2024,Adult,0,2031.2,49-72 month,99528.8
+CUST00406,Aditya Gupta,Male,37,Maharashtra,Mumbai,35,Standard,2363.79,85763.68,One Year,Cash,Fiber Optic,Yes,No,Billing,No,5/30/2026,Adult,0,2363.79,25-48 month,82732.65
+CUST00407,Aditya Joshi,Male,29,Uttar Pradesh,Mathura,32,Basic,1078.47,33876.99,Two Year,Debit Card,Fiber Optic,Yes,No,IT Support,Yes,6/11/2024,Adult,1,1078.47,25-48 month,34511.04
+CUST00408,Isha Roy,Female,70,Bihar,Patna,27,Premium,2149.49,55531.55,Monthly,Bank Transfer,DSL,No,Yes,Network Operations,No,3/5/2025,Senior,0,2149.49,25-48 month,58036.23
+CUST00409,Kabir Sharma,Other,39,Uttar Pradesh,Agra,59,Basic,487.01,29632.15,Two Year,Debit Card,Fiber Optic,Yes,No,Technical Support,No,4/13/2025,Adult,0,487.01,49-72 month,28733.59
+CUST00410,Sneha Saxena,Female,52,Rajasthan,Jaipur,36,Standard,1764.33,64462.65,One Year,UPI,Fiber Optic,Yes,No,IT Support,No,9/20/2024,Adult,0,1764.33,25-48 month,63515.88
+CUST00411,Payal Das,Other,54,Tamil Nadu,Chennai,56,Standard,2342.08,136562.34,Two Year,Bank Transfer,5G,Yes,No,Customer Service,No,7/11/2024,Adult,0,2342.08,49-72 month,131156.48
+CUST00412,Ananya Mehta,Other,76,Uttar Pradesh,Mathura,36.26310484,Basic,917.74,53120.79,Two Year,Cash,5G,Yes,Yes,Accounts,Yes,2/17/2025,Senior,1,917.74,25-48 month,33280.10183
+CUST00413,Diya Khan,Female,39,Haryana,Gurugram,25,Basic,2063.89,54369.45,Two Year,Bank Transfer,Fiber Optic,Yes,No,IT Support,No,10/14/2025,Adult,0,2063.89,25-48 month,51597.25
+CUST00414,Sneha Sharma,Male,72,Uttar Pradesh,Lucknow,60,Standard,2315.07,132714.14,Two Year,UPI,Fiber Optic,No,Yes,IT Support,Yes,8/23/2024,Senior,1,2315.07,49-72 month,138904.2
+CUST00415,Meera Gupta,Other,18,Unknown,Jaipur,46,Premium,450.36,21004.29,One Year,Cash,DSL,No,No,Billing,No,1/20/2025,Adult,0,450.36,25-48 month,20716.56
+CUST00416,Vivaan Khan,Male,72,West Bengal,Kolkata,22,Basic,2405.53,50642.17,Two Year,Credit Card,DSL,No,Yes,Billing,Yes,2/8/2024,Senior,1,2405.53,13-24 month,52921.66
+CUST00417,Vihaan Kumar,Other,69,Maharashtra,Mumbai,60,Standard,964.87,53313.88,One Year,Credit Card,Fiber Optic,Yes,Yes,Sales,No,9/27/2024,Senior,0,964.87,49-72 month,57892.2
+CUST00418,Neha Singh,Female,48,Karnataka,Bengaluru,51,Premium,1284.5,63008.35,One Year,UPI,DSL,No,No,Sales,Yes,9/10/2025,Adult,1,1284.5,49-72 month,65509.5
+CUST00419,Meera Gupta,Female,36,Uttar Pradesh,Lucknow,11,Standard,2176.4,22602.53,Monthly,UPI,5G,Yes,No,Technical Support,No,10/27/2024,Adult,0,2176.4,0-12 month,23940.4
+CUST00420,Arjun Jain,Male,55,West Bengal,Kolkata,38,Premium,426.01,17246.25,Two Year,Credit Card,5G,No,No,Technical Support,No,4/29/2024,Adult,0,426.01,25-48 month,16188.38
+CUST00421,Rahul Chauhan,Other,69,Bihar,Patna,33,Standard,1482.14,49959.07,Monthly,Credit Card,No Internet,No,Yes,Technical Support,No,10/12/2024,Senior,0,1482.14,25-48 month,48910.62
+CUST00422,Kabir Sharma,Male,29,Kerala,Kochi,36,Standard,1702.28,60255.55,One Year,Bank Transfer,5G,Yes,No,Technical Support,Yes,2/23/2024,Adult,1,1702.28,25-48 month,61282.08
+CUST00423,Rohan Agarwal,Other,25,Haryana,Gurugram,12,Standard,1473.66,17032.33,Two Year,Auto Debit,DSL,Yes,No,IT Support,No,9/30/2024,Adult,0,1473.66,0-12 month,17683.92
+CUST00424,Nisha Verma,Other,63,Karnataka,Bengaluru,12,Premium,347.23,4378.47,One Year,Bank Transfer,No Internet,Yes,Yes,Technical Support,Yes,7/25/2025,Senior,1,347.23,0-12 month,4166.76
+CUST00425,Pooja Kumar,Female,57,Maharashtra,Pune,1,Standard,1359.72,1278.57,One Year,Credit Card,DSL,Yes,No,Retention,No,2/8/2026,Adult,0,1359.72,0-12 month,1359.72
+CUST00426,Arjun Joshi,Other,77,Madhya Pradesh,Bhopal,63,Standard,1692.8,101265.08,One Year,Credit Card,DSL,Yes,Yes,Retention,No,2/9/2025,Senior,0,1692.8,49-72 month,106646.4
+CUST00427,Kavya Agarwal,Other,63,Uttarakhand,Dehradun,5,Standard,1329.77,6605.17,Monthly,Debit Card,Fiber Optic,No,Yes,Customer Service,Yes,5/19/2025,Senior,1,1329.77,0-12 month,6648.85
+CUST00428,Rohan Mishra,Female,19,Gujarat,Ahmedabad,6,Standard,358.23,2315.06,One Year,Bank Transfer,5G,No,No,Technical Support,No,8/5/2026,Adult,0,358.23,0-12 month,2149.38
+CUST00429,Ananya Mehta,Other,79,Uttar Pradesh,Mathura,47,Basic,786.54,38995.62,One Year,Credit Card,No Internet,No,Yes,Retention,No,10/11/2025,Senior,0,786.54,25-48 month,36967.38
+CUST00430,Vivaan Yadav,Male,54,Uttar Pradesh,Agra,12,Standard,359.26,4399.08,Monthly,Debit Card,Fiber Optic,No,No,Accounts,No,9/7/2025,Adult,0,359.26,0-12 month,4311.12
+CUST00431,Riya Sharma,Male,36,Odisha,Bhubaneswar,38,Basic,2253.99,86413.81,Two Year,UPI,DSL,No,No,Billing,No,3/18/2024,Adult,0,2253.99,25-48 month,85651.62
+CUST00432,Aarav Singh,Male,73,Maharashtra,Mumbai,50,Premium,888.4,47738.18,Monthly,Credit Card,5G,No,Yes,Customer Service,Yes,3/18/2024,Senior,1,888.4,49-72 month,44420
+CUST00433,Diya Mishra,Other,79,Uttarakhand,Dehradun,35,Premium,1574.72,51569.98,Monthly,Bank Transfer,5G,Yes,Yes,Technical Support,Yes,1/30/2024,Senior,1,1574.72,25-48 month,55115.2
+CUST00434,Aditya Singh,Female,61,Maharashtra,Mumbai,49,Standard,1549.54,77917.82,One Year,Auto Debit,5G,Yes,Yes,Technical Support,No,3/24/2025,Senior,0,1549.54,49-72 month,75927.46
+CUST00435,Arjun Jain,Female,72,Karnataka,Bengaluru,35,Premium,1701.27,57106.03,One Year,Bank Transfer,5G,Yes,Yes,Sales,No,2/28/2026,Senior,0,1701.27,25-48 month,59544.45
+CUST00436,Aanya Mehta,Male,58,Tamil Nadu,Chennai,6,Premium,1209.37,7145.08,One Year,Cash,5G,Yes,No,Network Operations,No,10/6/2025,Adult,0,1209.37,0-12 month,7256.22
+CUST00437,Aditya Verma,Female,50,Odisha,Bhubaneswar,27,Standard,1708.88,48741.37,One Year,UPI,5G,No,No,Network Operations,No,4/28/2024,Adult,0,1708.88,25-48 month,46139.76
+CUST00438,Karan Singh,Other,66,Telangana,Hyderabad,57,Standard,905.09,51609.65,One Year,Cash,DSL,Yes,Yes,Sales,No,3/29/2024,Senior,0,905.09,49-72 month,51590.13
+CUST00439,Ananya Saxena,Other,42,Bihar,Patna,71,Standard,740.98,50933.96,Monthly,Auto Debit,No Internet,No,No,Retention,No,2/6/2024,Adult,0,740.98,49-72 month,52609.58
+CUST00440,Sneha Khan,Other,55,Madhya Pradesh,Bhopal,44,Premium,1042.13,49255.62,One Year,Bank Transfer,DSL,No,No,Accounts,Yes,6/9/2025,Adult,1,1042.13,25-48 month,45853.72
+CUST00441,Diya Agarwal,Female,69,Uttarakhand,Dehradun,58,Basic,2028.28,110954.36,Two Year,Cash,Fiber Optic,No,Yes,Sales,No,12/14/2024,Senior,0,2028.28,49-72 month,117640.24
+CUST00442,Diya Jain,Female,75,Uttar Pradesh,Mathura,31,Premium,826.75,26274.35,Monthly,Cash,5G,Yes,Yes,Accounts,No,7/19/2024,Senior,0,826.75,25-48 month,25629.25
+CUST00443,Arjun Das,Other,69,Gujarat,Ahmedabad,15,Basic,2468.56,37775.46,Monthly,Auto Debit,DSL,No,Yes,Network Operations,No,9/5/2025,Senior,0,2468.56,13-24 month,37028.4
+CUST00444,Kavya Roy,Female,57,Rajasthan,Jaipur,60,Basic,546.04,32105.97,Monthly,Auto Debit,Fiber Optic,Yes,No,Accounts,No,1/22/2025,Adult,0,546.04,49-72 month,32762.4
+CUST00445,Aditya Sharma,Male,23,Gujarat,Ahmedabad,37,Standard,995.23,38437,One Year,Bank Transfer,5G,No,No,Retention,Yes,1/19/2026,Adult,1,995.23,25-48 month,36823.51
+CUST00446,Vihaan Joshi,Other,80,Uttar Pradesh,Kanpur,9,Premium,489.23,4655.7,Monthly,Auto Debit,5G,No,Yes,IT Support,Yes,6/21/2026,Senior,1,489.23,0-12 month,4403.07
+CUST00447,Sneha Malhotra,Male,49,West Bengal,Kolkata,2,Premium,344.38,731.17,Monthly,Cash,5G,Yes,No,Customer Service,No,7/31/2026,Adult,0,344.38,0-12 month,688.76
+CUST00448,Diya Patel,Male,47,Odisha,Bhubaneswar,52,Basic,887.99,42746.98,Monthly,Auto Debit,Fiber Optic,No,No,Technical Support,Yes,7/13/2024,Adult,1,887.99,49-72 month,46175.48
+CUST00449,Aarav Jain,Female,56,Delhi,New Delhi,48,Basic,2013.45,89830.47,Two Year,Bank Transfer,DSL,No,No,Retention,No,2/19/2024,Adult,0,2013.45,25-48 month,96645.6
+CUST00450,Diya Chauhan,Male,25,Bihar,Patna,62,Standard,753.17,47980.45,Two Year,Debit Card,Fiber Optic,No,No,IT Support,No,5/21/2026,Adult,0,753.17,49-72 month,46696.54
+CUST00451,Dev Malhotra,Other,64,Maharashtra,Pune,69,Premium,1692.38,119798.66,One Year,Bank Transfer,Fiber Optic,No,Yes,IT Support,No,1/2/2025,Senior,0,1692.38,49-72 month,116774.22
+CUST00452,Arjun Patel,Other,80,Maharashtra,Pune,3,Standard,607.51,1740.59,One Year,Cash,No Internet,Yes,Yes,Sales,Yes,8/25/2026,Senior,1,607.51,0-12 month,1822.53
+CUST00453,Riya Yadav,Male,73,Tamil Nadu,Chennai,10,Basic,1907.6,19400.84,One Year,Cash,Fiber Optic,No,Yes,Billing,Yes,1/23/2026,Senior,1,1907.6,0-12 month,19076
+CUST00454,Rohan Mehta,Other,79,Kerala,Kochi,70,Standard,2308.67,155246.77,Monthly,Debit Card,5G,No,Yes,Sales,No,11/4/2024,Senior,0,2308.67,49-72 month,161606.9
+CUST00455,Amit Joshi,Male,79,Uttar Pradesh,Kanpur,29,Premium,648.32,17562.15,Two Year,Debit Card,Fiber Optic,No,Yes,IT Support,No,7/7/2025,Senior,0,648.32,25-48 month,18801.28
+CUST00456,Kavya Chauhan,Other,46,Tamil Nadu,Chennai,9,Standard,346.66,2930.19,Two Year,Bank Transfer,DSL,No,No,Billing,No,4/12/2024,Adult,0,346.66,0-12 month,3119.94
+CUST00457,Isha Verma,Male,26,Punjab,Ludhiana,8,Standard,1363.3,10047.58,One Year,UPI,DSL,No,No,Accounts,No,4/11/2026,Adult,0,1363.3,0-12 month,10906.4
+CUST00458,Sneha Chauhan,Male,56,Tamil Nadu,Chennai,50,Basic,2364.57,109304.78,Monthly,Auto Debit,DSL,No,No,Sales,Yes,4/4/2026,Adult,1,2364.57,49-72 month,118228.5
+CUST00459,Karan Agarwal,Other,73,Tamil Nadu,Chennai,57,Premium,1603.34,98307.62,Two Year,Bank Transfer,5G,No,Yes,Technical Support,No,6/10/2025,Senior,0,1603.34,49-72 month,91390.38
+CUST00460,Aarav Kumar,Other,43,Kerala,Kochi,59,Standard,1776.88,108325.06,One Year,Bank Transfer,No Internet,No,No,Network Operations,No,6/20/2026,Adult,0,1776.88,49-72 month,104835.92
+CUST00461,Neha Patel,Male,30,Madhya Pradesh,Bhopal,65,Premium,415.97,28804.16,Monthly,Cash,5G,No,No,Network Operations,No,11/17/2025,Adult,0,415.97,49-72 month,27038.05
+CUST00462,Sneha Roy,Other,71,Uttar Pradesh,Lucknow,7,Basic,1884.54,13913.07,One Year,Cash,DSL,No,Yes,IT Support,Yes,2/25/2026,Senior,1,1884.54,0-12 month,13191.78
+CUST00463,Nisha Roy,Other,53,Rajasthan,Jaipur,11,Standard,2344.53,24689.41,Two Year,Debit Card,DSL,Yes,No,Sales,No,6/12/2024,Adult,0,2344.53,0-12 month,25789.83
+CUST00464,Ishita Patel,Male,54,Bihar,Patna,43,Basic,2347.02,102344.56,Two Year,UPI,5G,Yes,No,IT Support,Yes,8/17/2025,Adult,1,2347.02,25-48 month,100921.86
+CUST00465,Sneha Saxena,Male,34,Odisha,Bhubaneswar,17,Basic,840.77,14949.05,One Year,Credit Card,DSL,No,No,Retention,No,12/19/2025,Adult,0,840.77,13-24 month,14293.09
+CUST00466,Rohan Malhotra,Female,31,Delhi,New Delhi,3,Standard,799.48,2472.07,Monthly,UPI,DSL,Yes,No,Sales,Yes,6/13/2025,Adult,1,799.48,0-12 month,2398.44
+CUST00467,Arjun Mishra,Other,55,Uttarakhand,Dehradun,1,Standard,398.91,413.21,Two Year,Auto Debit,DSL,No,No,Billing,No,6/11/2025,Adult,0,398.91,0-12 month,398.91
+CUST00468,Isha Das,Other,79,Maharashtra,Mumbai,49,Standard,1967.33,93573.51,Monthly,Auto Debit,Fiber Optic,Yes,Yes,Billing,Yes,8/25/2026,Senior,1,1967.33,49-72 month,96399.17
+CUST00469,Ananya Khan,Male,71,Uttar Pradesh,Kanpur,37,Basic,1110.36,39695.42,Two Year,Credit Card,No Internet,No,Yes,Network Operations,Yes,8/25/2026,Senior,1,1110.36,25-48 month,41083.32
+CUST00470,Rahul Agarwal,Other,56,Uttarakhand,Dehradun,49,Standard,1335.2,66961,Two Year,Auto Debit,No Internet,No,No,Technical Support,No,11/1/2025,Adult,0,1335.2,49-72 month,65424.8
+CUST00471,Dev Mehta,Female,45,Madhya Pradesh,Bhopal,72,Premium,2007.92,144222.91,One Year,UPI,5G,No,No,Sales,Yes,3/28/2026,Adult,1,2007.92,49-72 month,144570.24
+CUST00472,Ishita Khan,Other,63,Uttarakhand,Dehradun,21,Basic,2180.7,43439.37,Two Year,UPI,No Internet,Yes,Yes,Billing,Yes,1/20/2026,Senior,1,2180.7,13-24 month,45794.7
+CUST00473,Amit Chauhan,Female,49,Punjab,Ludhiana,64,Premium,989.24,62469.15,One Year,Credit Card,5G,Yes,No,Network Operations,No,5/25/2024,Adult,0,989.24,49-72 month,63311.36
+CUST00474,Vihaan Singh,Other,64,Odisha,Bhubaneswar,60,Basic,2219.34,131641.54,One Year,Bank Transfer,No Internet,Yes,Yes,Network Operations,No,9/18/2026,Senior,0,2219.34,49-72 month,133160.4
+CUST00475,Aditya Das,Female,77,Uttar Pradesh,Kanpur,57,Premium,2468.1,147935.65,Two Year,UPI,Fiber Optic,Yes,Yes,Accounts,No,2/16/2026,Senior,0,2468.1,49-72 month,140681.7
+CUST00476,Ishita Saxena,Female,75,Maharashtra,Pune,62,Basic,1806.09,119661.5,One Year,Cash,No Internet,Yes,Yes,Customer Service,No,9/10/2026,Senior,0,1806.09,49-72 month,111977.58
+CUST00477,Vihaan Khan,Female,63,Maharashtra,Mumbai,13,Basic,1418.89,17403.32,Monthly,Bank Transfer,No Internet,No,Yes,IT Support,No,3/4/2024,Senior,0,1418.89,13-24 month,18445.57
+CUST00478,Priya Jain,Male,59,Delhi,New Delhi,32,Premium,737.64,21837.66,One Year,Credit Card,No Internet,Yes,No,Sales,No,8/4/2026,Adult,0,737.64,25-48 month,23604.48
+CUST00479,Vihaan Patel,Other,74,Uttar Pradesh,Kanpur,70,Premium,1718.73,113530.31,One Year,Debit Card,5G,Yes,Yes,Accounts,Yes,10/17/2024,Senior,1,1718.73,49-72 month,120311.1
+CUST00480,Dev Roy,Male,25,Uttar Pradesh,Agra,2,Basic,2093.74,4313.38,One Year,Debit Card,Fiber Optic,No,No,Technical Support,No,8/25/2024,Adult,0,2093.74,0-12 month,4187.48
+CUST00481,Sneha Yadav,Female,77,Rajasthan,Jaipur,62,Premium,2350.69,147357.78,Two Year,Debit Card,No Internet,Yes,Yes,Technical Support,No,4/28/2024,Senior,0,2350.69,49-72 month,145742.78
+CUST00482,Vihaan Gupta,Female,50,Rajasthan,Jaipur,56,Premium,1901.12,101040.03,Monthly,Auto Debit,DSL,No,No,IT Support,Yes,10/27/2025,Adult,1,1901.12,49-72 month,106462.72
+CUST00483,Aarav Das,Male,40,Bihar,Patna,68,Standard,1271.95,80059.76,Monthly,UPI,No Internet,Yes,No,Technical Support,Yes,7/23/2026,Adult,1,1271.95,49-72 month,86492.6
+CUST00484,Vivaan Agarwal,Other,36,Maharashtra,Mumbai,2,Basic,1287.57,2762.45,Two Year,Credit Card,5G,Yes,No,Technical Support,No,5/25/2025,Adult,0,1287.57,0-12 month,2575.14
+CUST00485,Meera Jain,Female,79,Gujarat,Ahmedabad,52,Standard,1828.34,95613.44,Two Year,Cash,No Internet,Yes,Yes,IT Support,No,3/6/2025,Senior,0,1828.34,49-72 month,95073.68
+CUST00486,Aarav Yadav,Male,66,Telangana,Hyderabad,61,Premium,2181.9,124439.67,Monthly,Debit Card,DSL,Yes,Yes,Retention,No,6/14/2025,Senior,0,2181.9,49-72 month,133095.9
+CUST00487,Vivaan Malhotra,Female,75,Maharashtra,Pune,48,Basic,1014.28,48939.49,Two Year,Cash,No Internet,No,Yes,Customer Service,No,12/8/2025,Senior,0,1014.28,25-48 month,48685.44
+CUST00488,Amit Sharma,Other,59,Uttar Pradesh,Agra,39,Premium,2048.91,79960.04,One Year,Cash,No Internet,Yes,No,Billing,No,1/7/2025,Adult,0,2048.91,25-48 month,79907.49
+CUST00489,Aditya Verma,Other,38,Haryana,Gurugram,21,Premium,452.83,9897.25,Two Year,Credit Card,DSL,No,No,Billing,No,12/19/2024,Adult,0,452.83,13-24 month,9509.43
+CUST00490,Kavya Agarwal,Female,27,Uttar Pradesh,Agra,12,Standard,887.79,10071.48,Two Year,Cash,No Internet,Yes,No,Accounts,No,8/22/2026,Adult,0,887.79,0-12 month,10653.48
+CUST00491,Aditya Sharma,Female,52,Delhi,New Delhi,34,Premium,1160.81,37243.02,Monthly,Bank Transfer,DSL,Yes,No,Sales,No,7/25/2026,Adult,0,1160.81,25-48 month,39467.54
+CUST00492,Aditya Joshi,Other,24,Haryana,Gurugram,34,Standard,442.22,14628.03,One Year,Auto Debit,No Internet,No,No,Billing,No,5/11/2025,Adult,0,442.22,25-48 month,15035.48
+CUST00493,Payal Patel,Other,27,Maharashtra,Pune,50,Premium,639.01,31043.02,Monthly,Bank Transfer,No Internet,Yes,No,Customer Service,No,3/18/2025,Adult,0,639.01,49-72 month,31950.5
+CUST00494,Dev Roy,Female,30,Madhya Pradesh,Bhopal,20,Basic,1067.17,21094.93,Two Year,Credit Card,DSL,No,No,Customer Service,No,1/9/2025,Adult,0,1067.17,13-24 month,21343.4
+CUST00495,Arjun Mishra,Other,39,Uttar Pradesh,Lucknow,1,Standard,1931.72,1936.13,One Year,Credit Card,5G,Yes,No,Customer Service,Yes,8/9/2025,Adult,1,1931.72,0-12 month,1931.72
+CUST00496,Nisha Gupta,Male,50,Bihar,Patna,12,Standard,760.22,8858.97,One Year,Auto Debit,Fiber Optic,No,No,Customer Service,No,7/18/2025,Adult,0,760.22,0-12 month,9122.64
+CUST00497,Riya Khan,Male,26,Odisha,Bhubaneswar,28,Basic,774.68,20009.37,Two Year,Debit Card,DSL,No,No,Retention,No,5/20/2025,Adult,0,774.68,25-48 month,21691.04
+CUST00498,Vivaan Yadav,Male,72,Punjab,Ludhiana,39,Standard,1635.35,61283.72,Two Year,Bank Transfer,DSL,No,Yes,Accounts,No,5/27/2025,Senior,0,1635.35,25-48 month,63778.65
+CUST00499,Rahul Patel,Other,39,Odisha,Bhubaneswar,21,Basic,1799.08,39326.56,One Year,Credit Card,Fiber Optic,No,No,Technical Support,No,4/24/2025,Adult,0,1799.08,13-24 month,37780.68
+CUST00500,Ananya Khan,Male,63,Rajasthan,Jaipur,33,Standard,1874.44,57737.75,Monthly,UPI,No Internet,Yes,Yes,Sales,Yes,6/10/2026,Senior,1,1874.44,25-48 month,61856.52
+CUST00501,Rahul Chauhan,Female,26,Uttar Pradesh,Agra,10,Basic,1077.97,11128.64,Monthly,Debit Card,Fiber Optic,No,No,IT Support,No,4/8/2026,Adult,0,1077.97,0-12 month,10779.7
+CUST00502,Arjun Patel,Male,36,Kerala,Kochi,19,Basic,843.35,16809.6,Monthly,Debit Card,DSL,No,No,Sales,No,8/1/2026,Adult,0,843.35,13-24 month,16023.65
+CUST00503,Meera Khan,Female,73,Odisha,Bhubaneswar,17,Basic,1728.08,31208.71,Monthly,Bank Transfer,No Internet,Yes,Yes,Customer Service,No,12/11/2024,Senior,0,1728.08,13-24 month,29377.36
+CUST00504,Priya Chauhan,Female,24,West Bengal,Kolkata,49,Standard,397.78,19875,Monthly,Debit Card,Fiber Optic,Yes,No,Billing,No,12/22/2024,Adult,0,397.78,49-72 month,19491.22
+CUST00505,Arjun Agarwal,Other,62,Kerala,Kochi,64,Premium,976.53,64885.62,One Year,Debit Card,5G,Yes,Yes,Accounts,Yes,4/18/2024,Senior,1,976.53,49-72 month,62497.92
+CUST00506,Aanya Sharma,Male,76,Uttar Pradesh,Lucknow,61,Basic,1681.58,97755.91,Monthly,Credit Card,No Internet,Yes,Yes,Technical Support,No,1/5/2024,Senior,0,1681.58,49-72 month,102576.38
+CUST00507,Sneha Khan,Male,19,Gujarat,Ahmedabad,3,Basic,1659.22,5324.38,One Year,Credit Card,DSL,Yes,No,IT Support,No,8/12/2024,Adult,0,1659.22,0-12 month,4977.66
+CUST00508,Amit Agarwal,Male,50,Punjab,Ludhiana,53,Standard,1809.21,102401.32,One Year,Bank Transfer,DSL,No,No,Accounts,No,11/9/2024,Adult,0,1809.21,49-72 month,95888.13
+CUST00509,Diya Patel,Male,18,Bihar,Patna,67,Basic,1707.71,120713.29,One Year,Cash,DSL,Yes,No,Technical Support,No,3/4/2025,Adult,0,1707.71,49-72 month,114416.57
+CUST00510,Ishita Yadav,Male,21,Punjab,Ludhiana,7,Basic,546.7,4093.4,One Year,UPI,Fiber Optic,Yes,No,Customer Service,Yes,9/30/2025,Adult,1,546.7,0-12 month,3826.9
+CUST00511,Vihaan Das,Male,64,Rajasthan,Jaipur,30,Standard,2294.17,68202.68,One Year,Cash,Fiber Optic,Yes,Yes,Retention,No,6/28/2025,Senior,0,2294.17,25-48 month,68825.1
+CUST00512,Amit Singh,Other,48,Telangana,Hyderabad,1,Premium,431.6,452.34,Two Year,Cash,Fiber Optic,Yes,No,Accounts,No,4/15/2025,Adult,0,431.6,0-12 month,431.6
+CUST00513,Ananya Kumar,Male,52,Bihar,Patna,42,Premium,484.1,19132.92,Two Year,Bank Transfer,DSL,No,No,Network Operations,No,6/9/2024,Adult,0,484.1,25-48 month,20332.2
+CUST00514,Ishita Agarwal,Male,54,Tamil Nadu,Chennai,29,Basic,2200.89,68168.73,Monthly,UPI,No Internet,No,No,Retention,Yes,12/13/2024,Adult,1,2200.89,25-48 month,63825.81
+CUST00515,Priya Singh,Female,37,Odisha,Bhubaneswar,6,Basic,2411.09,14894.62,Monthly,Debit Card,Fiber Optic,No,No,Technical Support,No,3/16/2025,Adult,0,2411.09,0-12 month,14466.54
+CUST00516,Vivaan Singh,Male,69,Maharashtra,Pune,30,Premium,1961.09,62795.63,Two Year,Credit Card,5G,Yes,Yes,Retention,No,10/22/2024,Senior,0,1961.09,25-48 month,58832.7
+CUST00517,Diya Kumar,Other,73,Odisha,Bhubaneswar,27,Basic,2196.26,54569.22,Two Year,Credit Card,No Internet,No,Yes,Sales,No,4/5/2026,Senior,0,2196.26,25-48 month,59299.02
+CUST00518,Vihaan Malhotra,Female,54,Tamil Nadu,Chennai,27,Standard,1056.31,27627.46,One Year,UPI,Fiber Optic,No,No,IT Support,Yes,4/17/2026,Adult,1,1056.31,25-48 month,28520.37
+CUST00519,Aarav Saxena,Male,20,Maharashtra,Pune,3,Standard,2397.26,7544.89,Two Year,Credit Card,5G,No,No,Technical Support,No,4/25/2024,Adult,0,2397.26,0-12 month,7191.78
+CUST00520,Meera Saxena,Other,26,West Bengal,Kolkata,11,Standard,2414.83,28491.2,One Year,Auto Debit,No Internet,Yes,No,Accounts,No,2/24/2024,Adult,0,2414.83,0-12 month,26563.13
+CUST00521,Neha Jain,Other,31,Uttar Pradesh,Mathura,26,Basic,1866.04,48436.2,One Year,Debit Card,DSL,No,No,Sales,No,11/18/2024,Adult,0,1866.04,25-48 month,48517.04
+CUST00522,Dev Gupta,Other,34,Tamil Nadu,Chennai,34,Standard,2091.85,66223.3,One Year,UPI,5G,Yes,No,Billing,No,2/13/2026,Adult,0,2091.85,25-48 month,71122.9
+CUST00523,Rohan Singh,Female,65,Bihar,Patna,32,Basic,1760.46,56452.53,Monthly,Debit Card,5G,Yes,Yes,Technical Support,No,5/1/2025,Senior,0,1760.46,25-48 month,56334.72
+CUST00524,Ananya Khan,Female,36,West Bengal,Kolkata,64,Standard,1123.87,69776.31,Two Year,Auto Debit,Fiber Optic,No,No,Accounts,No,4/20/2024,Adult,0,1123.87,49-72 month,71927.68
+CUST00525,Arjun Patel,Female,39,Maharashtra,Pune,23,Standard,1670.16,39800.94,One Year,Debit Card,DSL,No,No,IT Support,No,1/3/2024,Adult,0,1670.16,13-24 month,38413.68
+CUST00526,Isha Joshi,Female,53,Gujarat,Ahmedabad,39,Standard,1693.71,66843.54,Two Year,Cash,Fiber Optic,Yes,No,Billing,Yes,1/23/2026,Adult,1,1693.71,25-48 month,66054.69
+CUST00527,Kabir Verma,Male,36,Madhya Pradesh,Bhopal,62,Basic,1983.99,125126.46,One Year,Credit Card,No Internet,Yes,No,Sales,Yes,5/27/2025,Adult,1,1983.99,49-72 month,123007.38
+CUST00528,Karan Agarwal,Female,75,Bihar,Patna,25,Basic,1332.42,35042.65,Two Year,Debit Card,No Internet,No,Yes,Accounts,Yes,7/27/2025,Senior,1,1332.42,25-48 month,33310.5
+CUST00529,Ananya Chauhan,Female,69,Odisha,Bhubaneswar,24,Basic,1770.33,40980.45,Monthly,Bank Transfer,5G,No,Yes,Retention,Yes,11/22/2025,Senior,1,1770.33,13-24 month,42487.92
+CUST00530,Payal Verma,Female,72,Madhya Pradesh,Bhopal,26,Standard,2266.56,60425.98,One Year,UPI,Fiber Optic,No,Yes,Accounts,No,9/2/2024,Senior,0,2266.56,25-48 month,58930.56
+CUST00531,Vivaan Singh,Female,24,Tamil Nadu,Chennai,53,Standard,692.37,38903.26,One Year,Credit Card,No Internet,No,No,Technical Support,No,6/5/2026,Adult,0,692.37,49-72 month,36695.61
+CUST00532,Priya Khan,Male,38,Uttar Pradesh,Kanpur,19,Premium,1102.5,21537.68,Monthly,Auto Debit,Fiber Optic,No,No,Sales,No,12/20/2024,Adult,0,1102.5,13-24 month,20947.5
+CUST00533,Nisha Gupta,Other,64,Punjab,Ludhiana,31,Standard,323.57,9349.42,One Year,Cash,No Internet,Yes,Yes,Billing,Yes,6/23/2026,Senior,1,323.57,25-48 month,10030.67
+CUST00534,Dev Chauhan,Female,71,Uttar Pradesh,Kanpur,55,Basic,1567.07,80229.04,Two Year,Cash,DSL,Yes,Yes,Sales,Yes,1/5/2026,Senior,1,1567.07,49-72 month,86188.85
+CUST00535,Aanya Joshi,Female,54,Telangana,Hyderabad,24,Basic,1232.24,31029.37,Two Year,Credit Card,5G,Yes,No,IT Support,Yes,2/15/2026,Adult,1,1232.24,13-24 month,29573.76
+CUST00536,Rahul Singh,Other,21,Delhi,New Delhi,69,Standard,721.15,52812.11,Two Year,UPI,5G,Yes,No,IT Support,No,8/22/2026,Adult,0,721.15,49-72 month,49759.35
+CUST00537,Ananya Mehta,Other,26,Maharashtra,Pune,21,Premium,1083.83,22515.18,Two Year,Cash,DSL,No,No,IT Support,No,3/27/2024,Adult,0,1083.83,13-24 month,22760.43
+CUST00538,Aanya Mishra,Female,41,Delhi,New Delhi,36,Basic,2368.98,91010.95,One Year,Auto Debit,Fiber Optic,No,No,Network Operations,No,1/10/2024,Adult,0,2368.98,25-48 month,85283.28
+CUST00539,Diya Jain,Male,58,Maharashtra,Mumbai,40,Premium,1103.72,46892.91,Two Year,Cash,Fiber Optic,No,No,Retention,Yes,7/26/2024,Adult,1,1103.72,25-48 month,44148.8
+CUST00540,Amit Khan,Male,64,Maharashtra,Pune,52,Basic,2493.08,134260.97,Two Year,Auto Debit,No Internet,No,Yes,Sales,No,1/20/2024,Senior,0,2493.08,49-72 month,129640.16
+CUST00541,Ananya Malhotra,Male,67,Uttar Pradesh,Lucknow,67,Premium,1438.59,92297.83,Two Year,Auto Debit,5G,Yes,Yes,Retention,No,2/22/2025,Senior,0,1438.59,49-72 month,96385.53
+CUST00542,Karan Kumar,Female,70,Haryana,Gurugram,49,Standard,1696.24,79014.65,Two Year,Debit Card,No Internet,No,Yes,IT Support,No,11/3/2024,Senior,0,1696.24,49-72 month,83115.76
+CUST00543,Sneha Roy,Other,63,Karnataka,Bengaluru,64,Premium,2137.11,127609.45,Monthly,Debit Card,5G,No,Yes,Technical Support,Yes,2/5/2026,Senior,1,2137.11,49-72 month,136775.04
+CUST00544,Priya Joshi,Female,59,Kerala,Kochi,21,Standard,2176.29,48650.45,Monthly,Auto Debit,No Internet,No,No,Technical Support,No,3/4/2026,Adult,0,2176.29,13-24 month,45702.09
+CUST00545,Aditya Jain,Other,35,Uttar Pradesh,Kanpur,14,Basic,900.03,12957.35,Two Year,Debit Card,No Internet,Yes,No,IT Support,No,3/12/2025,Adult,0,900.03,13-24 month,12600.42
+CUST00546,Arjun Chauhan,Other,57,Haryana,Gurugram,47,Basic,435.26,19658.8,One Year,Auto Debit,No Internet,Yes,No,Network Operations,No,12/24/2025,Adult,0,435.26,25-48 month,20457.22
+CUST00547,Riya Malhotra,Male,51,Uttar Pradesh,Mathura,18,Premium,947.77,17007.13,One Year,Cash,DSL,No,No,Billing,No,10/13/2024,Adult,0,947.77,13-24 month,17059.86
+CUST00548,Kavya Saxena,Other,63,Tamil Nadu,Chennai,65,Premium,560.85,38858.4,Two Year,UPI,Fiber Optic,No,Yes,Sales,No,3/12/2025,Senior,0,560.85,49-72 month,36455.25
+CUST00549,Dev Mishra,Male,57,Karnataka,Bengaluru,71,Standard,921.68,61521.12,Monthly,Bank Transfer,DSL,Yes,No,Retention,No,3/26/2026,Adult,0,921.68,49-72 month,65439.28
+CUST00550,Pooja Roy,Female,30,Maharashtra,Mumbai,8,Standard,386.09,3193.46,Two Year,Cash,5G,Yes,No,Retention,Yes,3/16/2025,Adult,1,386.09,0-12 month,3088.72
+CUST00551,Amit Gupta,Female,31,Uttar Pradesh,Mathura,37,Standard,1637.14,64417.12,One Year,Debit Card,No Internet,Yes,No,Accounts,Yes,7/14/2025,Adult,1,1637.14,25-48 month,60574.18
+CUST00552,Aarav Chauhan,Male,50,Bihar,Patna,29,Basic,1958.11,59659.14,Monthly,Credit Card,DSL,No,No,Accounts,No,3/3/2025,Adult,0,1958.11,25-48 month,56785.19
+CUST00553,Nisha Kumar,Female,72,Delhi,New Delhi,61,Basic,924.35,58992.15,Two Year,Cash,DSL,Yes,Yes,Network Operations,No,8/27/2025,Senior,0,924.35,49-72 month,56385.35
+CUST00554,Karan Jain,Male,33,Haryana,Gurugram,25,Basic,730.87,18627.13,Monthly,Auto Debit,DSL,No,No,Retention,No,8/13/2024,Adult,0,730.87,25-48 month,18271.75
+CUST00555,Arjun Yadav,Other,44,Haryana,Gurugram,53,Standard,1469.73,75049.85,Two Year,Cash,Fiber Optic,No,No,Billing,No,5/14/2025,Adult,0,1469.73,49-72 month,77895.69
+CUST00556,Rohan Singh,Female,45,Haryana,Gurugram,24,Basic,1192.09,30701.48,Two Year,Credit Card,No Internet,Yes,No,Technical Support,Yes,8/22/2025,Adult,1,1192.09,13-24 month,28610.16
+CUST00557,Vihaan Mishra,Male,59,Telangana,Hyderabad,72,Basic,1582.84,114217.24,One Year,Bank Transfer,5G,Yes,No,Sales,No,9/19/2025,Adult,0,1582.84,49-72 month,113964.48
+CUST00558,Neha Sharma,Male,18,West Bengal,Kolkata,25,Standard,406.37,9953.14,Two Year,Credit Card,DSL,No,No,Technical Support,No,7/30/2024,Adult,0,406.37,25-48 month,10159.25
+CUST00559,Ananya Malhotra,Female,50,Tamil Nadu,Chennai,36,Standard,1219.02,45667.86,Two Year,UPI,No Internet,No,No,Retention,Yes,9/2/2025,Adult,1,1219.02,25-48 month,43884.72
+CUST00560,Pooja Joshi,Other,60,Rajasthan,Jaipur,51,Basic,1901.31,97080.19,One Year,Bank Transfer,Fiber Optic,Yes,Yes,Sales,No,11/17/2025,Adult,0,1901.31,49-72 month,96966.81
+CUST00561,Aarav Mishra,Female,43,Uttar Pradesh,Kanpur,16,Standard,2085.2,35950.63,One Year,Bank Transfer,DSL,Yes,No,Technical Support,No,5/13/2026,Adult,0,2085.2,13-24 month,33363.2
+CUST00562,Sneha Kumar,Other,72,Uttar Pradesh,Kanpur,29,Premium,507.11,15429.62,Two Year,Auto Debit,Fiber Optic,Yes,Yes,IT Support,No,4/5/2026,Senior,0,507.11,25-48 month,14706.19
+CUST00563,Kavya Roy,Male,66,Madhya Pradesh,Bhopal,48,Basic,796.86,38944.04,One Year,Credit Card,Fiber Optic,Yes,Yes,Technical Support,Yes,11/8/2025,Senior,1,796.86,25-48 month,38249.28
+CUST00564,Aarav Chauhan,Male,78,Haryana,Gurugram,39,Standard,1372.31,51008.49,Two Year,Credit Card,Fiber Optic,No,Yes,Sales,Yes,5/14/2024,Senior,1,1372.31,25-48 month,53520.09
+CUST00565,Nisha Jain,Male,32,Punjab,Ludhiana,31,Standard,530,15796.98,One Year,Cash,DSL,No,No,Accounts,No,10/5/2025,Adult,0,530,25-48 month,16430
+CUST00566,Aditya Yadav,Other,52,Haryana,Gurugram,18,Premium,1539.59,27231.25,Monthly,Cash,No Internet,Yes,No,Technical Support,Yes,11/14/2024,Adult,1,1539.59,13-24 month,27712.62
+CUST00567,Ishita Malhotra,Male,32,Haryana,Gurugram,55,Premium,1461.48,79305.72,Monthly,Bank Transfer,DSL,Yes,No,Billing,No,2/3/2025,Adult,0,1461.48,49-72 month,80381.4
+CUST00568,Vihaan Yadav,Other,73,Gujarat,Ahmedabad,52,Basic,639.59,31762.44,One Year,Debit Card,5G,Yes,Yes,Network Operations,Yes,4/27/2024,Senior,1,639.59,49-72 month,33258.68
+CUST00569,Diya Khan,Other,32,Uttar Pradesh,Mathura,11,Premium,418.19,4948.13,Monthly,Credit Card,DSL,Yes,No,Billing,No,6/9/2024,Adult,0,418.19,0-12 month,4600.09
+CUST00570,Diya Kumar,Male,22,Odisha,Bhubaneswar,65,Basic,2024.69,138988.26,Two Year,Auto Debit,DSL,Yes,No,Accounts,Yes,11/13/2025,Adult,1,2024.69,49-72 month,131604.85
+CUST00571,Rohan Yadav,Male,75,Tamil Nadu,Chennai,16,Standard,926.57,13758.86,One Year,Auto Debit,5G,Yes,Yes,Retention,No,6/14/2026,Senior,0,926.57,13-24 month,14825.12
+CUST00572,Pooja Das,Female,45,Maharashtra,Mumbai,68,Basic,2150.14,152324.11,Two Year,Debit Card,5G,Yes,No,Sales,Yes,11/10/2025,Adult,1,2150.14,49-72 month,146209.52
+CUST00573,Diya Yadav,Male,70,Bihar,Patna,9,Basic,1571.2,14046.93,Two Year,Auto Debit,Fiber Optic,No,Yes,Accounts,No,6/11/2024,Senior,0,1571.2,0-12 month,14140.8
+CUST00574,Amit Das,Other,32,Bihar,Patna,64,Premium,1545.73,102949.97,One Year,Debit Card,No Internet,Yes,No,IT Support,No,5/19/2026,Adult,0,1545.73,49-72 month,98926.72
+CUST00575,Dev Khan,Other,20,Gujarat,Ahmedabad,59,Basic,808.54,44302.93,One Year,UPI,No Internet,No,No,Sales,No,5/8/2026,Adult,0,808.54,49-72 month,47703.86
+CUST00576,Aditya Das,Female,80,Uttar Pradesh,Kanpur,42,Premium,1077.86,43958.28,Monthly,Debit Card,Fiber Optic,No,Yes,Sales,No,8/30/2026,Senior,0,1077.86,25-48 month,45270.12
+CUST00577,Ananya Saxena,Other,79,Telangana,Hyderabad,57,Basic,844.26,46406.1,One Year,Credit Card,Fiber Optic,No,Yes,Customer Service,No,4/23/2026,Senior,0,844.26,49-72 month,48122.82
+CUST00578,Aarav Kumar,Male,22,Uttar Pradesh,Kanpur,13,Standard,1348.66,16245.03,Two Year,Credit Card,Fiber Optic,No,No,Network Operations,No,1/21/2025,Adult,0,1348.66,13-24 month,17532.58
+CUST00579,Payal Kumar,Male,40,Uttar Pradesh,Lucknow,27,Standard,2220.47,64166.23,Two Year,Bank Transfer,5G,Yes,No,Retention,No,7/2/2025,Adult,0,2220.47,25-48 month,59952.69
+CUST00580,Diya Joshi,Female,34,Madhya Pradesh,Bhopal,15,Basic,2096.82,29120.23,Two Year,Cash,Fiber Optic,No,No,Network Operations,No,1/23/2024,Adult,0,2096.82,13-24 month,31452.3
+CUST00581,Pooja Das,Female,49,Madhya Pradesh,Bhopal,9,Standard,1470.33,13890.45,One Year,Bank Transfer,No Internet,Yes,No,Network Operations,No,4/4/2024,Adult,0,1470.33,0-12 month,13232.97
+CUST00582,Amit Chauhan,Female,52,Uttar Pradesh,Agra,54,Basic,1395.51,71719.29,One Year,Credit Card,No Internet,Yes,No,Customer Service,Yes,8/25/2026,Adult,1,1395.51,49-72 month,75357.54
+CUST00583,Ishita Agarwal,Male,69,Maharashtra,Mumbai,46,Premium,2477.32,114049.94,One Year,Debit Card,DSL,No,Yes,Network Operations,Yes,9/9/2026,Senior,1,2477.32,25-48 month,113956.72
+CUST00584,Amit Singh,Male,62,Punjab,Ludhiana,43,Premium,536.28,23079.97,Two Year,UPI,DSL,No,Yes,Billing,Yes,11/11/2024,Senior,1,536.28,25-48 month,23060.04
+CUST00585,Nisha Saxena,Other,57,Uttar Pradesh,Agra,60,Premium,2389.46,136945.01,Monthly,Auto Debit,DSL,No,No,Technical Support,No,1/12/2026,Adult,0,2389.46,49-72 month,143367.6
+CUST00586,Aanya Joshi,Male,59,Maharashtra,Pune,58,Premium,2294.11,129753.24,One Year,Auto Debit,5G,Yes,No,Customer Service,No,5/18/2025,Adult,0,2294.11,49-72 month,133058.38
+CUST00587,Rohan Sharma,Male,49,Haryana,Gurugram,5,Basic,585.08,3070.23,One Year,Cash,Fiber Optic,No,No,Retention,Yes,7/30/2024,Adult,1,585.08,0-12 month,2925.4
+CUST00588,Vivaan Das,Male,75,Telangana,Hyderabad,67,Standard,1331.46,94409.52,Two Year,Debit Card,No Internet,Yes,Yes,Accounts,No,3/9/2026,Senior,0,1331.46,49-72 month,89207.82
+CUST00589,Priya Mehta,Female,73,Tamil Nadu,Chennai,42,Basic,2175.28,40434.54,Monthly,Debit Card,5G,Yes,Yes,,No,12/1/2025,Senior,0,2175.28,25-48 month,91361.76
+CUST00590,Payal Patel,Female,72,Gujarat,Ahmedabad,66,Basic,1746.36,120190.72,One Year,Debit Card,No Internet,No,Yes,Retention,No,3/18/2024,Senior,0,1746.36,49-72 month,115259.76
+CUST00591,Kavya Agarwal,Male,64,Bihar,Patna,3,Basic,1301.69,3647.21,One Year,Debit Card,5G,No,Yes,Billing,No,9/7/2025,Senior,0,1301.69,0-12 month,3905.07
+CUST00592,Kabir Verma,Female,50,Maharashtra,Pune,3,Standard,402.82,1241.23,One Year,Debit Card,DSL,Yes,No,Network Operations,No,9/24/2025,Adult,0,402.82,0-12 month,1208.46
+CUST00593,Diya Patel,Female,66,Uttar Pradesh,Lucknow,2,Standard,958.29,2031.86,One Year,Credit Card,Fiber Optic,Yes,Yes,Sales,No,2/7/2024,Senior,0,958.29,0-12 month,1916.58
+CUST00594,Vivaan Patel,Male,37,Rajasthan,Jaipur,53,Basic,1582.85,85463.83,One Year,Unknown,No Internet,No,No,Customer Service,No,11/24/2025,Adult,0,1582.85,49-72 month,83891.05
+CUST00595,Karan Das,Male,46,Uttar Pradesh,Agra,23,Premium,1609.15,39872.26,Monthly,Credit Card,DSL,No,No,Accounts,No,3/30/2025,Adult,0,1609.15,13-24 month,37010.45
+CUST00596,N?A,Female,79,Uttar Pradesh,Kanpur,37,Premium,838.31,32531.15,Monthly,Auto Debit,5G,Yes,Yes,Technical Support,No,5/6/2025,Senior,0,838.31,25-48 month,31017.47
+CUST00597,Ananya Verma,Other,45,Maharashtra,Mumbai,5,Premium,1062.98,5560.13,Two Year,UPI,5G,No,No,Sales,No,4/2/2024,Adult,0,1062.98,0-12 month,5314.9
+CUST00598,Nisha Kumar,Female,19,West Bengal,Kolkata,64,Basic,1984.37,122725.84,Monthly,UPI,Fiber Optic,No,No,Accounts,No,6/1/2025,Adult,0,1984.37,49-72 month,126999.68
+CUST00599,Ishita Das,Other,62,Rajasthan,Jaipur,4,Premium,569.52,2108.26,,Credit Card,5G,Yes,Yes,,No,6/6/2024,Senior,0,569.52,0-12 month,2278.08
+CUST00600,Nisha Agarwal,Male,21,Haryana,Gurugram,39,Basic,2069.74,83847.89,Two Year,Bank Transfer,No Internet,No,No,IT Support,No,2/2/2025,Adult,0,2069.74,25-48 month,80719.86
+CUST00601,Nisha Malhotra,Female,51,Uttarakhand,Dehradun,38,Premium,954.39,36920.31,Two Year,Auto Debit,DSL,Yes,No,Network Operations,Yes,5/6/2025,Adult,1,954.39,25-48 month,36266.82
+CUST00602,Kabir Mehta,Male,66,Delhi,New Delhi,71,Standard,2133.24,161921.81,One Year,UPI,5G,No,Yes,Billing,No,5/25/2025,Senior,0,2133.24,49-72 month,151460.04
+CUST00603,Amit Jain,Female,76,Uttar Pradesh,Kanpur,16,Basic,2234.03,38337.24,Two Year,Cash,No Internet,No,Yes,Sales,No,8/23/2026,Senior,0,2234.03,13-24 month,35744.48
+CUST00604,Kavya Singh,Female,18,Tamil Nadu,Chennai,61,Premium,2304.99,145718.27,Monthly,Debit Card,5G,Yes,No,IT Support,No,4/21/2026,Adult,0,2304.99,49-72 month,140604.39
+CUST00605,Meera Yadav,Female,48,Telangana,Hyderabad,67,Premium,814.31,57428.36,One Year,Debit Card,DSL,No,No,IT Support,No,2/25/2026,Adult,0,814.31,49-72 month,54558.77
+CUST00606,Kavya Singh,Female,57,Tamil Nadu,Chennai,14,Basic,2455.41,40434.54,Monthly,Credit Card,Fiber Optic,Yes,No,Network Operations,No,2/20/2026,Adult,0,2455.41,13-24 month,34375.74
+CUST00607,Diya Agarwal,Male,48,Odisha,Bhubaneswar,67,Premium,2041.33,143315.22,Monthly,Credit Card,5G,Yes,No,Accounts,Yes,8/31/2024,Adult,1,2041.33,49-72 month,136769.11
+CUST00608,Payal Mishra,Other,63,Uttar Pradesh,Lucknow,72,Standard,1927.65,146312.81,Monthly,Bank Transfer,Fiber Optic,Yes,Yes,Accounts,No,12/18/2024,Senior,0,1927.65,49-72 month,138790.8
+CUST00609,Riya Saxena,Female,68,Maharashtra,Pune,46,Standard,516.08,25403.18,Two Year,Bank Transfer,No Internet,Yes,Yes,Sales,No,5/21/2026,Senior,0,516.08,25-48 month,23739.68
+CUST00610,Aarav Roy,Female,56,Punjab,Ludhiana,40,Basic,1235.8,49846.38,Monthly,UPI,Fiber Optic,No,No,Network Operations,No,8/31/2026,Adult,0,1235.8,25-48 month,49432
+CUST00611,Aditya Patel,Other,62,Odisha,Bhubaneswar,45,Standard,540.7,22803.26,Monthly,Credit Card,Fiber Optic,No,Yes,Billing,No,4/12/2024,Senior,0,540.7,25-48 month,24331.5
+CUST00612,Rohan Roy,Other,43,Uttar Pradesh,Agra,17,Basic,1505.92,23924.49,One Year,Auto Debit,5G,No,No,Billing,No,7/2/2025,Adult,0,1505.92,13-24 month,25600.64
+CUST00613,Pooja Malhotra,Other,21,Gujarat,Ahmedabad,1,Standard,1100.63,1047.32,Two Year,Debit Card,,No,No,Billing,No,5/27/2026,Adult,0,1100.63,0-12 month,1100.63
+CUST00614,Kavya Khan,Other,32,Tamil Nadu,Chennai,20,Standard,759.95,14906.54,Two Year,Auto Debit,Fiber Optic,No,No,Retention,No,3/24/2025,Adult,0,759.95,13-24 month,15199
+CUST00615,Neha Patel,Female,35,Uttar Pradesh,Lucknow,55,Basic,908.53,47964.36,Monthly,Auto Debit,DSL,Yes,No,Network Operations,No,6/26/2026,Adult,0,908.53,49-72 month,49969.15
+CUST00616,Kavya Verma,Male,31,Delhi,New Delhi,6,Standard,2435.38,14586.48,One Year,Cash,Fiber Optic,No,No,Sales,No,4/17/2026,Adult,0,2435.38,0-12 month,14612.28
+CUST00617,Ishita Agarwal,Female,45,Delhi,New Delhi,10,Basic,444.73,4429.95,Two Year,Credit Card,5G,Yes,No,Technical Support,No,10/9/2024,Adult,0,444.73,0-12 month,4447.3
+CUST00618,Diya Singh,Female,21,Delhi,New Delhi,31,Standard,901.77,26594.82,One Year,UPI,DSL,No,No,Billing,No,7/31/2025,Adult,0,901.77,25-48 month,27954.87
+CUST00619,Neha Jain,Female,30,Madhya Pradesh,Bhopal,66,Premium,1786.53,116788.7,One Year,Credit Card,Fiber Optic,No,No,Technical Support,No,7/2/2025,Adult,0,1786.53,49-72 month,117910.98
+CUST00620,Vihaan Joshi,Male,39,Rajasthan,Jaipur,45,Premium,1133.28,54512.6,Two Year,Bank Transfer,DSL,Yes,No,Customer Service,No,7/16/2026,Adult,0,1133.28,25-48 month,50997.6
+CUST00621,Aarav Jain,Male,79,Maharashtra,Pune,33,Basic,1928.5,40434.54,Two Year,UPI,DSL,No,Yes,Accounts,No,12/14/2024,Senior,0,1928.5,25-48 month,63640.5
+CUST00622,Riya Jain,Other,60,Rajasthan,Jaipur,9,Premium,2278.45,21284.72,Two Year,Bank Transfer,No Internet,Yes,Yes,Network Operations,Yes,9/22/2024,Adult,1,2278.45,0-12 month,20506.05
+CUST00623,Isha Malhotra,Male,79,West Bengal,Kolkata,4,Standard,1673.92,6764.06,Monthly,Auto Debit,Fiber Optic,No,Yes,Sales,Yes,2/27/2024,Senior,1,1673.92,0-12 month,6695.68
+CUST00624,Sneha Sharma,Female,60,Kerala,Kochi,41,Basic,864.09,34410.64,Two Year,Auto Debit,Fiber Optic,Yes,Yes,Network Operations,No,5/28/2025,Adult,0,864.09,25-48 month,35427.69
+CUST00625,Kabir Chauhan,Other,44,Uttar Pradesh,Lucknow,25,Basic,1070.94,25955.16,Monthly,Cash,DSL,No,No,Technical Support,No,6/24/2026,Adult,0,1070.94,25-48 month,26773.5
+CUST00626,Amit Saxena,Other,78,Telangana,Hyderabad,29,Basic,1268.95,34499.34,One Year,Cash,No Internet,No,Yes,IT Support,No,2/7/2024,Senior,0,1268.95,25-48 month,36799.55
+CUST00627,Meera Roy,Male,46,Karnataka,Bengaluru,29,Basic,2490.15,69450.13,Two Year,Bank Transfer,DSL,No,No,Sales,Yes,3/16/2025,Adult,1,2490.15,25-48 month,72214.35
+CUST00628,Arjun Kumar,Female,44,West Bengal,Kolkata,46,Basic,929.97,45331.86,Monthly,Credit Card,No Internet,Yes,No,Sales,Yes,10/18/2024,Adult,1,929.97,25-48 month,42778.62
+CUST00629,Aanya Jain,Other,78,West Bengal,Kolkata,42,Premium,1516.89,60769.64,Two Year,Debit Card,Fiber Optic,No,Yes,Accounts,No,1/18/2024,Senior,0,1516.89,25-48 month,63709.38
+CUST00630,Dev Sharma,Other,37,Rajasthan,Jaipur,35,Premium,484.59,17661.21,One Year,Auto Debit,DSL,Yes,No,Retention,No,5/14/2025,Adult,0,484.59,25-48 month,16960.65
+CUST00631,Nisha Singh,Female,72,Karnataka,Bengaluru,64,Premium,2195.16,130447.96,Monthly,UPI,DSL,Yes,Yes,Customer Service,No,12/27/2025,Senior,0,2195.16,49-72 month,140490.24
+CUST00632,Karan Kumar,Female,45,Karnataka,Bengaluru,72,Premium,1580.81,112700.55,Monthly,Cash,DSL,No,No,Retention,No,4/12/2025,Adult,0,1580.81,49-72 month,113818.32
+CUST00633,Aditya Das,Other,64,Bihar,Patna,58,Standard,2492.87,154495.16,Monthly,Auto Debit,DSL,Yes,Yes,Sales,Yes,6/16/2024,Senior,1,2492.87,49-72 month,144586.46
+CUST00634,Dev Das,Male,25,Uttar Pradesh,Mathura,48,Standard,598.2,29564.75,One Year,Credit Card,No Internet,Yes,No,Customer Service,Yes,6/6/2025,Adult,1,598.2,25-48 month,28713.6
+CUST00635,Priya Khan,Male,24,Haryana,Gurugram,2,Standard,1506.57,2923.97,One Year,Bank Transfer,5G,Yes,No,Sales,No,9/12/2026,Adult,0,1506.57,0-12 month,3013.14
+CUST00636,Ishita Kumar,Other,23,Karnataka,Bengaluru,44,Standard,1922.25,91243.68,One Year,Auto Debit,Fiber Optic,Yes,No,Accounts,Yes,7/19/2024,Adult,1,1922.25,25-48 month,84579
+CUST00637,Neha Mishra,Male,77,Gujarat,Ahmedabad,18,Standard,2019.59,38141.95,Monthly,Debit Card,DSL,Yes,Yes,Customer Service,Yes,7/7/2025,Senior,1,2019.59,13-24 month,36352.62
+CUST00638,Nisha Gupta,Female,63,Odisha,Bhubaneswar,54,Premium,1073.39,56937.39,Monthly,UPI,No Internet,Yes,Yes,Network Operations,No,6/9/2026,Senior,0,1073.39,49-72 month,57963.06
+CUST00639,Aditya Agarwal,Female,66,Haryana,Gurugram,29,Standard,800.06,22149.26,Monthly,UPI,DSL,No,Yes,Technical Support,No,2/1/2026,Senior,0,800.06,25-48 month,23201.74
+CUST00640,Aanya Jain,Male,45,Bihar,Patna,46,Standard,509.13,24608.91,Two Year,UPI,No Internet,Yes,No,Sales,No,7/2/2025,Adult,0,509.13,25-48 month,23419.98
+CUST00641,Meera Agarwal,Male,27,Haryana,Gurugram,16,Premium,723.05,11831.96,Monthly,Credit Card,Fiber Optic,No,No,Customer Service,No,7/2/2025,Adult,0,723.05,13-24 month,11568.8
+CUST00642,Kabir Mehta,Other,74,Bihar,Patna,30,Standard,2085.54,62766.8,Two Year,Cash,No Internet,Yes,Yes,Sales,No,11/2/2025,Senior,0,2085.54,25-48 month,62566.2
+CUST00643,Meera Khan,Male,80,Uttar Pradesh,Mathura,53,Standard,2183.15,115331.92,Monthly,Credit Card,5G,No,Yes,Technical Support,No,7/13/2026,Senior,0,2183.15,49-72 month,115706.95
+CUST00644,Rahul Yadav,Male,18,West Bengal,Kolkata,33,Basic,1932.43,60297.51,One Year,Debit Card,No Internet,Yes,No,Sales,No,2/26/2024,Adult,0,1932.43,25-48 month,63770.19
+CUST00645,Aditya Singh,Female,67,Uttarakhand,Dehradun,60,Basic,951.5,53105.32,Monthly,Auto Debit,Fiber Optic,Yes,Yes,Billing,Yes,3/22/2024,Senior,1,951.5,49-72 month,57090
+CUST00646,Sneha Mishra,Female,38,Maharashtra,Pune,42,Standard,377.82,40434.54,One Year,Auto Debit,5G,Yes,No,Retention,No,7/3/2026,Adult,0,377.82,25-48 month,15868.44
+CUST00647,Pooja Kumar,Other,38,Madhya Pradesh,Bhopal,12,Premium,428.28,4949.84,Two Year,Bank Transfer,DSL,Yes,No,Technical Support,No,6/19/2025,Adult,0,428.28,0-12 month,5139.36
+CUST00648,Sneha Das,Female,49,Uttar Pradesh,Mathura,39,Basic,1772.35,71636.3,Monthly,Debit Card,5G,Yes,No,Technical Support,No,7/27/2026,Adult,0,1772.35,25-48 month,69121.65
+CUST00649,Aditya Saxena,Other,28,Uttar Pradesh,Agra,66,Basic,1187.67,73275.06,Monthly,Cash,5G,Yes,No,Sales,No,12/29/2025,Adult,0,1187.67,49-72 month,78386.22
+CUST00650,Payal Jain,Other,45,West Bengal,Kolkata,28,Premium,1955.25,53619.55,Two Year,UPI,DSL,No,No,Network Operations,No,2/12/2025,Adult,0,1955.25,25-48 month,54747
+CUST00651,Sneha Verma,Male,35,Uttar Pradesh,Mathura,29,Premium,2216.41,67983.88,Monthly,Credit Card,5G,No,No,Retention,No,6/12/2025,Adult,0,2216.41,25-48 month,64275.89
+CUST00652,Vihaan Yadav,Female,36,Haryana,Gurugram,39,Premium,1552.11,56545.36,Monthly,Debit Card,5G,No,No,Network Operations,No,6/5/2026,Adult,0,1552.11,25-48 month,60532.29
+CUST00653,Priya Agarwal,Other,47,Uttar Pradesh,Mathura,67,Basic,1257.89,85059.18,Two Year,Debit Card,Fiber Optic,Yes,No,Technical Support,No,4/19/2026,Adult,0,1257.89,49-72 month,84278.63
+CUST00654,Pooja Das,Other,27,West Bengal,Kolkata,6,Premium,1104.13,6578.76,Two Year,Debit Card,5G,No,No,Sales,No,7/2/2024,Adult,0,1104.13,0-12 month,6624.78
+CUST00655,Payal Roy,Female,25,Punjab,Ludhiana,43,Standard,1121.41,50660.18,Two Year,UPI,Fiber Optic,Yes,No,Accounts,No,10/21/2025,Adult,0,1121.41,25-48 month,48220.63
+CUST00656,Arjun Agarwal,Other,63,Telangana,Hyderabad,43,Premium,1711.02,69199.15,Monthly,UPI,5G,Yes,Yes,Customer Service,No,4/8/2025,Senior,0,1711.02,25-48 month,73573.86
+CUST00657,Isha Sharma,Female,67,West Bengal,Kolkata,71,Premium,1223.51,88962.95,Monthly,Debit Card,Fiber Optic,No,Yes,IT Support,No,5/28/2024,Senior,0,1223.51,49-72 month,86869.21
+CUST00658,Rahul Kumar,Male,43,Uttar Pradesh,Kanpur,1,Standard,1688.74,1598.3,Monthly,UPI,DSL,Yes,No,Sales,Yes,3/5/2026,Adult,1,1688.74,0-12 month,1688.74
+CUST00659,Kavya Agarwal,Other,63,Rajasthan,Jaipur,67,Basic,805.41,57659.74,Two Year,Bank Transfer,Fiber Optic,Yes,Yes,Retention,No,1/11/2026,Senior,0,805.41,49-72 month,53962.47
+CUST00660,Kavya Verma,Female,72,Karnataka,Bengaluru,33,Basic,958.44,30053.96,One Year,Credit Card,No Internet,Yes,Yes,Technical Support,Yes,2/22/2026,Senior,1,958.44,25-48 month,31628.52
+CUST00661,Diya Joshi,Male,30,Karnataka,Bengaluru,49,Premium,1302.43,58904.76,One Year,UPI,Fiber Optic,No,No,Retention,No,5/6/2025,Adult,0,1302.43,49-72 month,63819.07
+CUST00662,Aanya Gupta,Male,73,Haryana,Gurugram,63,Basic,637.06,37078.83,One Year,Auto Debit,Fiber Optic,No,Yes,Billing,Yes,8/17/2024,Senior,1,637.06,49-72 month,40134.78
+CUST00663,Diya Patel,Female,48,Haryana,Gurugram,26,Basic,1947.06,53161.51,One Year,Credit Card,Fiber Optic,No,No,Customer Service,Yes,4/20/2026,Adult,1,1947.06,25-48 month,50623.56
+CUST00664,Sneha Malhotra,Female,23,Gujarat,Ahmedabad,9,Standard,701.03,6754.59,Two Year,Credit Card,5G,Yes,No,Accounts,No,6/2/2024,Adult,0,701.03,0-12 month,6309.27
+CUST00665,Karan Jain,Female,74,Madhya Pradesh,Bhopal,19,Basic,1134.1,20752.28,One Year,Debit Card,Fiber Optic,Yes,Yes,Billing,Yes,4/20/2025,Senior,1,1134.1,13-24 month,21547.9
+CUST00666,Vivaan Malhotra,Male,29,Haryana,Gurugram,24,Premium,760.02,19069.89,Monthly,Debit Card,DSL,No,No,Network Operations,Yes,6/15/2025,Adult,1,760.02,13-24 month,18240.48
+CUST00667,Aarav Mishra,Other,47,Gujarat,Ahmedabad,38,Premium,918.93,34372.98,Monthly,Debit Card,5G,Yes,No,Customer Service,Yes,7/7/2026,Adult,1,918.93,25-48 month,34919.34
+CUST00668,Aarav Malhotra,Other,50,Uttar Pradesh,Kanpur,24,Premium,2079.76,46585.5,Two Year,Auto Debit,DSL,Yes,No,Technical Support,No,5/15/2025,Adult,0,2079.76,13-24 month,49914.24
+CUST00669,Rohan Malhotra,Female,73,Tamil Nadu,Chennai,22,Premium,716,14679.64,One Year,Bank Transfer,No Internet,Yes,Yes,Retention,No,7/13/2026,Senior,0,716,13-24 month,15752
+CUST00670,Karan Verma,Other,58,Karnataka,Bengaluru,36,Premium,1220.1,46152.97,One Year,UPI,DSL,Yes,No,Accounts,No,5/7/2026,Adult,0,1220.1,25-48 month,43923.6
+CUST00671,Kabir Joshi,Male,23,Tamil Nadu,Chennai,47,Basic,955.63,44100.72,Two Year,Auto Debit,Fiber Optic,Yes,No,Network Operations,No,4/1/2026,Adult,0,955.63,25-48 month,44914.61
+CUST00672,Nisha Yadav,Other,37,Kerala,Kochi,34,Premium,746.98,24698.34,Monthly,Cash,No Internet,Yes,No,IT Support,No,6/16/2026,Adult,0,746.98,25-48 month,25397.32
+CUST00673,Ananya Joshi,Female,33,Maharashtra,Mumbai,15,Premium,824.37,12845.26,Monthly,Auto Debit,No Internet,Yes,No,Customer Service,No,11/11/2024,Adult,0,824.37,13-24 month,12365.55
+CUST00674,Rohan Jain,Male,29,Maharashtra,Pune,9,Basic,655.81,5753.07,Two Year,Auto Debit,5G,No,No,Sales,No,5/29/2026,Adult,0,655.81,0-12 month,5902.29
+CUST00675,Nisha Kumar,Other,64,Uttar Pradesh,Mathura,38,Basic,362.27,12747.98,Monthly,Cash,Fiber Optic,No,Yes,Customer Service,No,4/9/2025,Senior,0,362.27,25-48 month,13766.26
+CUST00676,Rahul Roy,Female,55,Gujarat,Ahmedabad,1,Premium,1796.96,1672.58,Monthly,Debit Card,No Internet,Yes,No,Customer Service,No,3/2/2026,Adult,0,1796.96,0-12 month,1796.96
+CUST00677,Sneha Khan,Female,76,Bihar,Patna,29,Basic,514.85,14398.03,One Year,Auto Debit,DSL,No,Yes,Sales,No,2/2/2026,Senior,0,514.85,25-48 month,14930.65
+CUST00678,Neha Jain,Male,46,Odisha,Bhubaneswar,49,Premium,622.99,30110.35,One Year,UPI,5G,No,No,Retention,Yes,12/29/2025,Adult,1,622.99,49-72 month,30526.51
+CUST00679,Vihaan Khan,Other,20,Maharashtra,Pune,18,Premium,1495.8,27916.15,Monthly,UPI,5G,No,No,Retention,No,7/13/2025,Adult,0,1495.8,13-24 month,26924.4
+CUST00680,Meera Chauhan,Male,24,Odisha,Bhubaneswar,60,Standard,1335.02,85563.69,Two Year,Bank Transfer,Fiber Optic,Yes,No,Network Operations,Yes,12/18/2025,Adult,1,1335.02,49-72 month,80101.2
+CUST00681,Aanya Kumar,Other,57,Haryana,Gurugram,56,Standard,1295.83,67911.82,Monthly,Debit Card,5G,Yes,No,Customer Service,Yes,5/19/2024,Adult,1,1295.83,49-72 month,72566.48
+CUST00682,Meera Kumar,Female,47,Gujarat,Ahmedabad,44,Basic,1950.89,89586.51,One Year,UPI,DSL,Yes,No,Billing,No,5/5/2025,Adult,0,1950.89,25-48 month,85839.16
+CUST00683,Diya Das,Female,26,Rajasthan,Jaipur,9,Standard,490.31,4358.28,Monthly,UPI,Fiber Optic,No,No,Network Operations,No,7/2/2026,Adult,0,490.31,0-12 month,4412.79
+CUST00684,Kabir Malhotra,Female,80,Madhya Pradesh,Bhopal,23,Premium,802.86,19710.7,One Year,Bank Transfer,Fiber Optic,No,Yes,IT Support,Yes,11/17/2024,Senior,1,802.86,13-24 month,18465.78
+CUST00685,Isha Saxena,Female,72,Bihar,Patna,13,Premium,2187.27,27497.97,Monthly,Debit Card,Fiber Optic,Yes,Yes,Customer Service,No,2/8/2026,Senior,0,2187.27,13-24 month,28434.51
+CUST00686,Neha Das,Female,59,Maharashtra,Pune,49,Basic,503.87,26219.75,One Year,Cash,5G,No,No,Sales,No,2/22/2025,Adult,0,503.87,49-72 month,24689.63
+CUST00687,Nisha Patel,Female,52,Uttarakhand,Dehradun,35,Premium,2084.65,75363.59,Two Year,Bank Transfer,Fiber Optic,No,No,Accounts,No,9/13/2026,Adult,0,2084.65,25-48 month,72962.75
+CUST00688,Vihaan Roy,Other,26,Kerala,Kochi,6,Premium,800.81,4710.46,Two Year,Credit Card,No Internet,Yes,No,Technical Support,Yes,3/3/2026,Adult,1,800.81,0-12 month,4804.86
+CUST00689,Vihaan Kumar,Male,75,Punjab,Ludhiana,5,Standard,838.37,4293.7,Two Year,Cash,5G,No,Yes,Network Operations,Yes,2/18/2025,Senior,1,838.37,0-12 month,4191.85
+CUST00690,Aditya Jain,Male,38,Odisha,Bhubaneswar,14,Standard,731.72,10157.85,Two Year,Bank Transfer,No Internet,Yes,No,Billing,Yes,1/2/2026,Adult,1,731.72,13-24 month,10244.08
+CUST00691,Nisha Yadav,Other,49,Rajasthan,Jaipur,55,Premium,784.12,42022.4,Two Year,UPI,5G,Yes,No,Retention,No,1/6/2026,Adult,0,784.12,49-72 month,43126.6
+CUST00692,Priya Jain,Male,58,Delhi,New Delhi,63,Premium,303.44,19066.31,Monthly,Credit Card,5G,No,No,IT Support,No,5/9/2025,Adult,0,303.44,49-72 month,19116.72
+CUST00693,Nisha Roy,Female,60,Rajasthan,Jaipur,57,Premium,423.31,24394.58,Monthly,Auto Debit,Fiber Optic,Yes,Yes,Retention,No,11/27/2025,Adult,0,423.31,49-72 month,24128.67
+CUST00694,Sneha Gupta,Female,68,Gujarat,Ahmedabad,71,Basic,365.2,25185.07,Two Year,Cash,DSL,No,Yes,Sales,No,2/2/2025,Senior,0,365.2,49-72 month,25929.2
+CUST00695,Rohan Malhotra,Female,38,Uttar Pradesh,Mathura,41,Basic,1994.17,75292.27,Two Year,Bank Transfer,5G,Yes,No,Sales,No,6/12/2025,Adult,0,1994.17,25-48 month,81760.97
+CUST00696,Dev Agarwal,Male,21,Rajasthan,Jaipur,22,Premium,1711.99,35276.51,One Year,Cash,5G,Yes,No,Network Operations,Yes,8/8/2026,Adult,1,1711.99,13-24 month,37663.78
+CUST00697,Payal Roy,Other,56,Uttar Pradesh,Kanpur,6,Standard,584.36,3499.95,Monthly,Auto Debit,DSL,Yes,No,Network Operations,No,12/26/2025,Adult,0,584.36,0-12 month,3506.16
+CUST00698,Pooja Gupta,Female,31,Rajasthan,Jaipur,1,Premium,2092.53,2168.42,Two Year,Auto Debit,No Internet,No,No,IT Support,No,1/9/2025,Adult,0,2092.53,0-12 month,2092.53
+CUST00699,Pooja Chauhan,Female,47,West Bengal,Kolkata,3,Basic,471,1348.35,One Year,UPI,5G,Yes,No,Sales,No,6/15/2024,Adult,0,471,0-12 month,1413
+CUST00700,Neha Mishra,Other,25,Odisha,Bhubaneswar,27,Basic,2352.21,66293.81,Monthly,Credit Card,No Internet,Yes,No,Retention,Yes,7/31/2025,Adult,1,2352.21,25-48 month,63509.67
+CUST00701,Rahul Singh,Other,52,Maharashtra,Pune,51,Basic,1528.34,79436.62,Two Year,Debit Card,No Internet,No,No,Retention,No,1/1/2026,Adult,0,1528.34,49-72 month,77945.34
+CUST00702,Karan Khan,Other,78,Uttarakhand,Dehradun,63,Standard,1810.54,107329.04,Monthly,Credit Card,Fiber Optic,Yes,Yes,IT Support,No,4/20/2024,Senior,0,1810.54,49-72 month,114064.02
+CUST00703,Pooja Gupta,Other,25,Uttarakhand,Dehradun,61,Premium,2017.62,125435.11,Monthly,Auto Debit,No Internet,Yes,No,Technical Support,No,6/20/2024,Adult,0,2017.62,49-72 month,123074.82
+CUST00704,Vihaan Mehta,Female,53,Uttarakhand,Dehradun,22,Premium,988.51,22911.14,Monthly,Bank Transfer,Fiber Optic,Yes,No,Accounts,Yes,2/24/2026,Adult,1,988.51,13-24 month,21747.22
+CUST00705,Sneha Chauhan,Male,67,Tamil Nadu,Chennai,8,Basic,2235.86,19237.34,One Year,Auto Debit,Fiber Optic,Yes,Yes,Retention,No,12/7/2024,Senior,0,2235.86,0-12 month,17886.88
+CUST00706,Vihaan Jain,Male,25,Uttar Pradesh,Lucknow,21,Basic,1561.84,34997.46,One Year,Cash,5G,Yes,No,Billing,Yes,1/20/2026,Adult,1,1561.84,13-24 month,32798.64
+CUST00707,Arjun Kumar,Male,47,West Bengal,Kolkata,16,Premium,1268.16,20940.06,Monthly,UPI,5G,No,No,Customer Service,No,8/2/2025,Adult,0,1268.16,13-24 month,20290.56
+CUST00708,Ishita Mehta,Female,37,Gujarat,Ahmedabad,13,Standard,2022.57,25861.83,Two Year,Bank Transfer,Fiber Optic,Yes,No,Accounts,No,9/21/2025,Adult,0,2022.57,13-24 month,26293.41
+CUST00709,Payal Singh,Female,34,Uttar Pradesh,Mathura,26,Standard,502.86,12459.13,Monthly,Credit Card,Fiber Optic,Yes,No,IT Support,No,5/16/2024,Adult,0,502.86,25-48 month,13074.36
+CUST00710,Rahul Verma,Male,73,Tamil Nadu,Chennai,51,Premium,2129.66,103281.12,Monthly,UPI,No Internet,No,Yes,IT Support,Yes,3/9/2024,Senior,1,2129.66,49-72 month,108612.66
+CUST00711,Karan Mehta,Male,37,Uttar Pradesh,Lucknow,18,Premium,1111.77,20445.97,One Year,Auto Debit,DSL,No,No,Customer Service,No,2/28/2026,Adult,0,1111.77,13-24 month,20011.86
+CUST00712,Ananya Singh,Male,26,West Bengal,Kolkata,35,Standard,2319.09,78842.08,Monthly,Auto Debit,DSL,Yes,No,Sales,Yes,5/27/2026,Adult,1,2319.09,25-48 month,81168.15
+CUST00713,Rohan Yadav,Male,77,Bihar,Patna,2,Basic,527.31,1072.83,Monthly,Debit Card,5G,Yes,Yes,Sales,No,1/22/2024,Senior,0,527.31,0-12 month,1054.62
+CUST00714,Arjun Singh,Female,26,Punjab,Ludhiana,25,Standard,1378.53,36475.02,One Year,Bank Transfer,No Internet,No,No,Sales,No,1/8/2024,Adult,0,1378.53,25-48 month,34463.25
+CUST00715,Aditya Singh,Other,79,Uttarakhand,Dehradun,30,Standard,486.85,13562.65,Two Year,Auto Debit,DSL,No,Yes,Retention,Yes,7/14/2026,Senior,1,486.85,25-48 month,14605.5
+CUST00716,Aanya Kumar,Male,21,Karnataka,Bengaluru,71,Basic,1507.07,112377.21,One Year,Cash,5G,Yes,No,IT Support,Yes,6/14/2025,Adult,1,1507.07,49-72 month,107001.97
+CUST00717,Priya Kumar,Male,47,Uttar Pradesh,Agra,3,Basic,2111.18,6137.86,One Year,UPI,DSL,No,No,Retention,No,5/3/2026,Adult,0,2111.18,0-12 month,6333.54
+CUST00718,Arjun Verma,Male,27,Madhya Pradesh,Bhopal,19,Basic,563.42,10198.69,Monthly,UPI,No Internet,Yes,No,Network Operations,Yes,6/25/2026,Adult,1,563.42,13-24 month,10704.98
+CUST00719,Aditya Yadav,Other,42,Uttar Pradesh,Lucknow,61,Premium,537.81,35132.94,Monthly,UPI,Fiber Optic,Yes,No,Network Operations,No,4/10/2024,Adult,0,537.81,49-72 month,32806.41
+CUST00720,Karan Patel,Female,67,Kerala,Kochi,45,Basic,490.6,23813.33,Two Year,UPI,Fiber Optic,Yes,Yes,Sales,No,7/16/2024,Senior,0,490.6,25-48 month,22077
+CUST00721,Karan Das,Male,43,Bihar,Patna,51,Basic,1387.18,65322.89,Two Year,Cash,DSL,Yes,No,Billing,No,11/16/2024,Adult,0,1387.18,49-72 month,70746.18
+CUST00722,Nisha Kumar,Female,54,Maharashtra,Mumbai,20,Premium,1507.07,27754.63,Monthly,Debit Card,Fiber Optic,Yes,No,IT Support,No,12/12/2025,Adult,0,1507.07,13-24 month,30141.4
+CUST00723,Pooja Mishra,Female,34,Haryana,Gurugram,71,Basic,729.8,54725.45,Two Year,Credit Card,No Internet,Yes,No,Accounts,No,8/4/2026,Adult,0,729.8,49-72 month,51815.8
+CUST00724,Meera Roy,Other,47,Uttarakhand,Dehradun,16,Standard,1098.22,17777.2,Two Year,Auto Debit,Fiber Optic,No,No,Customer Service,No,4/1/2026,Adult,0,1098.22,13-24 month,17571.52
+CUST00725,Rahul Mishra,Female,70,Tamil Nadu,Chennai,42,Premium,784.35,30748.61,Two Year,Auto Debit,Fiber Optic,Yes,Yes,Customer Service,No,1/14/2025,Senior,0,784.35,25-48 month,32942.7
+CUST00726,Vivaan Chauhan,Other,57,Punjab,Ludhiana,22,Basic,1876.73,39235.57,Monthly,Cash,No Internet,Yes,No,Technical Support,No,4/6/2025,Adult,0,1876.73,13-24 month,41288.06
+CUST00727,Amit Patel,Other,54,Uttar Pradesh,Mathura,66,Standard,1588.21,102078.91,One Year,UPI,No Internet,Yes,No,IT Support,No,6/4/2026,Adult,0,1588.21,49-72 month,104821.86
+CUST00728,Neha Saxena,Female,26,Maharashtra,Pune,70,Premium,736.98,53271.74,Monthly,Bank Transfer,Fiber Optic,No,No,Technical Support,No,4/26/2025,Adult,0,736.98,49-72 month,51588.6
+CUST00729,Meera Gupta,Female,80,Uttar Pradesh,Lucknow,62,Premium,1376.81,81210.04,Two Year,Credit Card,Fiber Optic,Yes,Yes,Technical Support,No,4/21/2026,Senior,0,1376.81,49-72 month,85362.22
+CUST00730,Kavya Roy,Male,71,Uttar Pradesh,Lucknow,62,Standard,700.39,45069.54,Monthly,Auto Debit,Fiber Optic,No,Yes,Retention,No,5/21/2024,Senior,0,700.39,49-72 month,43424.18
+CUST00731,Dev Mishra,Other,40,Uttar Pradesh,Agra,23,Basic,1686.65,40858.1,Monthly,Credit Card,5G,No,No,Retention,Yes,2/16/2026,Adult,1,1686.65,13-24 month,38792.95
+CUST00732,Sneha Singh,Male,47,Telangana,Hyderabad,19,Standard,1205.18,23266.78,Monthly,Bank Transfer,DSL,Yes,No,Customer Service,Yes,12/25/2024,Adult,1,1205.18,13-24 month,22898.42
+CUST00733,Meera Sharma,Male,35,Punjab,Ludhiana,59,Standard,1141.35,63724.41,Monthly,Credit Card,No Internet,No,No,IT Support,Yes,10/3/2024,Adult,1,1141.35,49-72 month,67339.65
+CUST00734,Payal Das,Female,49,Uttar Pradesh,Kanpur,28,Premium,1946.17,56570.9,One Year,UPI,Fiber Optic,No,No,Billing,No,8/30/2026,Adult,0,1946.17,25-48 month,54492.76
+CUST00735,Nisha Patel,Other,41,Maharashtra,Mumbai,35,Basic,1996.48,74009.67,Monthly,Debit Card,5G,Yes,No,Sales,Yes,10/14/2025,Adult,1,1996.48,25-48 month,69876.8
+CUST00736,Aarav Chauhan,Male,33,Delhi,New Delhi,1,Standard,1637.73,1520.85,One Year,Auto Debit,DSL,No,No,Network Operations,No,7/14/2025,Adult,0,1637.73,0-12 month,1637.73
+CUST00737,Payal Malhotra,Male,77,Uttarakhand,Dehradun,29,Premium,554.53,17331.98,Two Year,Auto Debit,DSL,No,Yes,IT Support,No,2/1/2024,Senior,0,554.53,25-48 month,16081.37
+CUST00738,Aarav Kumar,Female,73,Uttarakhand,Dehradun,63,Standard,1933.54,119292.99,One Year,Debit Card,5G,No,Yes,IT Support,Yes,6/2/2026,Senior,1,1933.54,49-72 month,121813.02
+CUST00739,Isha Malhotra,Male,63,Uttarakhand,Dehradun,58,Basic,1529,86079.21,Monthly,UPI,5G,No,Yes,Sales,No,2/22/2024,Senior,0,1529,49-72 month,88682
+CUST00740,Sneha Verma,Other,23,Rajasthan,Jaipur,11,Basic,494.71,5814.06,Two Year,Bank Transfer,DSL,Yes,No,Accounts,No,10/24/2024,Adult,0,494.71,0-12 month,5441.81
+CUST00741,Rohan Sharma,Other,27,Telangana,Hyderabad,47,Premium,798.24,40434.54,One Year,Credit Card,5G,No,No,Billing,Yes,1/3/2026,Adult,1,798.24,25-48 month,37517.28
+CUST00742,Nisha Yadav,Female,62,Uttarakhand,Dehradun,4,Basic,875.83,3462.03,Monthly,Credit Card,DSL,Yes,Yes,IT Support,No,10/20/2025,Senior,0,875.83,0-12 month,3503.32
+CUST00743,Vihaan Sharma,Other,18,Punjab,Ludhiana,48,Basic,2175.76,108936.89,Monthly,Bank Transfer,5G,No,No,Customer Service,Yes,7/17/2024,Adult,1,2175.76,25-48 month,104436.48
+CUST00744,Aanya Singh,Other,36,Rajasthan,Jaipur,52,Standard,2266.13,126255.09,Monthly,Credit Card,No Internet,Yes,No,Accounts,Yes,3/27/2024,Adult,1,2266.13,49-72 month,117838.76
+CUST00745,Nisha Roy,Male,68,Tamil Nadu,Chennai,69,Standard,1666.33,110367.1,One Year,Credit Card,No Internet,Yes,Yes,Technical Support,No,1/22/2026,Senior,0,1666.33,49-72 month,114976.77
+CUST00746,Payal Yadav,Male,37,Rajasthan,Jaipur,28,Standard,859.64,22249.95,One Year,Credit Card,No Internet,No,No,Sales,No,7/25/2025,Adult,0,859.64,25-48 month,24069.92
+CUST00747,Kavya Agarwal,Female,38,Delhi,New Delhi,35,Premium,2109.04,73790.89,One Year,Cash,5G,Yes,No,Retention,No,9/1/2026,Adult,0,2109.04,25-48 month,73816.4
+CUST00748,Vivaan Verma,Other,67,West Bengal,Kolkata,38,Basic,1299.88,48832.93,One Year,Credit Card,DSL,Yes,Yes,IT Support,No,4/15/2025,Senior,0,1299.88,25-48 month,49395.44
+CUST00749,Kabir Chauhan,Male,74,Uttarakhand,Dehradun,63,Basic,808.79,53213.88,One Year,Auto Debit,Fiber Optic,No,Yes,Retention,No,10/10/2025,Senior,0,808.79,49-72 month,50953.77
+CUST00750,Neha Yadav,Female,72,Uttar Pradesh,Lucknow,52,Basic,1641.9,83378.57,Monthly,Cash,Fiber Optic,Yes,Yes,Network Operations,No,8/13/2025,Senior,0,1641.9,49-72 month,85378.8
+CUST00751,Sneha Roy,Male,19,Punjab,Ludhiana,4,Basic,2222.29,9039.41,Two Year,Bank Transfer,5G,Yes,No,Network Operations,Yes,6/28/2024,Adult,1,2222.29,0-12 month,8889.16
+CUST00752,Ishita Mishra,Other,21,Maharashtra,Mumbai,32,Premium,1084.09,35825.74,Monthly,Debit Card,DSL,No,No,IT Support,No,9/20/2026,Adult,0,1084.09,25-48 month,34690.88
+CUST00753,Kabir Chauhan,Other,42,Uttar Pradesh,Agra,63,Premium,471.5,30768.54,One Year,UPI,Fiber Optic,No,No,Billing,Yes,9/7/2025,Adult,1,471.5,49-72 month,29704.5
+CUST00754,Diya Mehta,Other,52,Maharashtra,Pune,47,Premium,1410.08,64576.55,One Year,Cash,DSL,No,No,Sales,No,11/3/2024,Adult,0,1410.08,25-48 month,66273.76
+CUST00755,Priya Kumar,Male,59,Uttar Pradesh,Lucknow,64,Premium,1603.84,102049.59,Monthly,UPI,No Internet,No,No,Customer Service,No,8/19/2025,Adult,0,1603.84,49-72 month,102645.76
+CUST00756,Meera Jain,Female,63,Rajasthan,Jaipur,20,Basic,674.96,14416.94,Monthly,Credit Card,DSL,Yes,Yes,IT Support,No,1/25/2026,Senior,0,674.96,13-24 month,13499.2
+CUST00757,Priya Chauhan,Other,37,Telangana,Hyderabad,58,Premium,2331.15,130605.3,Two Year,Cash,Fiber Optic,No,No,Network Operations,No,7/7/2025,Adult,0,2331.15,49-72 month,135206.7
+CUST00758,Riya Mishra,Female,53,Rajasthan,Jaipur,72,Premium,1158.51,78413.14,One Year,UPI,DSL,No,No,Technical Support,No,6/3/2025,Adult,0,1158.51,49-72 month,83412.72
+CUST00759,Sneha Agarwal,Male,45,Punjab,Ludhiana,33,Standard,1994.56,63374.44,Two Year,Debit Card,DSL,No,No,IT Support,Yes,12/5/2024,Adult,1,1994.56,25-48 month,65820.48
+CUST00760,Meera Mishra,Female,32,Telangana,Hyderabad,60,Basic,1514.58,96922.79,One Year,Credit Card,No Internet,No,No,Customer Service,No,10/16/2025,Adult,0,1514.58,49-72 month,90874.8
+CUST00761,Neha Chauhan,Male,67,Gujarat,Ahmedabad,29,Premium,459.64,12751.08,Two Year,Debit Card,No Internet,No,Yes,Sales,No,1/8/2026,Senior,0,459.64,25-48 month,13329.56
+CUST00762,Pooja Malhotra,Female,24,Haryana,Gurugram,39,Basic,1370.51,54395.46,One Year,Cash,5G,Yes,No,Sales,Yes,8/21/2026,Adult,1,1370.51,25-48 month,53449.89
+CUST00763,Aditya Mehta,Other,60,Punjab,Ludhiana,65,Standard,1650.99,112835.24,One Year,Credit Card,5G,Yes,Yes,Technical Support,No,3/31/2026,Adult,0,1650.99,49-72 month,107314.35
+CUST00764,Aarav Kumar,Male,57,Rajasthan,Jaipur,53,Standard,1590.02,78822.57,Two Year,Debit Card,5G,No,No,Customer Service,No,8/25/2025,Adult,0,1590.02,49-72 month,84271.06
+CUST00765,Pooja Mehta,Female,79,Karnataka,Bengaluru,65,Basic,511.57,35777.53,Two Year,Credit Card,No Internet,Yes,Yes,Network Operations,No,4/9/2025,Senior,0,511.57,49-72 month,33252.05
+CUST00766,Rahul Saxena,Other,74,Delhi,New Delhi,22,Premium,494.07,11521.42,One Year,UPI,DSL,No,Yes,Billing,No,4/10/2026,Senior,0,494.07,13-24 month,10869.54
+CUST00767,Priya Khan,Female,71,Maharashtra,Mumbai,22,Standard,1486.84,31287.15,Monthly,Auto Debit,5G,Yes,Yes,Network Operations,Yes,11/17/2025,Senior,1,1486.84,13-24 month,32710.48
+CUST00768,Kavya Khan,Other,41,Uttar Pradesh,Mathura,71,Basic,659.99,44958.84,Monthly,Cash,5G,No,No,IT Support,No,3/18/2025,Adult,0,659.99,49-72 month,46859.29
+CUST00769,Arjun Malhotra,Other,47,Tamil Nadu,Chennai,6,Premium,2022.76,12111.36,Monthly,Auto Debit,DSL,No,No,IT Support,Yes,4/24/2025,Adult,1,2022.76,0-12 month,12136.56
+CUST00770,Payal Das,Female,45,Uttar Pradesh,Agra,60,Standard,331,21441.35,One Year,Bank Transfer,DSL,Yes,No,Technical Support,No,12/24/2024,Adult,0,331,49-72 month,19860
+CUST00771,Aarav Roy,Female,65,Rajasthan,Jaipur,71,Premium,2346.38,156541.66,Two Year,Auto Debit,No Internet,Yes,Yes,Retention,No,7/9/2026,Senior,0,2346.38,49-72 month,166592.98
+CUST00772,Sneha Singh,Male,39,Uttarakhand,Dehradun,30,Premium,1472.44,47562.3,Monthly,UPI,No Internet,No,No,Customer Service,No,9/2/2024,Adult,0,1472.44,25-48 month,44173.2
+CUST00773,Rahul Malhotra,Male,43,Delhi,New Delhi,48,Basic,558.36,27369.15,Monthly,Debit Card,5G,Yes,No,Accounts,No,9/14/2026,Adult,0,558.36,25-48 month,26801.28
+CUST00774,Karan Sharma,Male,54,Gujarat,Ahmedabad,66,Standard,1425.45,89140.26,Two Year,UPI,DSL,No,No,Retention,No,3/29/2024,Adult,0,1425.45,49-72 month,94079.7
+CUST00775,Rahul Khan,Other,21,Uttar Pradesh,Agra,29,Premium,1761.03,50563.4,One Year,Cash,Fiber Optic,Yes,No,Retention,No,12/2/2025,Adult,0,1761.03,25-48 month,51069.87
+CUST00776,Kabir Agarwal,Female,73,Bihar,Patna,27,Standard,919.71,24990.47,Two Year,Auto Debit,5G,Yes,Yes,Customer Service,No,8/28/2026,Senior,0,919.71,25-48 month,24832.17
+CUST00777,Meera Saxena,Other,54,Odisha,Bhubaneswar,72,Premium,1993.09,137350.93,Two Year,Credit Card,5G,No,No,Network Operations,No,8/5/2025,Adult,0,1993.09,49-72 month,143502.48
+CUST00778,Aditya Chauhan,Female,44,Uttar Pradesh,Kanpur,59,Premium,1843.63,113725.94,Two Year,Bank Transfer,5G,No,No,Sales,No,11/30/2025,Adult,0,1843.63,49-72 month,108774.17
+CUST00779,Riya Agarwal,Male,78,Haryana,Gurugram,16,Standard,333.84,5751.18,One Year,Credit Card,5G,Yes,Yes,Customer Service,Yes,4/30/2024,Senior,1,333.84,13-24 month,5341.44
+CUST00780,Pooja Agarwal,Male,60,Uttar Pradesh,Lucknow,43,Basic,1715.52,77274.96,Two Year,Bank Transfer,DSL,Yes,Yes,Customer Service,No,8/14/2025,Adult,0,1715.52,25-48 month,73767.36
+CUST00781,Karan Singh,Male,56,Uttarakhand,Dehradun,52,Basic,2136.77,108388.69,Two Year,UPI,Fiber Optic,No,No,Accounts,Yes,12/17/2024,Adult,1,2136.77,49-72 month,111112.04
+CUST00782,Kabir Sharma,Male,55,Bihar,Patna,68,Premium,1440.48,96913.54,Monthly,Cash,5G,No,No,Billing,Yes,3/21/2026,Adult,1,1440.48,49-72 month,97952.64
+CUST00783,Vivaan Mehta,Female,76,Telangana,Hyderabad,31,Standard,2311.43,73689.72,Two Year,UPI,Fiber Optic,No,Yes,Retention,No,4/10/2026,Senior,0,2311.43,25-48 month,71654.33
+CUST00784,Vihaan Patel,Male,71,Karnataka,Bengaluru,59,Premium,2127.58,131916.68,Two Year,Auto Debit,DSL,Yes,Yes,Accounts,Yes,3/3/2024,Senior,1,2127.58,49-72 month,125527.22
+CUST00785,Aarav Malhotra,Male,27,West Bengal,Kolkata,26,Standard,1582.13,44254.67,One Year,Auto Debit,5G,No,No,Accounts,No,10/22/2025,Adult,0,1582.13,25-48 month,41135.38
+CUST00786,Dev Verma,Female,28,Telangana,Hyderabad,39,Standard,2088.16,87944.75,One Year,Bank Transfer,5G,Yes,No,Network Operations,No,3/16/2026,Adult,0,2088.16,25-48 month,81438.24
+CUST00787,Isha Agarwal,Other,54,Uttar Pradesh,Mathura,65,Standard,1073.04,69921.91,One Year,UPI,5G,No,No,Technical Support,No,8/13/2024,Adult,0,1073.04,49-72 month,69747.6
+CUST00788,Dev Roy,Male,70,Bihar,Patna,29,Basic,762.29,21348.37,Two Year,Debit Card,Fiber Optic,Yes,Yes,Sales,No,1/15/2025,Senior,0,762.29,25-48 month,22106.41
+CUST00789,Aditya Agarwal,Male,24,Odisha,Bhubaneswar,27,Standard,384.2,10819.93,Monthly,Cash,DSL,Yes,No,Accounts,Yes,7/8/2025,Adult,1,384.2,25-48 month,10373.4
+CUST00790,Sneha Jain,Other,37,Uttarakhand,Dehradun,20,Premium,2378.03,46052.61,Two Year,Auto Debit,Fiber Optic,No,No,Customer Service,No,8/18/2024,Adult,0,2378.03,13-24 month,47560.6
+CUST00791,Nisha Patel,Male,62,Karnataka,Bengaluru,56,Standard,1822.88,104747.39,One Year,Credit Card,No Internet,Yes,Yes,Accounts,No,4/9/2026,Senior,0,1822.88,49-72 month,102081.28
+CUST00792,Rahul Yadav,Female,55,Uttar Pradesh,Lucknow,60,Standard,2144.96,133274.56,One Year,UPI,No Internet,No,No,Retention,No,5/23/2024,Adult,0,2144.96,49-72 month,128697.6
+CUST00793,Riya Sharma,Male,64,Uttar Pradesh,Lucknow,49,Premium,1354.43,67220.44,Monthly,Bank Transfer,No Internet,No,Yes,Customer Service,No,8/13/2025,Senior,0,1354.43,49-72 month,66367.07
+CUST00794,Aanya Agarwal,Male,74,Uttarakhand,Dehradun,64,Standard,2158.8,145165.91,One Year,Debit Card,5G,Yes,Yes,IT Support,No,10/2/2025,Senior,0,2158.8,49-72 month,138163.2
+CUST00795,Riya Roy,Female,39,Kerala,Kochi,37,Standard,2469.27,84556.89,Monthly,UPI,5G,Yes,No,Network Operations,Yes,2/26/2025,Adult,1,2469.27,25-48 month,91362.99
+CUST00796,Amit Das,Other,38,Telangana,Hyderabad,19,Standard,2484.14,46049.06,One Year,Credit Card,Fiber Optic,No,No,Sales,No,11/19/2025,Adult,0,2484.14,13-24 month,47198.66
+CUST00797,Dev Roy,Female,68,Karnataka,Bengaluru,49,Premium,890.46,41222.68,Two Year,UPI,Fiber Optic,Yes,Yes,Network Operations,No,3/2/2024,Senior,0,890.46,49-72 month,43632.54
+CUST00798,Rahul Verma,Other,31,West Bengal,Kolkata,38,Basic,2332.45,91268.71,Monthly,Debit Card,No Internet,Yes,No,Customer Service,Yes,11/29/2024,Adult,1,2332.45,25-48 month,88633.1
+CUST00799,Dev Khan,Other,57,Rajasthan,Jaipur,50,Premium,1667.75,78874.8,One Year,Cash,No Internet,Yes,No,Billing,No,7/29/2026,Adult,0,1667.75,49-72 month,83387.5
+CUST00800,Ananya Jain,Female,24,Madhya Pradesh,Bhopal,51,Standard,921.91,47340.96,Monthly,Debit Card,5G,No,No,Customer Service,Yes,4/18/2024,Adult,1,921.91,49-72 month,47017.41
+CUST00801,Pooja Mehta,Other,42,Uttar Pradesh,Agra,7,Basic,2472.23,16325.28,One Year,Auto Debit,No Internet,Yes,No,Retention,No,7/29/2025,Adult,0,2472.23,0-12 month,17305.61
+CUST00802,Priya Verma,Male,61,Madhya Pradesh,Bhopal,26,Basic,2144.06,52487.94,One Year,UPI,No Internet,No,Yes,Technical Support,No,11/8/2024,Senior,0,2144.06,25-48 month,55745.56
+CUST00803,Dev Verma,Female,74,Tamil Nadu,Chennai,10,Standard,1545.08,16083.1,Two Year,Credit Card,DSL,No,Yes,Billing,Yes,1/3/2024,Senior,1,1545.08,0-12 month,15450.8
+CUST00804,Sneha Patel,Female,29,Punjab,Ludhiana,20,Standard,1471.66,29817.69,Monthly,UPI,5G,No,No,Network Operations,No,7/19/2025,Adult,0,1471.66,13-24 month,29433.2
+CUST00805,Aarav Khan,Other,75,Uttar Pradesh,Agra,46,Premium,693.77,32875.27,Two Year,UPI,5G,Yes,Yes,Accounts,No,5/21/2024,Senior,0,693.77,25-48 month,31913.42
+CUST00806,Aditya Kumar,Female,45,Rajasthan,Jaipur,7,Premium,1356.07,9830.6,Two Year,Debit Card,No Internet,No,No,Retention,Yes,3/24/2025,Adult,1,1356.07,0-12 month,9492.49
+CUST00807,Ananya Gupta,Male,47,Bihar,Patna,66,Standard,2131.89,132667.77,Monthly,Cash,5G,No,No,Network Operations,Yes,12/26/2024,Adult,1,2131.89,49-72 month,140704.74
+CUST00808,Priya Joshi,Male,44,Uttarakhand,Dehradun,34,Premium,959.44,30510.36,Monthly,Auto Debit,No Internet,No,No,Network Operations,Yes,4/3/2024,Adult,1,959.44,25-48 month,32620.96
+CUST00809,Vivaan Chauhan,Other,43,Telangana,Hyderabad,52,Standard,2285.54,112992.2,One Year,Bank Transfer,No Internet,No,No,Retention,No,8/17/2024,Adult,0,2285.54,49-72 month,118848.08
+CUST00810,Pooja Chauhan,Female,80,Telangana,Hyderabad,4,Premium,1676.38,7213.59,One Year,Cash,5G,No,Yes,Retention,Yes,10/29/2025,Senior,1,1676.38,0-12 month,6705.52
+CUST00811,Vivaan Roy,Other,50,Kerala,Kochi,55,Basic,1760.64,95055.44,Monthly,Auto Debit,5G,No,No,Customer Service,Yes,7/15/2026,Adult,1,1760.64,49-72 month,96835.2
+CUST00812,Priya Jain,Male,21,Kerala,Kochi,68,Basic,400.77,29281.93,Monthly,Debit Card,No Internet,No,No,Billing,No,7/26/2026,Adult,0,400.77,49-72 month,27252.36
+CUST00813,Sneha Malhotra,Other,24,West Bengal,Kolkata,4,Premium,1180.03,4355.61,One Year,Credit Card,No Internet,No,No,Retention,No,4/20/2024,Adult,0,1180.03,0-12 month,4720.12
+CUST00814,Kavya Chauhan,Female,23,Kerala,Kochi,45,Standard,2418.47,101757.11,Two Year,UPI,DSL,No,No,Customer Service,No,8/11/2026,Adult,0,2418.47,25-48 month,108831.15
+CUST00815,Rohan Joshi,Female,32,Uttar Pradesh,Lucknow,60,Basic,451.56,26758.98,Monthly,Cash,5G,No,No,Technical Support,No,4/22/2025,Adult,0,451.56,49-72 month,27093.6
+CUST00816,Kabir Gupta,Female,78,Uttar Pradesh,Agra,4,Standard,1843.77,7790.81,One Year,Bank Transfer,5G,Yes,Yes,Retention,No,5/15/2026,Senior,0,1843.77,0-12 month,7375.08
+CUST00817,Ishita Jain,Female,73,Uttarakhand,Dehradun,57,Basic,2255.01,119032.2,Two Year,Debit Card,5G,No,Yes,Network Operations,No,10/11/2025,Senior,0,2255.01,49-72 month,128535.57
+CUST00818,Payal Kumar,Female,27,Tamil Nadu,Chennai,28,Standard,921.38,24179.49,One Year,Auto Debit,Fiber Optic,Yes,No,Customer Service,Yes,3/19/2025,Adult,1,921.38,25-48 month,25798.64
+CUST00819,Sneha Agarwal,Other,51,Uttar Pradesh,Agra,10,Standard,2485.9,23149.72,Monthly,Debit Card,5G,Yes,No,Customer Service,No,3/10/2024,Adult,0,2485.9,0-12 month,24859
+CUST00820,Neha Roy,Male,64,Kerala,Kochi,25,Basic,2267.23,57367.28,Monthly,UPI,DSL,Yes,Yes,Technical Support,No,5/7/2026,Senior,0,2267.23,25-48 month,56680.75
+CUST00821,Aditya Malhotra,Other,60,Madhya Pradesh,Bhopal,56,Standard,1772.39,92211.48,Two Year,Credit Card,5G,No,Yes,Billing,No,1/29/2026,Adult,0,1772.39,49-72 month,99253.84
+CUST00822,Ishita Jain,Other,61,Maharashtra,Mumbai,5,Premium,2243.43,11558.9,Two Year,Credit Card,DSL,Yes,Yes,Technical Support,Yes,12/31/2025,Senior,1,2243.43,0-12 month,11217.15
+CUST00823,Aditya Malhotra,Other,20,Karnataka,Bengaluru,19,Premium,2340.05,42983.86,Monthly,Credit Card,DSL,No,No,Network Operations,No,1/9/2026,Adult,0,2340.05,13-24 month,44460.95
+CUST00824,Isha Khan,Other,31,Madhya Pradesh,Bhopal,34,Premium,2220.52,76921.68,Two Year,UPI,Fiber Optic,No,No,Retention,No,8/27/2024,Adult,0,2220.52,25-48 month,75497.68
+CUST00825,Karan Joshi,Other,64,Delhi,New Delhi,30,Standard,1118.42,35853.87,Two Year,Debit Card,DSL,Yes,Yes,Retention,No,10/7/2024,Senior,0,1118.42,25-48 month,33552.6
+CUST00826,Diya Yadav,Male,69,Uttarakhand,Dehradun,13,Premium,712.12,9787.08,Two Year,Debit Card,5G,Yes,Yes,Billing,No,4/29/2024,Senior,0,712.12,13-24 month,9257.56
+CUST00827,Sneha Yadav,Male,35,Gujarat,Ahmedabad,41,Premium,1996.9,81258.55,One Year,Auto Debit,DSL,Yes,No,Retention,Yes,8/4/2025,Adult,1,1996.9,25-48 month,81872.9
+CUST00828,Pooja Khan,Male,57,Uttarakhand,Dehradun,8,Basic,845.93,6242.77,One Year,Credit Card,5G,Yes,No,Billing,Yes,4/20/2024,Adult,1,845.93,0-12 month,6767.44
+CUST00829,Vihaan Singh,Other,39,Uttar Pradesh,Agra,10,Standard,2123.39,21658.26,Two Year,Credit Card,DSL,No,No,Technical Support,No,11/10/2024,Adult,0,2123.39,0-12 month,21233.9
+CUST00830,Ishita Verma,Male,45,Madhya Pradesh,Bhopal,44,Premium,380.13,18026.06,Monthly,Credit Card,DSL,Yes,No,Technical Support,No,5/31/2025,Adult,0,380.13,25-48 month,16725.72
+CUST00831,Nisha Sharma,Other,54,Kerala,Kochi,35,Basic,992.19,34750.73,Two Year,Auto Debit,Fiber Optic,Yes,No,Retention,No,5/17/2025,Adult,0,992.19,25-48 month,34726.65
+CUST00832,Ishita Verma,Female,35,Odisha,Bhubaneswar,14,Premium,1935.58,25075.45,One Year,Auto Debit,No Internet,No,No,Accounts,Yes,6/15/2025,Adult,1,1935.58,13-24 month,27098.12
+CUST00833,Payal Patel,Female,51,Maharashtra,Pune,9,Basic,1896.99,16426.36,One Year,Auto Debit,Fiber Optic,No,No,Network Operations,No,11/20/2025,Adult,0,1896.99,0-12 month,17072.91
+CUST00834,Dev Das,Other,33,Punjab,Ludhiana,2,Basic,954.09,1995.3,One Year,Bank Transfer,DSL,No,No,Technical Support,No,3/19/2024,Adult,0,954.09,0-12 month,1908.18
+CUST00835,Arjun Roy,Female,79,Delhi,New Delhi,70,Standard,608.26,43504.73,Two Year,Bank Transfer,Fiber Optic,Yes,Yes,Billing,No,12/9/2024,Senior,0,608.26,49-72 month,42578.2
+CUST00836,Neha Sharma,Other,54,Uttar Pradesh,Agra,40,Premium,1318.51,56600.48,Monthly,Credit Card,DSL,Yes,No,Billing,No,6/16/2025,Adult,0,1318.51,25-48 month,52740.4
+CUST00837,Karan Sharma,Female,38,Uttar Pradesh,Lucknow,58,Standard,472.07,27483.44,One Year,Bank Transfer,DSL,Yes,No,Billing,No,3/26/2025,Adult,0,472.07,49-72 month,27380.06
+CUST00838,Nisha Roy,Male,40,Uttar Pradesh,Mathura,60,Standard,839.15,49041.64,One Year,UPI,DSL,No,No,Billing,No,4/11/2026,Adult,0,839.15,49-72 month,50349
+CUST00839,Priya Khan,Other,42,Uttar Pradesh,Mathura,21,Premium,1897.45,40424.34,Two Year,Auto Debit,DSL,Yes,No,Technical Support,No,3/30/2026,Adult,0,1897.45,13-24 month,39846.45
+CUST00840,Pooja Das,Male,52,Bihar,Patna,69,Standard,2147.7,157208.66,Monthly,Cash,5G,Yes,No,Sales,Yes,1/22/2025,Adult,1,2147.7,49-72 month,148191.3
+CUST00841,Pooja Yadav,Male,64,Uttarakhand,Dehradun,53,Basic,883.7,46688.25,One Year,Cash,Fiber Optic,Yes,Yes,IT Support,No,7/14/2024,Senior,0,883.7,49-72 month,46836.1
+CUST00842,Riya Khan,Other,54,Madhya Pradesh,Bhopal,25,Basic,1444.28,35974.15,Two Year,Debit Card,5G,No,No,Accounts,No,1/6/2024,Adult,0,1444.28,25-48 month,36107
+CUST00843,Karan Joshi,Male,58,Uttar Pradesh,Agra,14,Basic,2134.8,29722.08,Two Year,Bank Transfer,5G,No,No,Accounts,Yes,5/25/2024,Adult,1,2134.8,13-24 month,29887.2
+CUST00844,Riya Mishra,Female,73,Gujarat,Ahmedabad,20,Standard,921.91,18178.4,Two Year,Credit Card,DSL,Yes,Yes,Network Operations,No,3/21/2026,Senior,0,921.91,13-24 month,18438.2
+CUST00845,Payal Mehta,Other,50,Uttarakhand,Dehradun,47,Premium,2084.96,102486.89,Monthly,Auto Debit,5G,No,No,Technical Support,No,10/9/2025,Adult,0,2084.96,25-48 month,97993.12
+CUST00846,Ananya Roy,Male,49,Punjab,Ludhiana,26,Standard,637.4,16664.73,One Year,Debit Card,DSL,No,No,Billing,Yes,5/8/2025,Adult,1,637.4,25-48 month,16572.4
+CUST00847,Nisha Mehta,Female,63,Gujarat,Ahmedabad,26,Premium,2387.17,59420.5,One Year,Debit Card,5G,Yes,Yes,Customer Service,Yes,3/20/2026,Senior,1,2387.17,25-48 month,62066.42
+CUST00848,Pooja Saxena,Other,50,Haryana,Gurugram,64,Premium,1441.27,94095.93,Two Year,UPI,Fiber Optic,Yes,No,Sales,No,7/22/2024,Adult,0,1441.27,49-72 month,92241.28
+CUST00849,Isha Sharma,Female,69,Uttar Pradesh,Kanpur,37,Basic,1601.44,54591.67,Two Year,Auto Debit,5G,No,Yes,Accounts,Yes,11/20/2025,Senior,1,1601.44,25-48 month,59253.28
+CUST00850,Ananya Sharma,Other,78,Odisha,Bhubaneswar,59,Premium,818.18,48561.01,Monthly,UPI,Fiber Optic,No,Yes,Retention,No,11/2/2024,Senior,0,818.18,49-72 month,48272.62
+CUST00851,Isha Patel,Other,62,Bihar,Patna,13,Premium,2172.89,30246.61,Two Year,UPI,5G,Yes,Yes,Technical Support,No,4/28/2025,Senior,0,2172.89,13-24 month,28247.57
+CUST00852,Arjun Singh,Male,48,West Bengal,Kolkata,52,Basic,2216.01,109718.49,Two Year,UPI,DSL,Yes,No,Retention,No,5/19/2024,Adult,0,2216.01,49-72 month,115232.52
+CUST00853,Aarav Verma,Female,75,Bihar,Patna,35,Standard,1373.24,51328.08,One Year,Auto Debit,DSL,Yes,Yes,Billing,Yes,8/14/2024,Senior,1,1373.24,25-48 month,48063.4
+CUST00854,Pooja Agarwal,Male,56,Maharashtra,Mumbai,19,Premium,662.44,12734.39,One Year,UPI,Fiber Optic,Yes,No,Customer Service,Yes,11/6/2024,Adult,1,662.44,13-24 month,12586.36
+CUST00855,Riya Das,Male,57,Maharashtra,Mumbai,29,Basic,705.3,21892.09,Two Year,Cash,DSL,No,No,IT Support,No,2/14/2024,Adult,0,705.3,25-48 month,20453.7
+CUST00856,Kabir Joshi,Male,44,Uttar Pradesh,Kanpur,42,Premium,511.5,21799.87,Monthly,Auto Debit,No Internet,Yes,No,Billing,No,11/23/2025,Adult,0,511.5,25-48 month,21483
+CUST00857,Ishita Roy,Male,35,Uttarakhand,Dehradun,47,Basic,977.01,43667.74,Monthly,Debit Card,No Internet,No,No,Sales,No,12/24/2025,Adult,0,977.01,25-48 month,45919.47
+CUST00858,Riya Mehta,Other,40,Odisha,Bhubaneswar,34,Standard,1488.95,52827.3,One Year,Credit Card,5G,No,No,Retention,No,7/16/2024,Adult,0,1488.95,25-48 month,50624.3
+CUST00859,Vihaan Patel,Female,30,Tamil Nadu,Chennai,28,Standard,1026.85,30919.8,One Year,Cash,DSL,Yes,No,Network Operations,No,7/20/2024,Adult,0,1026.85,25-48 month,28751.8
+CUST00860,Dev Gupta,Male,19,Kerala,Kochi,19,Standard,1290.6,22993.59,One Year,UPI,DSL,No,No,Retention,No,8/8/2026,Adult,0,1290.6,13-24 month,24521.4
+CUST00861,Amit Verma,Other,32,Madhya Pradesh,Bhopal,27,Premium,449.55,11725.35,Monthly,Auto Debit,DSL,Yes,No,Customer Service,No,3/28/2025,Adult,0,449.55,25-48 month,12137.85
+CUST00862,Meera Chauhan,Other,20,Tamil Nadu,Chennai,67,Standard,977.52,63601.66,Monthly,Credit Card,Fiber Optic,Yes,No,Retention,No,4/16/2026,Adult,0,977.52,49-72 month,65493.84
+CUST00863,Pooja Khan,Female,65,Maharashtra,Mumbai,59,Premium,2283.02,137730.96,Monthly,UPI,No Internet,No,Yes,Billing,No,2/19/2025,Senior,0,2283.02,49-72 month,134698.18
+CUST00864,Neha Malhotra,Female,73,Delhi,New Delhi,67,Standard,956.08,67771.73,Two Year,Debit Card,No Internet,No,Yes,Retention,No,2/20/2025,Senior,0,956.08,49-72 month,64057.36
+CUST00865,Diya Das,Female,51,Telangana,Hyderabad,1,Premium,686.02,652.33,Two Year,Cash,5G,Yes,No,IT Support,No,11/18/2024,Adult,0,686.02,0-12 month,686.02
+CUST00866,Arjun Malhotra,Male,53,Uttar Pradesh,Kanpur,37,Premium,450.23,16035.47,Two Year,Credit Card,No Internet,Yes,No,Network Operations,No,8/6/2025,Adult,0,450.23,25-48 month,16658.51
+CUST00867,Nisha Khan,Female,53,Gujarat,Ahmedabad,38,Basic,1432.93,53294.65,Monthly,Credit Card,5G,Yes,No,Billing,Yes,12/11/2025,Adult,1,1432.93,25-48 month,54451.34
+CUST00868,Nisha Yadav,Other,20,Gujarat,Ahmedabad,6,Standard,972.05,5754.62,One Year,Debit Card,5G,No,No,Billing,Yes,10/31/2025,Adult,1,972.05,0-12 month,5832.3
+CUST00869,Riya Saxena,Male,41,Maharashtra,Pune,51,Basic,572.15,27076.33,Monthly,Debit Card,No Internet,Yes,No,Retention,Yes,8/17/2025,Adult,1,572.15,49-72 month,29179.65
+CUST00870,Payal Patel,Other,46,Delhi,New Delhi,24,Premium,1521.25,37005.98,One Year,Auto Debit,No Internet,Yes,No,Customer Service,No,8/20/2025,Adult,0,1521.25,13-24 month,36510
+CUST00871,Priya Saxena,Male,42,Maharashtra,Mumbai,1,Basic,1363.47,1417.32,One Year,Debit Card,5G,Yes,No,Sales,No,11/10/2024,Adult,0,1363.47,0-12 month,1363.47
+CUST00872,Vivaan Chauhan,Female,36,Uttar Pradesh,Agra,50,Premium,2290.12,121159.84,One Year,Auto Debit,No Internet,No,No,Retention,Yes,5/24/2026,Adult,1,2290.12,49-72 month,114506
+CUST00873,Kavya Patel,Female,36,Maharashtra,Pune,8,Standard,2436.55,19344.34,One Year,Debit Card,No Internet,No,No,Sales,No,7/31/2026,Adult,0,2436.55,0-12 month,19492.4
+CUST00874,Sneha Khan,Female,32,West Bengal,Kolkata,12,Basic,1935.49,23996.04,Monthly,Auto Debit,5G,No,No,Network Operations,No,8/1/2025,Adult,0,1935.49,0-12 month,23225.88
+CUST00875,Sneha Das,Male,19,Maharashtra,Mumbai,36,Premium,1567.67,54256.56,One Year,Cash,DSL,No,No,Billing,Yes,5/27/2026,Adult,1,1567.67,25-48 month,56436.12
+CUST00876,Riya Patel,Female,77,Karnataka,Bengaluru,48,Premium,828.31,42682.28,One Year,UPI,DSL,No,Yes,IT Support,No,1/25/2025,Senior,0,828.31,25-48 month,39758.88
+CUST00877,Vihaan Jain,Female,46,Uttar Pradesh,Mathura,68,Standard,1890.95,130478.53,Monthly,Credit Card,DSL,No,No,Technical Support,No,7/6/2026,Adult,0,1890.95,49-72 month,128584.6
+CUST00878,Vivaan Agarwal,Male,29,Uttar Pradesh,Agra,18,Basic,1652.18,30414.02,One Year,UPI,5G,Yes,No,Customer Service,No,3/4/2025,Adult,0,1652.18,13-24 month,29739.24
+CUST00879,Karan Patel,Female,33,Uttar Pradesh,Agra,52,Standard,2042.17,112586.06,Two Year,UPI,Fiber Optic,No,No,Customer Service,No,6/12/2026,Adult,0,2042.17,49-72 month,106192.84
+CUST00880,Priya Singh,Male,46,Uttar Pradesh,Lucknow,12,Premium,1986.67,22255.48,Monthly,UPI,DSL,No,No,Customer Service,No,1/22/2025,Adult,0,1986.67,0-12 month,23840.04
+CUST00881,Riya Das,Male,38,Uttar Pradesh,Mathura,4,Basic,327.94,1242.93,One Year,Bank Transfer,DSL,No,No,Sales,No,8/9/2026,Adult,0,327.94,0-12 month,1311.76
+CUST00882,Neha Chauhan,Female,80,Rajasthan,Jaipur,47,Premium,1872.71,94423.12,One Year,Auto Debit,No Internet,No,Yes,Technical Support,No,5/3/2025,Senior,0,1872.71,25-48 month,88017.37
+CUST00883,Sneha Malhotra,Female,48,Maharashtra,Pune,26,Premium,415.51,11062.13,Two Year,Debit Card,Fiber Optic,Yes,No,Sales,No,3/31/2024,Adult,0,415.51,25-48 month,10803.26
+CUST00884,Diya Kumar,Other,44,Uttar Pradesh,Mathura,8,Basic,2445.4,18770.75,One Year,Credit Card,Fiber Optic,Yes,No,Billing,No,4/16/2026,Adult,0,2445.4,0-12 month,19563.2
+CUST00885,Vivaan Kumar,Male,31,Delhi,New Delhi,39,Standard,1728.65,71441.73,Monthly,Bank Transfer,No Internet,No,No,Customer Service,No,4/9/2024,Adult,0,1728.65,25-48 month,67417.35
+CUST00886,Vivaan Saxena,Male,80,Karnataka,Bengaluru,33,Standard,1500.59,46267.89,Monthly,Cash,Fiber Optic,No,Yes,Technical Support,No,10/15/2024,Senior,0,1500.59,25-48 month,49519.47
+CUST00887,Ishita Singh,Male,72,Punjab,Ludhiana,19,Premium,1049.94,19841.04,One Year,Credit Card,DSL,No,Yes,Network Operations,Yes,2/14/2025,Senior,1,1049.94,13-24 month,19948.86
+CUST00888,Ishita Khan,Female,71,Uttar Pradesh,Agra,20,Premium,1153.44,22357.01,Monthly,Auto Debit,Fiber Optic,Yes,Yes,Network Operations,No,7/18/2025,Senior,0,1153.44,13-24 month,23068.8
+CUST00889,Vihaan Malhotra,Female,70,Uttar Pradesh,Kanpur,35,Basic,915.7,31952.5,One Year,Credit Card,DSL,No,Yes,Accounts,No,8/30/2025,Senior,0,915.7,25-48 month,32049.5
+CUST00890,Vivaan Kumar,Other,60,Telangana,Hyderabad,70,Basic,1170.96,81702.33,Two Year,Credit Card,Fiber Optic,No,Yes,Accounts,No,7/12/2024,Adult,0,1170.96,49-72 month,81967.2
+CUST00891,Nisha Roy,Other,30,Rajasthan,Jaipur,36,Standard,2087.84,79135.57,One Year,Auto Debit,5G,No,No,Technical Support,No,9/26/2025,Adult,0,2087.84,25-48 month,75162.24
+CUST00892,Aditya Saxena,Male,62,Bihar,Patna,31,Premium,667.96,21738.29,One Year,Cash,DSL,Yes,Yes,Retention,No,6/30/2024,Senior,0,667.96,25-48 month,20706.76
+CUST00893,Isha Khan,Male,31,Madhya Pradesh,Bhopal,52,Premium,1720.15,95682.77,Monthly,Credit Card,DSL,No,No,Retention,Yes,7/7/2024,Adult,1,1720.15,49-72 month,89447.8
+CUST00894,Amit Sharma,Male,23,Odisha,Bhubaneswar,34,Premium,966.34,33625.25,Monthly,Debit Card,5G,No,No,Accounts,Yes,6/6/2024,Adult,1,966.34,25-48 month,32855.56
+CUST00895,Riya Joshi,Female,54,Punjab,Ludhiana,41,Basic,395.37,16745.54,Monthly,Bank Transfer,No Internet,No,No,Accounts,No,7/11/2024,Adult,0,395.37,25-48 month,16210.17
+CUST00896,Aanya Malhotra,Female,41,Bihar,Patna,61,Premium,1763.23,102358.75,Monthly,Debit Card,Fiber Optic,No,No,IT Support,Yes,4/26/2026,Adult,1,1763.23,49-72 month,107557.03
+CUST00897,Aarav Saxena,Male,31,Madhya Pradesh,Bhopal,11,Premium,860.9,9462.81,Monthly,Cash,5G,No,No,Sales,No,2/19/2025,Adult,0,860.9,0-12 month,9469.9
+CUST00898,Riya Joshi,Female,19,Uttarakhand,Dehradun,53,Basic,1419.17,79713.63,One Year,Auto Debit,5G,No,No,Customer Service,Yes,8/12/2024,Adult,1,1419.17,49-72 month,75216.01
+CUST00899,Sneha Chauhan,Female,52,Maharashtra,Pune,29,Standard,632.5,17419.22,Two Year,Auto Debit,DSL,Yes,No,Billing,Yes,7/5/2025,Adult,1,632.5,25-48 month,18342.5
+CUST00900,Arjun Das,Male,78,Maharashtra,Pune,13,Basic,1889.45,25916.97,Monthly,Credit Card,Fiber Optic,No,Yes,Sales,No,3/21/2026,Senior,0,1889.45,13-24 month,24562.85
+CUST00901,Kabir Mishra,Male,79,Rajasthan,Jaipur,30,Basic,1604,49267.1,Two Year,Bank Transfer,5G,Yes,Yes,IT Support,Yes,10/31/2025,Senior,1,1604,25-48 month,48120
+CUST00902,Vivaan Patel,Male,45,West Bengal,Kolkata,32,Premium,1731.23,56120.31,Monthly,Bank Transfer,DSL,Yes,No,Billing,Yes,10/4/2025,Adult,1,1731.23,25-48 month,55399.36
+CUST00903,Isha Mishra,Male,37,Delhi,New Delhi,24,Premium,853.35,21465.2,Monthly,Bank Transfer,Fiber Optic,No,No,IT Support,Yes,5/19/2024,Adult,1,853.35,13-24 month,20480.4
+CUST00904,Aarav Kumar,Female,45,Rajasthan,Jaipur,37,Premium,1385.06,52807.04,One Year,Cash,No Internet,No,No,Customer Service,Yes,4/12/2025,Adult,1,1385.06,25-48 month,51247.22
+CUST00905,Aarav Gupta,Male,60,West Bengal,Kolkata,34,Premium,2393.61,79568.71,Monthly,UPI,No Internet,Yes,Yes,Sales,No,3/21/2025,Adult,0,2393.61,25-48 month,81382.74
+CUST00906,Aditya Agarwal,Female,50,Uttar Pradesh,Mathura,33,Premium,593.24,20745.37,One Year,Credit Card,No Internet,Yes,No,Billing,No,12/27/2024,Adult,0,593.24,25-48 month,19576.92
+CUST00907,Priya Gupta,Male,21,Delhi,New Delhi,11,Premium,1093.29,11380.5,Monthly,Debit Card,No Internet,No,No,Sales,No,7/17/2025,Adult,0,1093.29,0-12 month,12026.19
+CUST00908,Isha Agarwal,Other,41,Punjab,Ludhiana,27,Basic,318.82,8297.46,One Year,Debit Card,No Internet,Yes,No,Customer Service,No,6/7/2026,Adult,0,318.82,25-48 month,8608.14
+CUST00909,Aarav Chauhan,Male,76,Maharashtra,Mumbai,46,Premium,1118.82,54331.34,Two Year,UPI,5G,Yes,Yes,Accounts,No,9/17/2026,Senior,0,1118.82,25-48 month,51465.72
+CUST00910,Pooja Agarwal,Other,32,Delhi,New Delhi,21,Premium,2498.36,53043.65,Two Year,Credit Card,No Internet,Yes,No,Technical Support,No,8/25/2025,Adult,0,2498.36,13-24 month,52465.56
+CUST00911,Priya Jain,Male,64,Maharashtra,Pune,8,Standard,1438.55,11378.07,One Year,Debit Card,5G,Yes,Yes,Technical Support,No,11/26/2025,Senior,0,1438.55,0-12 month,11508.4
+CUST00912,Vihaan Agarwal,Other,68,Uttar Pradesh,Agra,70,Standard,1382.05,101921.22,Monthly,Cash,Fiber Optic,Yes,Yes,Sales,No,8/20/2025,Senior,0,1382.05,49-72 month,96743.5
+CUST00913,Vihaan Mishra,Other,58,Punjab,Ludhiana,37,Premium,2301.25,83052.79,Monthly,Bank Transfer,DSL,Yes,No,Billing,Yes,7/21/2024,Adult,1,2301.25,25-48 month,85146.25
+CUST00914,Karan Roy,Female,74,Odisha,Bhubaneswar,66,Premium,2467.37,173525.94,Monthly,Cash,Fiber Optic,No,Yes,Technical Support,No,6/26/2024,Senior,0,2467.37,49-72 month,162846.42
+CUST00915,Riya Mishra,Male,54,West Bengal,Kolkata,71,Standard,1290.2,87991.44,Two Year,Bank Transfer,DSL,Yes,No,Technical Support,Yes,8/6/2024,Adult,1,1290.2,49-72 month,91604.2
+CUST00916,Aditya Sharma,Other,34,West Bengal,Kolkata,31,Basic,371.82,11588.47,Monthly,Auto Debit,Fiber Optic,No,No,Billing,Yes,11/6/2025,Adult,1,371.82,25-48 month,11526.42
+CUST00917,Aanya Mishra,Male,67,Kerala,Kochi,46,Basic,1754.26,86311.65,One Year,Credit Card,Fiber Optic,Yes,Yes,Customer Service,No,9/1/2026,Senior,0,1754.26,25-48 month,80695.96
+CUST00918,Diya Yadav,Male,51,Tamil Nadu,Chennai,24,Basic,2350.09,57577.56,Two Year,Cash,5G,No,No,Network Operations,No,7/6/2025,Adult,0,2350.09,13-24 month,56402.16
+CUST00919,Rahul Roy,Male,56,Kerala,Kochi,54,Premium,1522.16,83449.73,One Year,UPI,Fiber Optic,No,No,Accounts,No,5/25/2026,Adult,0,1522.16,49-72 month,82196.64
+CUST00920,Kavya Mishra,Other,64,Uttar Pradesh,Lucknow,3,Standard,2124.4,6805.33,One Year,Cash,DSL,Yes,Yes,Sales,No,1/13/2024,Senior,0,2124.4,0-12 month,6373.2
+CUST00921,Karan Chauhan,Other,33,Tamil Nadu,Chennai,55,Standard,1587.35,85202.33,Monthly,UPI,DSL,No,No,Accounts,No,8/10/2026,Adult,0,1587.35,49-72 month,87304.25
+CUST00922,Kabir Das,Male,63,Bihar,Patna,9,Basic,2073.97,17840.16,Two Year,Cash,5G,No,Yes,Billing,Yes,8/30/2024,Senior,1,2073.97,0-12 month,18665.73
+CUST00923,Priya Gupta,Female,80,Karnataka,Bengaluru,72,Basic,893.7,68155.07,Monthly,Cash,No Internet,Yes,Yes,Sales,No,2/1/2024,Senior,0,893.7,49-72 month,64346.4
+CUST00924,Kavya Chauhan,Male,68,Bihar,Patna,40,Premium,1133.5,46143.25,One Year,Auto Debit,5G,Yes,Yes,Network Operations,No,2/22/2024,Senior,0,1133.5,25-48 month,45340
+CUST00925,Kavya Mishra,Male,20,Madhya Pradesh,Bhopal,24,Premium,2389.98,56064.08,One Year,Bank Transfer,No Internet,No,No,Billing,Yes,2/8/2025,Adult,1,2389.98,13-24 month,57359.52
+CUST00926,Nisha Roy,Female,33,Gujarat,Ahmedabad,17,Standard,1949.02,31756.74,One Year,Credit Card,DSL,Yes,No,IT Support,Yes,2/4/2025,Adult,1,1949.02,13-24 month,33133.34
+CUST00927,Aanya Das,Female,58,Punjab,Ludhiana,54,Basic,987.15,52046.34,Two Year,Credit Card,Fiber Optic,No,No,Technical Support,Yes,3/30/2025,Adult,1,987.15,49-72 month,53306.1
+CUST00928,Pooja Das,Male,50,Haryana,Gurugram,19,Basic,354.49,6780.62,Monthly,UPI,5G,Yes,No,Billing,No,5/24/2026,Adult,0,354.49,13-24 month,6735.31
+CUST00929,Priya Joshi,Female,27,West Bengal,Kolkata,20,Premium,2281.34,42171.61,Monthly,Credit Card,5G,Yes,No,Retention,Yes,1/15/2026,Adult,1,2281.34,13-24 month,45626.8
+CUST00930,Meera Roy,Male,35,Kerala,Kochi,23,Basic,1907.82,45938.46,One Year,Debit Card,No Internet,No,No,Billing,No,11/10/2025,Adult,0,1907.82,13-24 month,43879.86
+CUST00931,Karan Khan,Male,64,Uttar Pradesh,Agra,40,Premium,2143.84,80074.28,Two Year,Bank Transfer,Fiber Optic,Yes,Yes,Accounts,No,12/8/2025,Senior,0,2143.84,25-48 month,85753.6
+CUST00932,Meera Gupta,Other,36,Kerala,Kochi,33,Premium,1667.46,53606.75,One Year,Debit Card,5G,No,No,Accounts,Yes,4/5/2025,Adult,1,1667.46,25-48 month,55026.18
+CUST00933,Priya Roy,Male,26,Kerala,Kochi,19,Standard,2189.35,43696.7,One Year,Bank Transfer,5G,No,No,Billing,No,12/5/2025,Adult,0,2189.35,13-24 month,41597.65
+CUST00934,Aarav Mehta,Female,41,Maharashtra,Mumbai,48,Basic,1660.79,73344.73,Two Year,Credit Card,No Internet,No,No,Sales,No,2/6/2026,Adult,0,1660.79,25-48 month,79717.92
+CUST00935,Sneha Gupta,Other,77,Maharashtra,Pune,52,Basic,1738.02,84350.16,One Year,Credit Card,Fiber Optic,No,Yes,Accounts,No,10/7/2025,Senior,0,1738.02,49-72 month,90377.04
+CUST00936,Amit Malhotra,Male,80,Delhi,New Delhi,67,Basic,1584.54,112447.22,Monthly,Bank Transfer,5G,Yes,Yes,Billing,No,5/1/2024,Senior,0,1584.54,49-72 month,106164.18
+CUST00937,Sneha Singh,Other,68,Odisha,Bhubaneswar,31,Basic,1494.52,45349.44,One Year,Debit Card,5G,Yes,Yes,IT Support,No,6/24/2024,Senior,0,1494.52,25-48 month,46330.12
+CUST00938,Karan Khan,Other,58,Kerala,Kochi,16,Basic,1540.01,24990.33,Monthly,Bank Transfer,DSL,Yes,No,Network Operations,No,9/14/2025,Adult,0,1540.01,13-24 month,24640.16
+CUST00939,Riya Jain,Male,71,Uttarakhand,Dehradun,15,Basic,2450.76,37842.57,Two Year,Debit Card,No Internet,Yes,Yes,Network Operations,No,10/28/2024,Senior,0,2450.76,13-24 month,36761.4
+CUST00940,Aditya Verma,Male,34,Uttarakhand,Dehradun,64,Basic,1430.36,90313.82,Monthly,Auto Debit,No Internet,Yes,No,Customer Service,No,11/23/2024,Adult,0,1430.36,49-72 month,91543.04
+CUST00941,Amit Malhotra,Other,32,West Bengal,Kolkata,40,Basic,412.3,15486.29,One Year,UPI,No Internet,No,No,Sales,No,10/19/2025,Adult,0,412.3,25-48 month,16492
+CUST00942,Aditya Yadav,Female,64,Maharashtra,Pune,3,Premium,1481.14,4414.49,Monthly,Bank Transfer,No Internet,No,Yes,Accounts,No,10/18/2025,Senior,0,1481.14,0-12 month,4443.42
+CUST00943,Ananya Mehta,Female,56,Rajasthan,Jaipur,27,Basic,2124.97,61425.8,Monthly,UPI,5G,Yes,No,Customer Service,Yes,12/8/2025,Adult,1,2124.97,25-48 month,57374.19
+CUST00944,Kavya Chauhan,Female,46,Bihar,Patna,43,Standard,549.18,24179.64,One Year,Auto Debit,5G,Yes,No,Sales,No,12/28/2025,Adult,0,549.18,25-48 month,23614.74
+CUST00945,Nisha Singh,Male,33,Bihar,Patna,2,Standard,370.6,773.19,One Year,Credit Card,Fiber Optic,Yes,No,Accounts,No,5/20/2024,Adult,0,370.6,0-12 month,741.2
+CUST00946,Sneha Chauhan,Female,73,Karnataka,Bengaluru,6,Standard,1040.88,6202.64,One Year,Credit Card,Fiber Optic,No,Yes,IT Support,No,2/15/2025,Senior,0,1040.88,0-12 month,6245.28
+CUST00947,Amit Sharma,Male,61,Maharashtra,Pune,71,Premium,2487.2,171754.78,Two Year,Bank Transfer,No Internet,Yes,Yes,Technical Support,Yes,8/4/2025,Senior,1,2487.2,49-72 month,176591.2
+CUST00948,Arjun Singh,Male,28,Uttar Pradesh,Lucknow,11,Premium,1955.73,21856.43,Monthly,Cash,5G,Yes,No,Accounts,No,4/26/2025,Adult,0,1955.73,0-12 month,21513.03
+CUST00949,Neha Yadav,Female,69,Delhi,New Delhi,62,Basic,2388.56,138482.56,One Year,Auto Debit,DSL,Yes,Yes,Network Operations,No,8/30/2026,Senior,0,2388.56,49-72 month,148090.72
+CUST00950,Payal Jain,Male,41,West Bengal,Kolkata,19,Premium,1789.55,32991.18,Two Year,UPI,No Internet,Yes,No,Customer Service,No,2/14/2025,Adult,0,1789.55,13-24 month,34001.45
+CUST00951,Isha Saxena,Other,72,Madhya Pradesh,Bhopal,10,Premium,547.78,5441.63,Two Year,Bank Transfer,5G,No,Yes,Retention,No,1/30/2024,Senior,0,547.78,0-12 month,5477.8
+CUST00952,Priya Roy,Male,34,Telangana,Hyderabad,9,Standard,922.21,7922.53,Two Year,Bank Transfer,Fiber Optic,Yes,No,Sales,Yes,4/26/2024,Adult,1,922.21,0-12 month,8299.89
+CUST00953,Ishita Khan,Female,60,Gujarat,Ahmedabad,3,Basic,1678.06,4699.64,Monthly,Auto Debit,5G,Yes,Yes,Billing,No,2/27/2026,Adult,0,1678.06,0-12 month,5034.18
+CUST00954,Ananya Verma,Other,80,Haryana,Gurugram,66,Standard,1745.15,119250.67,Monthly,Credit Card,DSL,No,Yes,Network Operations,No,9/10/2026,Senior,0,1745.15,49-72 month,115179.9
+CUST00955,Ishita Joshi,Male,70,Haryana,Gurugram,15,Basic,1415.08,19719.43,Monthly,Credit Card,Fiber Optic,Yes,Yes,Accounts,Yes,4/11/2026,Senior,1,1415.08,13-24 month,21226.2
+CUST00956,Kabir Malhotra,Other,25,Madhya Pradesh,Bhopal,13,Standard,1107.3,14050.93,Two Year,Debit Card,No Internet,Yes,No,Accounts,Yes,1/9/2024,Adult,1,1107.3,13-24 month,14394.9
+CUST00957,Nisha Malhotra,Other,76,Gujarat,Ahmedabad,36,Standard,1683.25,63044.1,Two Year,Auto Debit,No Internet,No,Yes,Retention,No,9/15/2025,Senior,0,1683.25,25-48 month,60597
+CUST00958,Rahul Kumar,Male,67,Maharashtra,Mumbai,67,Basic,1321.02,92433.52,One Year,Debit Card,DSL,Yes,Yes,Accounts,No,2/8/2024,Senior,0,1321.02,49-72 month,88508.34
+CUST00959,Sneha Gupta,Female,74,Uttar Pradesh,Agra,10,Standard,2176.17,21042.53,One Year,UPI,DSL,No,Yes,IT Support,No,1/1/2025,Senior,0,2176.17,0-12 month,21761.7
+CUST00960,Amit Khan,Female,65,Rajasthan,Jaipur,63,Standard,2044.77,132952.42,Monthly,Credit Card,Fiber Optic,No,Yes,Retention,Yes,11/15/2025,Senior,1,2044.77,49-72 month,128820.51
+CUST00961,Karan Mehta,Male,22,Odisha,Bhubaneswar,1,Basic,1125.69,1037.76,Monthly,UPI,Fiber Optic,Yes,No,Customer Service,No,8/26/2025,Adult,0,1125.69,0-12 month,1125.69
+CUST00962,Vivaan Roy,Male,34,Maharashtra,Pune,70,Basic,1083.67,73880.57,Monthly,Bank Transfer,No Internet,No,No,Technical Support,No,11/24/2025,Adult,0,1083.67,49-72 month,75856.9
+CUST00963,Diya Agarwal,Male,58,Uttar Pradesh,Mathura,3,Premium,2219.12,6645.53,Monthly,Bank Transfer,Fiber Optic,Yes,No,Sales,No,7/14/2025,Adult,0,2219.12,0-12 month,6657.36
+CUST00964,Neha Yadav,Female,39,Uttarakhand,Dehradun,44,Basic,693.1,28445.66,Monthly,Unknown,DSL,Yes,No,Accounts,No,3/16/2024,Adult,0,693.1,25-48 month,30496.4
+CUST00965,Nisha Kumar,Male,70,Karnataka,Bengaluru,46,Basic,2284.3,103382.95,One Year,Bank Transfer,5G,No,Yes,Accounts,Yes,3/9/2024,Senior,1,2284.3,25-48 month,105077.8
+CUST00966,Arjun Gupta,Male,77,Kerala,Kochi,55,Standard,1161.26,67596.51,One Year,Auto Debit,No Internet,Yes,Yes,IT Support,No,6/20/2025,Senior,0,1161.26,49-72 month,63869.3
+CUST00967,Dev Saxena,Male,38,Telangana,Hyderabad,36.26310484,Standard,1192.07,55475.62,Two Year,UPI,DSL,No,No,Billing,No,2/3/2026,Adult,0,1192.07,25-48 month,43228.15939
+CUST00968,Rahul Gupta,Male,80,Uttarakhand,Dehradun,55,Premium,1268.13,67676.47,Monthly,Bank Transfer,DSL,Yes,Yes,Technical Support,No,7/18/2026,Senior,0,1268.13,49-72 month,69747.15
+CUST00969,Nisha Kumar,Female,36,Unknown,Hyderabad,55,Premium,468.9,25266.29,One Year,Credit Card,DSL,No,No,Retention,No,8/14/2026,Adult,0,468.9,49-72 month,25789.5
+CUST00970,Aarav Yadav,Other,66,Gujarat,Ahmedabad,23,Basic,408.3,9607.33,One Year,Auto Debit,5G,No,Yes,Network Operations,No,1/5/2024,Senior,0,408.3,13-24 month,9390.9
+CUST00971,Riya Agarwal,Other,68,Maharashtra,Pune,8,Basic,628.98,5195.71,Two Year,Unknown,DSL,Yes,Yes,Sales,No,11/14/2024,Senior,0,628.98,0-12 month,5031.84
+CUST00972,Diya Joshi,Other,61,Madhya Pradesh,Bhopal,52,Standard,338.18,18521.51,Monthly,Bank Transfer,No Internet,Yes,Yes,Billing,No,6/18/2024,Senior,0,338.18,49-72 month,17585.36
+CUST00973,Pooja Patel,Female,29,Uttarakhand,Dehradun,58,Standard,2110.09,113756.65,Two Year,Auto Debit,DSL,No,No,Sales,No,4/20/2024,Adult,0,2110.09,49-72 month,122385.22
+CUST00974,Pooja Roy,Male,66,Telangana,Gurugram,36.26310484,Standard,1338.01,40434.54,Two Year,Cash,5G,No,Yes,IT Support,No,9/27/2024,Senior,0,1338.01,25-48 month,48520.39691
+CUST00975,Vivaan Sharma,Male,79,Telangana,Hyderabad,10,Basic,2134.08,21160.15,Two Year,Debit Card,DSL,Yes,Yes,Sales,Yes,1/23/2025,Senior,1,2134.08,0-12 month,21340.8
+CUST00976,Rohan,Male,75,Haryana,Gurugram,10,Basic,1408.815,14978.33,Monthly,UPI,Fiber Optic,No,Yes,Customer Service,No,12/27/2025,Senior,0,1408.815,0-12 month,14088.15
+CUST00977,Amit Patel,Other,69,Rajasthan,Jaipur,25,Standard,1266.46,30136.87,Monthly,Bank Transfer,No Internet,No,Yes,Billing,Yes,11/26/2025,Senior,1,1266.46,25-48 month,31661.5
+CUST00978,Ananya Mehta,Other,49,West Bengal,Kolkata,24,Premium,2072.24,52261.54,Monthly,Debit Card,No Internet,Yes,No,IT Support,No,9/3/2026,Adult,0,2072.24,13-24 month,49733.76
+CUST00979,Amit Jain,Other,80,Telangana,Hyderabad,32,Basic,608.89,20774.96,One Year,Cash,DSL,No,Yes,Retention,No,9/22/2025,Senior,0,608.89,25-48 month,19484.48
+CUST00980,Vihaan Mehta,Female,46,Kerala,Kochi,11,Standard,658.74,7512.11,Monthly,Debit Card,No Internet,Yes,No,IT Support,No,6/1/2025,Adult,0,658.74,0-12 month,7246.14
+CUST00981,Rahul Patel,Male,47,Kerala,Kochi,65,Basic,1408.815,83949.12,Two Year,UPI,DSL,No,No,Technical Support,No,9/4/2026,Adult,0,1408.815,49-72 month,91572.975
+CUST00982,Sneha Yadav,Female,30,Punjab,New Delhi,46,Standard,811.74,38247.18,Two Year,UPI,No Internet,No,No,Accounts,No,6/3/2025,Adult,0,811.74,25-48 month,37340.04
+CUST00983,Priya Mehta,Female,71,Delhi,New Delhi,40,Basic,1086.63,44512.98,Monthly,Bank Transfer,DSL,Yes,Yes,Technical Support,Yes,1/31/2026,Senior,1,1086.63,25-48 month,43465.2
+CUST00984,Kavya Das,Male,51,Rajasthan,Jaipur,13,Standard,626.85,8309.86,Monthly,UPI,DSL,No,No,Billing,Yes,11/23/2024,Adult,1,626.85,13-24 month,8149.05
+CUST00985,Meera Yadav,Female,42,Maharashtra,Mumbai,45,Basic,553.82,24341.48,One Year,Unknown,5G,Yes,No,Sales,No,1/20/2026,Adult,0,553.82,25-48 month,24921.9
+CUST00986,Mohan,Female,37,Unknown,Bhubaneswar,39,Premium,661.61,40434.54,One Year,Debit Card,Fiber Optic,Yes,No,Sales,Yes,7/21/2025,Adult,1,661.61,25-48 month,25802.79
+CUST00987,Aarav Saxena,Female,65,Uttar Pradesh,Kanpur,36.26310484,Premium,663.88,31917.61,One Year,Auto Debit,Fiber Optic,No,Yes,Network Operations,No,1/7/2024,Senior,0,663.88,25-48 month,24074.35004
+CUST00988,Ishita Verma,Male,56,Uttar Pradesh,Mathura,24,Standard,2068.43,53449.57,Monthly,UPI,DSL,No,No,Billing,Yes,8/8/2026,Adult,1,2068.43,13-24 month,49642.32
+CUST00989,Rahul Mishra,Other,35,Uttarakhand,Dehradun,64,Basic,1007.35,69200.2,One Year,Auto Debit,Fiber Optic,No,No,Sales,Yes,2/16/2025,Adult,1,1007.35,49-72 month,64470.4
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
