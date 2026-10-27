@@ -60,7 +60,7 @@ The project explores customer churn patterns and retention trends.
 
 ## Dashboard Preview
 
- Customer_Churn_Dashboard.png
+ ![Customer Churn Analysis Dashboard](./Customer_Churn_Dashboard.png)
 
 ##  Author
 
