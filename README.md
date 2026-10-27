@@ -58,6 +58,10 @@ The project explores customer churn patterns and retention trends.
   - Customer_Churn_Analysis_DAX_Queries.txt - DAX measures
   - Customer_Churn_Analysis_Dashboard.pbix -Power BI dashboard
 
+## Dashboard Preview
+
+ Customer_Churn_Dashboard.png
+
 ##  Author
 
 Payal Sharma
